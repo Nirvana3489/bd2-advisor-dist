@@ -1,0 +1,71 @@
+{
+ "as_of": "2026-08",
+ "as_of_note": "og:title 标注 August 2026；页面 content modified 2025-12-29。取 2026-08 为名义时效，置信度=中（双日期不一致，引用时提示用户）",
+ "source": "https://dotgg.gg/brown-dust-2/pve-tier-list/",
+ "scope": "PvE 攻击手 tier（按元素分列）+ 辅助/功能位清单 + 配队通则",
+ "meta_rule": "主流 PvE 配队 = 3 辅助 + 1 主攻击手 + 1 自由位（第二攻击手或功能位）",
+ "pve_attackers": {
+  "S": [
+   {"name": "Darian", "element": "Fire"}, {"name": "Morpeah", "element": "Fire", "trend": "rising"},
+   {"name": "Sylvia", "element": "Fire"}, {"name": "Wilhelmina", "element": "Fire", "trend": "rising"},
+   {"name": "Levia", "element": "Water", "trend": "rising"}, {"name": "Liatris", "element": "Water"},
+   {"name": "Loen", "element": "Water"}, {"name": "Rubia", "element": "Water"},
+   {"name": "Hikage", "element": "Wind", "note": "LC"}, {"name": "Nebris", "element": "Wind"},
+   {"name": "Tyr", "element": "Wind"}, {"name": "Venaka", "element": "Wind", "trend": "rising"},
+   {"name": "Michaela", "element": "Light"}, {"name": "Sacred Justia", "element": "Light"},
+   {"name": "Olivier", "element": "Light"}, {"name": "Ventana", "element": "Light", "trend": "falling"},
+   {"name": "Yuri", "element": "Light"},
+   {"name": "Blade", "element": "Dark", "trend": "rising"}, {"name": "Eleaneer", "element": "Dark"},
+   {"name": "Sonya", "element": "Dark"}
+  ],
+  "A": [
+   {"name": "Rafina", "element": "Fire"}, {"name": "Scheherazade", "element": "Fire", "trend": "rising"},
+   {"name": "Yumi", "element": "Fire", "note": "LC"},
+   {"name": "Anastasia", "element": "Water"}, {"name": "Eris", "element": "Water", "note": "LC"},
+   {"name": "Elise", "element": "Water"},
+   {"name": "Dalvi", "element": "Wind"}, {"name": "Yozakura", "element": "Wind", "note": "LC"},
+   {"name": "Angelica", "element": "Light"},
+   {"name": "Eclipse", "element": "Dark"}, {"name": "Luvencia", "element": "Dark", "trend": "rising"},
+   {"name": "Nartas", "element": "Dark", "trend": "falling"}
+  ],
+  "B": [
+   {"name": "Roxy", "element": "Fire", "note": "LC"},
+   {"name": "Alec", "element": "Water"}, {"name": "Lathel", "element": "Water"},
+   {"name": "Gray", "element": "Wind"}, {"name": "High Elf Archer", "element": "Wind", "note": "LC 联动"},
+   {"name": "Yomi", "element": "Wind", "note": "LC"},
+   {"name": "Sword Maiden", "element": "Light", "note": "LC"}, {"name": "Justia", "element": "Light"},
+   {"name": "Priestess", "element": "Light", "note": "LC 联动"},
+   {"name": "RouRou", "element": "Dark"}
+  ],
+  "C": [
+   {"name": "Glacia", "element": "Fire"},
+   {"name": "Goblin Slayer", "element": "Water", "note": "LC 联动"},
+   {"name": "Zenith", "element": "Wind", "trend": "rising"},
+   {"name": "Celia", "element": "Dark", "trend": "rising"}
+  ]
+ },
+ "pve_supporters": [
+  {"name": "Arines", "note": "暴伤 buff 35~50%，3×5 范围，配 One-To-Four"},
+  {"name": "Baiso", "note": "全员 ATK+35~65% 且 HP+45~75%"},
+  {"name": "Venaka", "note": "SP 回复+1（槽位 7 优先、次选 11）"},
+  {"name": "Teresse", "note": "唯一 ATK+55~85% 且带暴击 buff+基础属性 buff 的辅助"},
+  {"name": "Helena", "note": "ATK+40~70% 且敌方受伤+15~30%"},
+  {"name": "Refithea", "note": "ATK+30~60% + HP 护盾 25~40% + SP+1"},
+  {"name": "Cinnamon", "note": "ATK+30~60% + 治疗 20~30% + 暴伤+30 点"},
+  {"name": "Angelica", "note": "敌方受伤+20~35% + 治疗 20~30%，配 One-To-Four"},
+  {"name": "Liberta", "note": "buff 移除无敌 9~24h、ATK+40~70%、SP+1，槽位 8 优先"},
+  {"name": "Olstein", "note": "受伤减免 20~35% + 基础属性 buff 20~30% + 治疗 15~30%"}
+ ],
+ "pve_utility": [
+  {"name": "Rafina", "note": "buff 移除 9~24h"},
+  {"name": "Scheherazade", "note": "沉默 9~24h"},
+  {"name": "Lecliss", "note": "DEF 降低 25~50%、嘲讽、打乱敌方阵型"},
+  {"name": "Nebris", "note": "DEF 降低 20~35%、干扰敌方 SP"},
+  {"name": "Gray", "note": "buff 移除 9~24h"},
+  {"name": "Nartas", "note": "DEF 降低 20~35% + DOT 伤害 20~35%"},
+  {"name": "RouRou", "note": "DOT+20~35%、DEF 降低、受伤增加（需 LC 限定服装）"}
+ ],
+ "excluded": {
+  "pvp_mirror_wars": "DotGG Mirror Wars tier 页 og 数据显示为 2023-10 旧文（数据陈旧），按 §6.2 时效规则排除，待找到新源再补"
+ }
+}

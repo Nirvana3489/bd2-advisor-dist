@@ -1,0 +1,3410 @@
+[
+ {
+  "id": 1,
+  "name": "Mercenary Sword",
+  "grades": "N",
+  "type": "Crafted",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 2,
+  "name": "Mercenary Gloves",
+  "grades": "N",
+  "type": "Crafted",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK%",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 3,
+  "name": "Mercenary Armor",
+  "grades": "N",
+  "type": "Crafted",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4,
+  "name": "Mercenary Helm",
+  "grades": "N",
+  "type": "Crafted",
+  "part": "Helmet",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 5,
+  "name": "Mercenary Necklace",
+  "grades": "N",
+  "type": "Crafted",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit Rate",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 11,
+  "name": "Knight's Sword",
+  "grades": "R",
+  "type": "Crafted",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 12,
+  "name": "Knight's Gloves",
+  "grades": "R",
+  "type": "Crafted",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK%",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 13,
+  "name": "Knight's Armor",
+  "grades": "R",
+  "type": "Crafted",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 14,
+  "name": "Knight's Helm",
+  "grades": "R",
+  "type": "Crafted",
+  "part": "Helmet",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 15,
+  "name": "Knight's Necklace",
+  "grades": "R",
+  "type": "Crafted",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit Rate",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 21,
+  "name": "Hero's Sword",
+  "grades": "SR",
+  "type": "Crafted",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 22,
+  "name": "Hero's Gloves",
+  "grades": "SR",
+  "type": "Crafted",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK%",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 23,
+  "name": "Hero's Armor",
+  "grades": "SR",
+  "type": "Crafted",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 24,
+  "name": "Hero's Helm",
+  "grades": "SR",
+  "type": "Crafted",
+  "part": "Helmet",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 25,
+  "name": "Hero's Necklace",
+  "grades": "SR",
+  "type": "Crafted",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit Rate",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 103,
+  "name": "Artha Lugo",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Lathel",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 201,
+  "name": "Royaldite",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Justia",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 301,
+  "name": "Plentithoum",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Scheherazade",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 401,
+  "name": "Diathema",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Crit DMG",
+  "exclusive_gear_of": "Gray",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 502,
+  "name": "Dark Restraint",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Crit Rate",
+  "exclusive_gear_of": "Rou",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 604,
+  "name": "Verum Lux",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Helmet",
+  "damage_type": "Neutral",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "HP%",
+  "exclusive_gear_of": "Olstein",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 1102,
+  "name": "Mercenary Staff",
+  "grades": "N",
+  "type": "Crafted",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 1202,
+  "name": "Mercenary Bracelet",
+  "grades": "N",
+  "type": "Crafted",
+  "part": "Gloves",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK%",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 1302,
+  "name": "Mercenary Robe",
+  "grades": "N",
+  "type": "Crafted",
+  "part": "Armor",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 1402,
+  "name": "Mercenary Circlet",
+  "grades": "N",
+  "type": "Crafted",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 1502,
+  "name": "Mercenary Ring",
+  "grades": "N",
+  "type": "Crafted",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 2102,
+  "name": "Knight's Staff",
+  "grades": "R",
+  "type": "Crafted",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 2202,
+  "name": "Knight's Bracelet",
+  "grades": "R",
+  "type": "Crafted",
+  "part": "Gloves",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK%",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 2302,
+  "name": "Knight's Robe",
+  "grades": "R",
+  "type": "Crafted",
+  "part": "Armor",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 2402,
+  "name": "Knight's Circlet",
+  "grades": "R",
+  "type": "Crafted",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 2502,
+  "name": "Knight's Ring",
+  "grades": "R",
+  "type": "Crafted",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 3102,
+  "name": "Hero's Staff",
+  "grades": "SR",
+  "type": "Crafted",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 3202,
+  "name": "Hero's Bracelet",
+  "grades": "SR",
+  "type": "Crafted",
+  "part": "Gloves",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK%",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 3302,
+  "name": "Hero's Robe",
+  "grades": "SR",
+  "type": "Crafted",
+  "part": "Armor",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 3402,
+  "name": "Hero's Circlet",
+  "grades": "SR",
+  "type": "Crafted",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 3502,
+  "name": "Hero's Ring",
+  "grades": "SR",
+  "type": "Crafted",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": null,
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4101,
+  "name": "Evil Dragon's Blade",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK",
+  "basic_stat2": "Crit DMG",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4102,
+  "name": "Hammer of Thunder",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK",
+  "basic_stat2": "ATK%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4103,
+  "name": "Peerless Javelin",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK",
+  "basic_stat2": "ATK",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4104,
+  "name": "Travel God's Friend",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK",
+  "basic_stat2": "Crit DMG",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4105,
+  "name": "Eye of the Destroyer",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK",
+  "basic_stat2": "Magic ATK%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4106,
+  "name": "Demon's Forbidden Book",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK",
+  "basic_stat2": "Magic ATK",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4201,
+  "name": "God-King's Silver Arm",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK%",
+  "basic_stat2": "ATK%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4202,
+  "name": "Rebellion",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK%",
+  "basic_stat2": "Crit Rate",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4203,
+  "name": "Prime Authority",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK%",
+  "basic_stat2": "ATK",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4204,
+  "name": "Ring of Fury",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Gloves",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK%",
+  "basic_stat2": "Crit Rate",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4205,
+  "name": "Dragon's Scale Protection",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Gloves",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK%",
+  "basic_stat2": "Magic ATK",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4206,
+  "name": "Shackle of Treachery",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Gloves",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK%",
+  "basic_stat2": "Magic ATK%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4301,
+  "name": "Invulnerable Armor",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "DEF",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4302,
+  "name": "Scale of the Sea God",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "HP",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4303,
+  "name": "Immortal Golden Armor",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4304,
+  "name": "Fiend Guard",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Armor",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "Magic Resist",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4305,
+  "name": "Death's Shroud",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Armor",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "HP",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4306,
+  "name": "Hellfire Robe",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Armor",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4401,
+  "name": "Helm of Carnage",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Helmet",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "DEF",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4402,
+  "name": "Undefeated Glory",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Helmet",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "HP",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4403,
+  "name": "Helm of Death",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Helmet",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4404,
+  "name": "Radiant Wisdom",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "Magic Resist",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4405,
+  "name": "Solar Brilliance",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "HP",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4406,
+  "name": "Crown of Galaxy",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4501,
+  "name": "Warmth of the Brazier",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit Rate",
+  "basic_stat2": "Crit Rate",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4502,
+  "name": "Pinnacle of Aesthetics",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit Rate",
+  "basic_stat2": "HP",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4503,
+  "name": "Promise of Harmony",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit Rate",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4504,
+  "name": "Venomous Touch",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": "Crit DMG",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4505,
+  "name": "Ring of the Lake",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": "HP",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4506,
+  "name": "Charming Gaze",
+  "grades": "UR",
+  "type": "Crafted",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9007,
+  "name": "Star Caller Ornament",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Accessory",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Eclipse",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9008,
+  "name": "Carneliana",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Rubia",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9009,
+  "name": "Arbalest",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Remnunt",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9010,
+  "name": "Primulan",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Sylvia",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9011,
+  "name": "Gravior",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "HP%",
+  "exclusive_gear_of": "Teresse",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9012,
+  "name": "Lunar Piercer",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Crit DMG",
+  "exclusive_gear_of": "Liatris",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9013,
+  "name": "Handmade",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Gynt",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9014,
+  "name": "Lugo Shirt",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Armor",
+  "damage_type": "Neutral",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "HP%",
+  "exclusive_gear_of": "Fred",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9015,
+  "name": "Amitie",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Accessory",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK",
+  "exclusive_gear_of": "Lisianne",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9016,
+  "name": "Stealer Hand",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Bernie",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9024,
+  "name": "White Pixie",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Helmet",
+  "damage_type": "Neutral",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "HP%",
+  "exclusive_gear_of": "Diana",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9030,
+  "name": "Pigsmith",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Layla",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9601,
+  "name": "Dangerous Bomb",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Wiggle",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9602,
+  "name": "Winged Skull",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Accessory",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Lucrezia",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9603,
+  "name": "Predator",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Alec",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9604,
+  "name": "Terra Concealer",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Accessory",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK",
+  "exclusive_gear_of": "Celia",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9605,
+  "name": "M.A.I.D C",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Crit DMG",
+  "exclusive_gear_of": "Anastasia",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9606,
+  "name": "Soul Curtana",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Helmet",
+  "damage_type": "Neutral",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "HP%",
+  "exclusive_gear_of": "Lecliss",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9607,
+  "name": "E.P.G",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK",
+  "exclusive_gear_of": "Rafina",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9608,
+  "name": "Rose Selection",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK",
+  "exclusive_gear_of": "Elise",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9609,
+  "name": "Arch Demons",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "HP%",
+  "exclusive_gear_of": "Seir",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9610,
+  "name": "Top Idol",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK",
+  "exclusive_gear_of": "Helena",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9611,
+  "name": "Freischutz",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Eleaneer",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9614,
+  "name": "Rabbit Ranger",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "HP%",
+  "exclusive_gear_of": "Zenith",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9619,
+  "name": "Seventh Hell",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Gloves",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK",
+  "exclusive_gear_of": "Samay",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9620,
+  "name": "Demon's Suit",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Armor",
+  "damage_type": "Neutral",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "HP%",
+  "exclusive_gear_of": "Andrew",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9621,
+  "name": "Crying Devil",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Crit Rate",
+  "exclusive_gear_of": "Kry",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9625,
+  "name": "Ruiner",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Maria",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9626,
+  "name": "Holy Gaze",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Helmet",
+  "damage_type": "Neutral",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "HP",
+  "exclusive_gear_of": "Arines",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9627,
+  "name": "J Collection",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Accessory",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK",
+  "exclusive_gear_of": "Jayden",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9628,
+  "name": "Scholar's Emblem",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Crit Rate",
+  "exclusive_gear_of": "Emma",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9630,
+  "name": "Double Trouble",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK",
+  "exclusive_gear_of": "Ingrid",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9633,
+  "name": "Frozen Ruby",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Accessory",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Cynthia",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9634,
+  "name": "Spirit Ribbon",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK",
+  "exclusive_gear_of": "Julie",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9647,
+  "name": "Evoren Guard",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Armor",
+  "damage_type": "Neutral",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "HP%",
+  "exclusive_gear_of": "Carlson",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9648,
+  "name": "Simple Spear",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Lydia",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9649,
+  "name": "Hunter's Bow",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK",
+  "exclusive_gear_of": "Rigenette",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9650,
+  "name": "Earth Shaker",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Beatrice",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9651,
+  "name": "Black Snow Tiger Sword",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Crit DMG",
+  "exclusive_gear_of": "Yuri",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9664,
+  "name": "Evil Sword Jormun",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Crit DMG",
+  "exclusive_gear_of": "Angelica",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9669,
+  "name": "Frost Queen",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic Resist",
+  "exclusive_gear_of": "Glacia",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9670,
+  "name": "Evil Sword Purple Moon",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Crit DMG",
+  "exclusive_gear_of": "Ventana",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9671,
+  "name": "Seal of Hell",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Gloves",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Nartas",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9672,
+  "name": "Thousand-year-old Hairpin",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Dalvi",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9673,
+  "name": "Freinir",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "HP%",
+  "exclusive_gear_of": "Granhildr",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9674,
+  "name": "Little Fairy",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Armor",
+  "damage_type": "Neutral",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic Resist",
+  "exclusive_gear_of": "Refithea",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9675,
+  "name": "Arkrasion",
+  "grades": "R, SR, UR",
+  "type": "Exclusive",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "HP%",
+  "exclusive_gear_of": "Elpis",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9676,
+  "name": "Lost Magic",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Loen",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9677,
+  "name": "Roxy's Staff",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Roxy",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9678,
+  "name": "Eris's Sword",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Eris",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9679,
+  "name": "Moon Shadow",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Nebris",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9680,
+  "name": "Sing in Harmony",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Venaka",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9681,
+  "name": "Mistilteinn",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Sacred Justia",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9682,
+  "name": "Tome of Liberation",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Levia",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9683,
+  "name": "La Hypnos",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Accessory",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Morpeah",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9684,
+  "name": "Prelude",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK",
+  "exclusive_gear_of": "Michaela",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9685,
+  "name": "Tyrfing",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Olivier",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9686,
+  "name": "Roaring Sword - Ragnarok",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK",
+  "exclusive_gear_of": "Yomi",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9687,
+  "name": "Expandable Pile Bunker Gauntlets",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Yozakura",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9688,
+  "name": "Kurokage's Fan",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK",
+  "exclusive_gear_of": "Yumi",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9689,
+  "name": "Hinata's Knife",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Crit DMG",
+  "exclusive_gear_of": "Hikage",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9690,
+  "name": "Superbia",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK",
+  "exclusive_gear_of": "Luvencia",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9691,
+  "name": "Blade",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Blade",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9692,
+  "name": "Dark Rosarium",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "HP%",
+  "exclusive_gear_of": "Liberta",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9693,
+  "name": "Short Sword",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Goblin Slayer",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9694,
+  "name": "Staff",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Priestess",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9695,
+  "name": "Yew Wood Bow",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Crit DMG",
+  "exclusive_gear_of": "High Elf Archer",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9696,
+  "name": "Sword-and-Scales Staff",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK",
+  "exclusive_gear_of": "Sword Maiden",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9697,
+  "name": "Fleur Stinger",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Crit DMG",
+  "exclusive_gear_of": "Wilhelmina",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9698,
+  "name": "Ater Hecate",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Accessory",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Sonya",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9699,
+  "name": "Revelatio",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Darian",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9700,
+  "name": "Brionac",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Crit DMG",
+  "exclusive_gear_of": "Tyr",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9701,
+  "name": "Glutti Queen",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Armor",
+  "damage_type": "Neutral",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "HP%",
+  "exclusive_gear_of": "Granadair",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9702,
+  "name": "Delineo",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Palette",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9703,
+  "name": "Grim Surge",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "HP%",
+  "exclusive_gear_of": "Mamonir",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9704,
+  "name": "The Exquisite Hien",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Crit DMG",
+  "exclusive_gear_of": "Ikaruga",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9705,
+  "name": "Leukos Leipsana",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Nekyndalia",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9706,
+  "name": "Kyouka's Sword",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK%",
+  "exclusive_gear_of": "Kyouka Uzen",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9707,
+  "name": "Tenka's Earring",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Tenka Izumo",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9708,
+  "name": "Ren's Hair Accessory",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "Magic ATK%",
+  "exclusive_gear_of": "Ren Yamashiro",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9709,
+  "name": "Blood Devourer",
+  "grades": "SR, UR",
+  "type": "Exclusive",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": null,
+  "basic_stat2": null,
+  "exclusive_stat": "ATK",
+  "exclusive_gear_of": "Aquila",
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20001,
+  "name": "Sirius S",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK",
+  "basic_stat2": "Crit DMG",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20002,
+  "name": "Rex Head",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Helmet",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "DEF",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20003,
+  "name": "Blessing of Spring",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Armor",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "Magic Resist",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20004,
+  "name": "Demon Devourer",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Gloves",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK%",
+  "basic_stat2": "Magic ATK",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20005,
+  "name": "Fiery Tiger Jade",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": "Crit DMG",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20006,
+  "name": "Blue Destroyer",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK",
+  "basic_stat2": "Crit DMG",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20007,
+  "name": "Dream Taker",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "Magic Resist",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20008,
+  "name": "Talos Soma",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "DEF",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20009,
+  "name": "Beast's Clutch",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK%",
+  "basic_stat2": "Crit Rate",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20010,
+  "name": "Summer Romance",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit Rate",
+  "basic_stat2": "HP",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20011,
+  "name": "Sirius H",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Helmet",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "HP",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20012,
+  "name": "Chonky Cat Suit",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "HP",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20013,
+  "name": "Spring's Resolve",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK",
+  "basic_stat2": "ATK",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20014,
+  "name": "Crab's Charm",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": "HP",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20015,
+  "name": "Sword of Extinction",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK",
+  "basic_stat2": "Crit DMG",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20016,
+  "name": "Mirror of Divine Punishment",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK",
+  "basic_stat2": "Crit DMG",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20017,
+  "name": "Rex Nail",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK%",
+  "basic_stat2": "ATK%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20018,
+  "name": "Fiery Tiger Bloody Cloud",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Helmet",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20019,
+  "name": "Flesh Tank",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20020,
+  "name": "Blue Glutton",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20021,
+  "name": "Lv. E Gauntlet",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Gloves",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK%",
+  "basic_stat2": "Magic ATK%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20022,
+  "name": "Talos Zoe",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Helmet",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "DEF",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20023,
+  "name": "B-Laser",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK",
+  "basic_stat2": "Magic ATK%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20024,
+  "name": "Chonky Cat Bell",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit Rate",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20025,
+  "name": "Frost Armor",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "DEF",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20026,
+  "name": "Demon Watcher",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "HP",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20027,
+  "name": "Crown of the Viper",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Helmet",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "DEF",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20028,
+  "name": "Spring Wish",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Gloves",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK%",
+  "basic_stat2": "Crit Rate",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20029,
+  "name": "Proof of Deep Faith",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Armor",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "HP",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20030,
+  "name": "Dream Crusher",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK",
+  "basic_stat2": "Crit DMG",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20031,
+  "name": "Shadow's Tears",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit Rate",
+  "basic_stat2": "HP",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20032,
+  "name": "Blood Collector",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK%",
+  "basic_stat2": "ATK",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20033,
+  "name": "Death Whistle",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": "Crit DMG",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20034,
+  "name": "Summer Party",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Armor",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "Magic Resist",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20035,
+  "name": "Sirius G",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK%",
+  "basic_stat2": "ATK%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20036,
+  "name": "Flamingo Crown",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Helmet",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "DEF",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20037,
+  "name": "Blue Tyrant",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20038,
+  "name": "Fog of Bitterness",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK",
+  "basic_stat2": "Crit DMG",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20039,
+  "name": "Crab's Hand",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK%",
+  "basic_stat2": "Crit Rate",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20040,
+  "name": "Emergency Whistle",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit Rate",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20041,
+  "name": "Shadow's Mask",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "Magic Resist",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20042,
+  "name": "White Night Dagger",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK",
+  "basic_stat2": "ATK",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20043,
+  "name": "Beast's Spirit",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20044,
+  "name": "Talos Mys",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK%",
+  "basic_stat2": "ATK",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20045,
+  "name": "Peekaboo Pumpkin Wand",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK",
+  "basic_stat2": "Magic ATK",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20046,
+  "name": "Breastplate of the Viper",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "DEF",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20047,
+  "name": "Lv. E Tag",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": "Crit DMG",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20048,
+  "name": "Ashen Helm",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "HP",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20049,
+  "name": "Breath of the Severe Cold",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK%",
+  "basic_stat2": "ATK%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20050,
+  "name": "Crown of Frost",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Helmet",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "HP",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20051,
+  "name": "Flash Claw",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK",
+  "basic_stat2": "Magic ATK%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20052,
+  "name": "Shadow's Touch",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Weapon",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK%",
+  "basic_stat2": "Magic ATK",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20053,
+  "name": "Tactical Circuit",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20054,
+  "name": "Scrap Armor",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20055,
+  "name": "Complex Throne",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "Magic Resist",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20056,
+  "name": "Crystal Magatama",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": "Crit DMG",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20057,
+  "name": "Spirit-Suppressing Ring",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20058,
+  "name": "Chonky Cat Paw",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Gloves",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK%",
+  "basic_stat2": "ATK",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20059,
+  "name": "Twisted Costume",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Armor",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20060,
+  "name": "Giant Net Gun",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK",
+  "basic_stat2": "Crit DMG",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20061,
+  "name": "Mermaid Bangle",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20062,
+  "name": "Summer Dream",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Helmet",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic Resist",
+  "basic_stat2": "Magic Resist",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20063,
+  "name": "Viper Whip",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Weapon",
+  "damage_type": "Physical",
+  "basic_stat1": "ATK",
+  "basic_stat2": "ATK%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20066,
+  "name": "Vengeful Demon Hand",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Gloves",
+  "damage_type": "Magical",
+  "basic_stat1": "Magic ATK%",
+  "basic_stat2": "Crit Rate",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 200531,
+  "name": "Ring of Greed",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Accessory",
+  "damage_type": "Neutral",
+  "basic_stat1": "Crit DMG",
+  "basic_stat2": "Crit DMG",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 200611,
+  "name": "Lion Mask Breastplate",
+  "grades": "SR, UR",
+  "type": "Fiend",
+  "part": "Armor",
+  "damage_type": "Physical",
+  "basic_stat1": "DEF",
+  "basic_stat2": "HP%",
+  "exclusive_stat": null,
+  "exclusive_gear_of": null,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Gear"
+  ],
+  "as_of": "2026-10-01"
+ }
+]

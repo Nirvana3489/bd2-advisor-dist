@@ -1,0 +1,854 @@
+[
+ {
+  "id": 1,
+  "name": "Windy Cat",
+  "start": "2023-11-23",
+  "end": "2023-12-21",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 3,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 2,
+  "name": "Fireworks Memories",
+  "start": "2023-12-21",
+  "end": "2024-01-18",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 4,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 3,
+  "name": "Idol Fantasm",
+  "start": "2024-01-18",
+  "end": "2024-02-15",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 5,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 4,
+  "name": "Maid Impossible",
+  "start": "2024-02-15",
+  "end": "2024-02-29",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 6,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 5,
+  "name": "Android Soul",
+  "start": "2024-02-29",
+  "end": "2024-03-14",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 7,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 6,
+  "name": "School Crisis",
+  "start": "2024-03-14",
+  "end": "2024-03-28",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 8,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 7,
+  "name": "Operation M.O.E",
+  "start": "2024-03-28",
+  "end": "2024-04-11",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 9,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 8,
+  "name": "Windy Cat",
+  "start": "2024-04-11",
+  "end": "2024-04-25",
+  "is_rerun": true,
+  "fiend_hunter_season_id": 10,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 9,
+  "name": "Marry Me!",
+  "start": "2024-04-25",
+  "end": "2024-05-09",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 11,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 10,
+  "name": "Idol Fantasm",
+  "start": "2024-05-09",
+  "end": "2024-05-23",
+  "is_rerun": true,
+  "fiend_hunter_season_id": 12,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 11,
+  "name": "Ultimate Magic",
+  "start": "2024-05-22",
+  "end": "2024-06-05",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 13,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 12,
+  "name": "Scarlet Sword",
+  "start": "2024-06-06",
+  "end": "2024-06-20",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 14,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 13,
+  "name": "Post: Summer Knight",
+  "start": "2024-06-20",
+  "end": "2024-07-04",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 15,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 14,
+  "name": "Maid Impossible",
+  "start": "2024-07-04",
+  "end": "2024-07-18",
+  "is_rerun": true,
+  "fiend_hunter_season_id": 16,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 15,
+  "name": "Diet Rush",
+  "start": "2024-07-18",
+  "end": "2024-08-01",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 17,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 16,
+  "name": "School Crisis",
+  "start": "2024-07-31",
+  "end": "2024-08-14",
+  "is_rerun": true,
+  "fiend_hunter_season_id": 18,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 17,
+  "name": "Click! Click! Summer",
+  "start": "2024-08-15",
+  "end": "2024-08-29",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 19,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 18,
+  "name": "Android Soul",
+  "start": "2024-08-29",
+  "end": "2024-09-12",
+  "is_rerun": true,
+  "fiend_hunter_season_id": 20,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 19,
+  "name": "Windy Cat",
+  "start": "2024-09-12",
+  "end": "2024-09-26",
+  "is_rerun": true,
+  "fiend_hunter_season_id": 21,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 20,
+  "name": "Shinobi Road",
+  "start": "2024-10-03",
+  "end": "2024-10-17",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 23,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 21,
+  "name": "Akatsuki",
+  "start": "2024-10-17",
+  "end": "2024-10-31",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 24,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 22,
+  "name": "Carta War Z",
+  "start": "2024-10-31",
+  "end": "2024-11-14",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 25,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 23,
+  "name": "Marry Me!",
+  "start": "2024-11-21",
+  "end": "2024-12-05",
+  "is_rerun": true,
+  "fiend_hunter_season_id": 27,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 24,
+  "name": "Fireworks Memories",
+  "start": "2024-12-03",
+  "end": "2024-12-17",
+  "is_rerun": true,
+  "fiend_hunter_season_id": 28,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 25,
+  "name": "Goodbye Freedom",
+  "start": "2024-12-19",
+  "end": "2025-01-02",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 29,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 26,
+  "name": "Goodbye Freedom - Overheat",
+  "start": "2025-01-02",
+  "end": "2025-01-16",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 30,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 27,
+  "name": "Onsen Training - Legendary Graduate",
+  "start": "2025-01-16",
+  "end": "2025-01-31",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 31,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 28,
+  "name": "Onsen Training - Beyond Legend",
+  "start": "2025-01-30",
+  "end": "2025-02-13",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 32,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 29,
+  "name": "Crimson Destiny - Veil of Twilight",
+  "start": "2025-02-13",
+  "end": "2025-02-27",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 33,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 30,
+  "name": "Crimson Destiny - The Awakening",
+  "start": "2025-02-27",
+  "end": "2025-03-13",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 34,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 31,
+  "name": "DELIGHT - Sin to Ashes",
+  "start": "2025-03-13",
+  "end": "2025-03-27",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 35,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 32,
+  "name": "DELIGHT - Complex",
+  "start": "2025-03-27",
+  "end": "2025-04-10",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 36,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 33,
+  "name": "Innocent Full Moon",
+  "start": "2025-04-10",
+  "end": "2025-04-24",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 37,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 34,
+  "name": "Black New Moon",
+  "start": "2025-04-24",
+  "end": "2025-05-08",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 38,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 35,
+  "name": "Journey to Another World",
+  "start": "2025-05-08",
+  "end": "2025-05-22",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 39,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 36,
+  "name": "Goblin Doomsday",
+  "start": "2025-05-22",
+  "end": "2025-06-05",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 40,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 37,
+  "name": "Post: Summer Knight",
+  "start": "2025-06-05",
+  "end": "2025-06-19",
+  "is_rerun": true,
+  "fiend_hunter_season_id": 41,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 38,
+  "name": "Midsummer Dream",
+  "start": "2025-06-19",
+  "end": "2025-07-03",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 42,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 39,
+  "name": "Flamingo Rush",
+  "start": "2025-07-03",
+  "end": "2025-07-17",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 43,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 40,
+  "name": "Going Home",
+  "start": "2025-07-17",
+  "end": "2025-07-31",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 44,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 41,
+  "name": "White Sorrow",
+  "start": "2025-07-31",
+  "end": "2025-08-14",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 45,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 42,
+  "name": "Beauty on Duty",
+  "start": "2025-08-14",
+  "end": "2025-08-28",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 46,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 43,
+  "name": "Bikini Impossible",
+  "start": "2025-08-28",
+  "end": "2025-09-11",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 47,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 44,
+  "name": "Stigma of Dreams",
+  "start": "2025-09-11",
+  "end": "2025-09-25",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 48,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 45,
+  "name": "Starlight Child",
+  "start": "2025-09-25",
+  "end": "2025-10-10",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 49,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 46,
+  "name": "Mushoku Tensei Season 2",
+  "start": "2025-10-09",
+  "end": "2025-10-23",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 50,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 47,
+  "name": "Halloween Night",
+  "start": "2025-10-23",
+  "end": "2025-11-06",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 51,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 48,
+  "name": "Magic for Wishes",
+  "start": "2025-11-06",
+  "end": "2025-11-20",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 52,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 49,
+  "name": "Crossroads",
+  "start": "2025-11-20",
+  "end": "2025-12-04",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 53,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 50,
+  "name": "Fireworks Memories",
+  "start": "2025-12-02",
+  "end": "2025-12-16",
+  "is_rerun": true,
+  "fiend_hunter_season_id": 54,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 51,
+  "name": "Ready, Set, Hop!",
+  "start": "2025-12-16",
+  "end": "2025-12-30",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 55,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 52,
+  "name": "Ash&Dash",
+  "start": "2026-01-01",
+  "end": "2026-01-15",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 56,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 53,
+  "name": "Golden Tamago",
+  "start": "2026-01-15",
+  "end": "2026-01-29",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 57,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 54,
+  "name": "Chicken or the Egg",
+  "start": "2026-01-29",
+  "end": "2026-02-12",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 58,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 55,
+  "name": "Mart War",
+  "start": "2026-02-12",
+  "end": "2026-02-26",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 59,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 56,
+  "name": "Magical & Lyrical",
+  "start": "2026-02-26",
+  "end": "2026-03-12",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 60,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 57,
+  "name": "Psyche Artist",
+  "start": "2026-03-12",
+  "end": "2026-03-26",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 61,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 58,
+  "name": "The Erosion",
+  "start": "2026-03-26",
+  "end": "2026-04-09",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 63,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 59,
+  "name": "Shinobi Road",
+  "start": "2026-04-09",
+  "end": "2026-04-23",
+  "is_rerun": true,
+  "fiend_hunter_season_id": 64,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 60,
+  "name": "Akatsuki",
+  "start": "2026-04-23",
+  "end": "2026-05-07",
+  "is_rerun": true,
+  "fiend_hunter_season_id": 66,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 61,
+  "name": "Strange Request",
+  "start": "2026-05-07",
+  "end": "2026-05-21",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 67,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 62,
+  "name": "Dark Magica",
+  "start": "2026-05-21",
+  "end": "2026-06-04",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 68,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 63,
+  "name": "Casino Party",
+  "start": "2026-06-04",
+  "end": "2026-06-18",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 69,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 64,
+  "name": "End of Gamble",
+  "start": "2026-06-18",
+  "end": "2026-07-02",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 70,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 65,
+  "name": "Serendipity Party",
+  "start": "2026-07-02",
+  "end": "2026-07-16",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 71,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 66,
+  "name": "Fox's Gambit",
+  "start": "2026-07-16",
+  "end": "2026-07-30",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 72,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 67,
+  "name": "The Successor",
+  "start": "2026-07-30",
+  "end": "2026-08-13",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 74,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 68,
+  "name": "The Sunny Smile",
+  "start": "2026-08-13",
+  "end": "2026-08-27",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 76,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 69,
+  "name": "Untamed",
+  "start": "2026-08-27",
+  "end": "2026-09-10",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 77,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 70,
+  "name": "Eternal Chains",
+  "start": "2026-09-09",
+  "end": "2026-09-23",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 78,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": 71,
+  "name": "Time to Submit",
+  "start": "2026-09-24",
+  "end": "2026-10-08",
+  "is_rerun": false,
+  "fiend_hunter_season_id": 80,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Seasonal_Events"
+  ],
+  "as_of": "2026-10-01"
+ }
+]

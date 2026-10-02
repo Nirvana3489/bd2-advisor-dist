@@ -1,0 +1,8562 @@
+[
+ {
+  "id": "000101",
+  "character_id": "lathel",
+  "name_en": "Herb Tracker",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2023-09-13",
+    "end": "2023-09-25"
+   },
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free after starting the [[Knight of Blood]] [[pack]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2025-05-08",
+    "end": "2025-06-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-09-13",
+    "end": "2023-09-25"
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000102",
+  "character_id": "lathel",
+  "name_en": "Lonely Survivor",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Future",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-08-06",
+    "end": "2026-08-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-04-10",
+    "end": "2025-04-24"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-08-13",
+    "end": "2026-08-27"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000103",
+  "character_id": "lathel",
+  "name_en": "Homunculus",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-09-13",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-09-13",
+    "end": "2023-09-25"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-12-20",
+    "end": "2024-01-03"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-07-04",
+    "end": "2024-07-18"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-01-16",
+    "end": "2025-01-31"
+   },
+   {
+    "type": "custom",
+    "description": "Can be chosen as an option from the [[Recommended Costume Selective Ticket]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-09-25",
+    "end": "2023-10-11"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-01-03",
+    "end": "2024-01-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-06-20",
+    "end": "2024-07-04"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-07-18",
+    "end": "2024-08-01"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-01-31",
+    "end": "2025-02-13"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000104",
+  "character_id": "lathel",
+  "name_en": "Dark Knight",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "ETC",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-12-16",
+    "end": "2025-12-23"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2024-02-28",
+    "end": "2024-03-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-12-30",
+    "end": "2026-01-15"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000105",
+  "character_id": "lathel",
+  "name_en": "Promise of Vengeance",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "3 copies obtained for free after completing the [[Fury Angel]] [[pack]] on all difficulties (1 for each difficulty).",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-09-12",
+    "end": "2024-10-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-07-17",
+    "end": "2025-07-31"
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000106",
+  "character_id": "lathel",
+  "name_en": "Pool Party",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-08-02",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free from a log-in event after the release of the [[Summer Knight]] [[pack]].",
+    "start": "2023-08-02",
+    "end": "2023-09-06"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-08-16",
+    "end": "2023-08-30"
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000201",
+  "character_id": "justia",
+  "name_en": "Knight of Blood",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free from a quest during the [[Knight of Blood]] [[pack]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-09-25",
+    "end": "2023-10-11"
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000202",
+  "character_id": "justia",
+  "name_en": "White Reaper",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2023-10-11",
+    "end": "2023-10-25"
+   },
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free from a quest during the [[Knight of Blood]] [[pack]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-01-17",
+    "end": "2024-01-31"
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000203",
+  "character_id": "justia",
+  "name_en": "Blood Glutton",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "ETC",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-02-07",
+    "end": "2024-02-21"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-03-20",
+    "end": "2025-04-03"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2023-10-11",
+    "end": "2023-11-08"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2024-06-20",
+    "end": "2024-07-18"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-02-28",
+    "end": "2024-03-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-04-10",
+    "end": "2025-04-24"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000204",
+  "character_id": "justia",
+  "name_en": "Kendo Club",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "School",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-06-22",
+    "end": "2023-07-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-07-05",
+    "end": "2023-07-19"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-04-24",
+    "end": "2024-05-08"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000206",
+  "character_id": "justia",
+  "name_en": "Pool Party",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 3,
+  "release_date": "2023-08-02",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": true,
+  "has_prestige": true,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-08-02",
+    "end": "2023-08-23"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-07-04",
+    "end": "2024-07-18"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-06-19",
+    "end": "2025-07-17"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-06-04",
+    "end": "2026-07-02"
+   },
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free after completing the [[Summer Knight]] [[pack]].",
+    "start": "2023-08-02",
+    "end": null
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-08-30",
+    "end": "2023-09-13"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000301",
+  "character_id": "scheherazade",
+  "name_en": "The Lapis Witch",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-05-29",
+    "end": "2024-06-12"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-05-15",
+    "end": "2025-05-29"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2024-01-31",
+    "end": "2024-02-14"
+   },
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free from a quest during the [[Lapis Witch]] [[pack]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2026-07-02",
+    "end": "2026-07-30"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-03-27",
+    "end": "2024-04-10"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-06-20",
+    "end": "2024-07-04"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-01-31",
+    "end": "2025-02-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-06-05",
+    "end": "2025-06-19"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000303",
+  "character_id": "scheherazade",
+  "name_en": "The Magic School Professor",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "ETC",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-04-03",
+    "end": "2024-04-17"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2023-12-06",
+    "end": "2024-01-03"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2024-08-14",
+    "end": "2024-09-12"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-04-24",
+    "end": "2024-05-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-06-19",
+    "end": "2025-07-03"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-05-21",
+    "end": "2026-06-04"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000304",
+  "character_id": "scheherazade",
+  "name_en": "Code Name S",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-06-22",
+    "end": "2023-07-05"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-04-17",
+    "end": "2025-05-01"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2025-12-16",
+    "end": "2026-01-15"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-07-05",
+    "end": "2023-07-19"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-11-22",
+    "end": "2023-12-06"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-05-22",
+    "end": "2024-06-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-05-08",
+    "end": "2025-05-22"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000306",
+  "character_id": "scheherazade",
+  "name_en": "Pool Party",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 3,
+  "release_date": "2023-08-10",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": true,
+  "has_prestige": true,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-08-09",
+    "end": "2023-08-30"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-06-20",
+    "end": "2024-07-04"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-08-14",
+    "end": "2025-09-11"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-06-04",
+    "end": "2026-07-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-08-30",
+    "end": "2023-09-13"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000401",
+  "character_id": "gray",
+  "name_en": "The Sharpshooter of the Mist",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2023-11-08",
+    "end": "2023-11-22"
+   },
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free from a quest during the [[Mist Man]] [[pack]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2025-10-23",
+    "end": "2025-11-20"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2026-05-07",
+    "end": "2026-06-04"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-10-25",
+    "end": "2023-11-08"
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000402",
+  "character_id": "gray",
+  "name_en": "B-Rank Manager",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-07-06",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2023-11-08",
+    "end": "2023-12-06"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2024-01-17",
+    "end": "2024-02-14"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-08-02",
+    "end": "2023-08-16"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-02-13",
+    "end": "2025-02-27"
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000403",
+  "character_id": "gray",
+  "name_en": "Vanguard",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "ETC",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-12-30",
+    "end": "2026-01-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-10-11",
+    "end": "2023-10-25"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-04-10",
+    "end": "2024-04-24"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-06-05",
+    "end": "2025-06-19"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-01-15",
+    "end": "2026-01-29"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000406",
+  "character_id": "gray",
+  "name_en": "Pool Party",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-08-02",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-07-09",
+    "end": "2026-07-16"
+   },
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free for a limited time after completing the [[Summer Knight]] [[pack]].",
+    "start": "2023-08-02",
+    "end": "2023-09-06"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-08-16",
+    "end": "2023-08-30"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-07-16",
+    "end": "2026-07-30"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000501",
+  "character_id": "rou",
+  "name_en": "White Cat",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-08-01",
+    "end": "2024-08-14"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2026-05-07",
+    "end": "2026-05-21"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2023-12-20",
+    "end": "2024-01-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-07-19",
+    "end": "2023-08-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-08-14",
+    "end": "2024-08-29"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000502",
+  "character_id": "rou",
+  "name_en": "Red Riding Hood",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-09-26",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Fairy Tale",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-09-25",
+    "end": "2023-10-11"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-04-24",
+    "end": "2024-05-08"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2025-04-10",
+    "end": "2025-05-08"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2024-10-31",
+    "end": "2024-12-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-10-11",
+    "end": "2023-10-25"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-05-08",
+    "end": "2024-05-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-12-30",
+    "end": "2026-01-15"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000504",
+  "character_id": "rou",
+  "name_en": "Nature's Claw",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": null,
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free from the Guide [[Pass]] (Step 4).",
+    "start": "2025-06-18",
+    "end": null
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2024-01-31",
+    "end": "2024-02-28"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2025-07-31",
+    "end": "2025-08-28"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2026-04-09",
+    "end": "2026-05-07"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-02-27",
+    "end": "2025-03-13"
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000506",
+  "character_id": "rou",
+  "name_en": "Stray Cat",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2023-12-19",
+  "is_drawable": false,
+  "is_pub_recruitable": false,
+  "world": "Future",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "6 copies (up to +5) obtained for free after finishing the Half Anniversary event.",
+    "start": "2023-12-19",
+    "end": "2024-01-17"
+   },
+   {
+    "type": "custom",
+    "description": "6 copies (up to +5) obtained for free after finishing the reintroduced Half Anniversary event.",
+    "start": "2025-06-18",
+    "end": null
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000601",
+  "character_id": "olstein",
+  "name_en": "The Fiend Scholar",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-01-15",
+    "end": "2026-01-22"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2024-11-21",
+    "end": "2024-12-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-11-08",
+    "end": "2023-11-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-04-10",
+    "end": "2024-04-24"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-01-29",
+    "end": "2026-02-12"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000604",
+  "character_id": "olstein",
+  "name_en": "Sage of Blue Clouds",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-11-16",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Martial Arts",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-11-15",
+    "end": "2023-11-29"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2025-09-25",
+    "end": "2025-10-23"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-12-06",
+    "end": "2023-12-20"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000701",
+  "character_id": "eclipse",
+  "name_en": "Dimension Witch",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-01-10",
+    "end": "2024-01-24"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2024-10-31",
+    "end": "2024-11-14"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2024-08-01",
+    "end": "2024-08-29"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-07-19",
+    "end": "2023-08-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-01-31",
+    "end": "2024-02-14"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-12-17",
+    "end": "2025-01-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-07-03",
+    "end": "2025-07-17"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000706",
+  "character_id": "eclipse",
+  "name_en": "Nightmare Bunny",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": null,
+  "release_date": "2023-12-21",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Future",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-12-20",
+    "end": "2024-01-03"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-12-17",
+    "end": "2025-01-16"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-12-04",
+    "end": "2025-12-30"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000707",
+  "character_id": "eclipse",
+  "name_en": "Beach Vacation",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-09-05",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-09-05",
+    "end": "2024-09-26"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-07-10",
+    "end": "2025-07-24"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-10-02",
+    "end": "2024-10-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-07-31",
+    "end": "2025-08-14"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-01-29",
+    "end": "2026-02-12"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-06-04",
+    "end": "2026-06-18"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000708",
+  "character_id": "eclipse",
+  "name_en": "Dream Bride",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-06-19",
+  "is_drawable": false,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "6 copies (up to +5) obtained for free after finishing the 2nd Anniversary event.",
+    "start": "2025-06-18",
+    "end": null
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000801",
+  "character_id": "rubia",
+  "name_en": "Thorn of the Desert",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-04-24",
+    "end": "2025-05-08"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2024-02-28",
+    "end": "2024-03-13"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2026-09-23",
+    "end": "2026-10-22"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2023-08-30",
+    "end": "2023-09-25"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-06-05",
+    "end": "2024-06-20"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-05-08",
+    "end": "2025-05-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-04-23",
+    "end": "2026-05-07"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000804",
+  "character_id": "rubia",
+  "name_en": "The Empress of the Ocean",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-09-06",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "ETC",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-09-06",
+    "end": "2023-09-20"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-09-19",
+    "end": "2024-10-02"
+   },
+   {
+    "type": "custom",
+    "description": "Can be chosen as an option from the [[Recommended Costume Selective Ticket]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-09-25",
+    "end": "2023-10-11"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-02-14",
+    "end": "2024-02-28"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-10-02",
+    "end": "2024-10-17"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000806",
+  "character_id": "rubia",
+  "name_en": "Maid Name C",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-02-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-02-21",
+    "end": "2024-03-06"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-09-04",
+    "end": "2025-09-18"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-03-13",
+    "end": "2024-03-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-08-29",
+    "end": "2024-09-12"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-03-13",
+    "end": "2025-03-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-09-25",
+    "end": "2025-10-10"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "000807",
+  "character_id": "rubia",
+  "name_en": "Maid Bikini",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-08-28",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-08-28",
+    "end": "2025-09-11"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-04-30",
+    "end": "2026-05-14"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2026-03-12",
+    "end": "2026-04-09"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-09-11",
+    "end": "2025-09-25"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-05-21",
+    "end": "2026-06-04"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "001001",
+  "character_id": "sylvia",
+  "name_en": "Desert Flower",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2023-08-16",
+    "end": "2023-08-30"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2025-06-05",
+    "end": "2025-07-03"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2024-03-13",
+    "end": "2024-04-10"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-08-16",
+    "end": "2023-08-30"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-11-22",
+    "end": "2023-12-06"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-08-14",
+    "end": "2024-08-29"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-07-30",
+    "end": "2026-08-13"
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "001002",
+  "character_id": "sylvia",
+  "name_en": "The Sword Queen",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2023-11-23",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Martial Arts",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-11-22",
+    "end": "2023-12-06"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-09-12",
+    "end": "2024-09-19"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-07-30",
+    "end": "2026-08-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-12-06",
+    "end": "2023-12-20"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-05-22",
+    "end": "2024-06-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-01-31",
+    "end": "2025-02-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-08-14",
+    "end": "2025-08-28"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-03-26",
+    "end": "2026-04-09"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-08-27",
+    "end": "2026-09-10"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "001004",
+  "character_id": "sylvia",
+  "name_en": "Admiral",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-08-23",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "ETC",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-08-23",
+    "end": "2023-09-06"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-04-10",
+    "end": "2025-04-24"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-09-13",
+    "end": "2023-09-25"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-12-06",
+    "end": "2023-12-20"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-10-17",
+    "end": "2024-10-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-04-24",
+    "end": "2025-05-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-05-21",
+    "end": "2026-06-04"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "001006",
+  "character_id": "sylvia",
+  "name_en": "Bikini Agent",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-08-14",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-08-14",
+    "end": "2025-08-28"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-04-02",
+    "end": "2026-04-16"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2026-03-12",
+    "end": "2026-04-09"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-08-28",
+    "end": "2025-09-11"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-04-23",
+    "end": "2026-05-07"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "001101",
+  "character_id": "teresse",
+  "name_en": "Angel of Destruction",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-04-10",
+    "end": "2024-04-24"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-07-30",
+    "end": "2026-08-06"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2024-03-27",
+    "end": "2024-04-10"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2025-06-05",
+    "end": "2025-07-03"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-08-02",
+    "end": "2023-08-16"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-04-24",
+    "end": "2024-05-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-04-23",
+    "end": "2026-05-07"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "001106",
+  "character_id": "teresse",
+  "name_en": "Medical Club",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-03-14",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "School",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-03-13",
+    "end": "2024-03-27"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-02-06",
+    "end": "2025-02-20"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-09-23",
+    "end": "2026-10-08"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2026-02-12",
+    "end": "2026-03-12"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-03-27",
+    "end": "2024-04-10"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-06-05",
+    "end": "2024-06-20"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-10-17",
+    "end": "2024-10-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-02-27",
+    "end": "2025-03-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-09-25",
+    "end": "2025-10-10"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-07-16",
+    "end": "2026-07-30"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "001107",
+  "character_id": "teresse",
+  "name_en": "Beachside Angel",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2024-08-14",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": true,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-08-14",
+    "end": "2024-09-05"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-06-19",
+    "end": "2025-07-17"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-08-14",
+    "end": "2025-09-11"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-07-02",
+    "end": "2026-07-30"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "001201",
+  "character_id": "liatris",
+  "name_en": "Rodev's Star",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-03-06",
+    "end": "2024-03-20"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2024-05-22",
+    "end": "2024-06-05"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2023-09-13",
+    "end": "2023-10-11"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2024-06-05",
+    "end": "2024-07-04"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2025-11-20",
+    "end": "2025-12-16"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-03-27",
+    "end": "2024-04-10"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-03-13",
+    "end": "2025-03-27"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "001206",
+  "character_id": "liatris",
+  "name_en": "Neon Stalker",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-09-13",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Future",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-09-13",
+    "end": "2023-09-25"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2024-07-18",
+    "end": "2024-08-14"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-09-25",
+    "end": "2023-10-11"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-02-28",
+    "end": "2024-03-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-07-17",
+    "end": "2025-07-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-12-04",
+    "end": "2025-12-16"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "001207",
+  "character_id": "liatris",
+  "name_en": "Maid Name R",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2024-02-15",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-02-14",
+    "end": "2024-02-28"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-02-19",
+    "end": "2026-03-05"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2025-07-03",
+    "end": "2025-07-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-02-28",
+    "end": "2024-03-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-09-12",
+    "end": "2024-10-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-03-12",
+    "end": "2026-03-26"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "002401",
+  "character_id": "diana",
+  "name_en": "Adventurer of the Unknown",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-10-26",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-10-25",
+    "end": "2023-11-08"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-02-07",
+    "end": "2024-02-21"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-06-20",
+    "end": "2024-07-04"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-12-17",
+    "end": "2025-01-02"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2024-10-02",
+    "end": "2024-10-17"
+   },
+   {
+    "type": "custom",
+    "description": "Can be chosen as an option from the [[Recommended Costume Selective Ticket]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-11-08",
+    "end": "2023-11-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-02-28",
+    "end": "2024-03-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-07-04",
+    "end": "2024-07-18"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-01-02",
+    "end": "2025-01-16"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "002403",
+  "character_id": "diana",
+  "name_en": "Magical Innovator",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2026-02-12",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Office",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-02-12",
+    "end": "2026-02-26"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-02-26",
+    "end": "2026-03-12"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "002406",
+  "character_id": "diana",
+  "name_en": "Anti-dystopia",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-01-04",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Future",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-01-03",
+    "end": "2024-01-17"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-12-12",
+    "end": "2024-12-26"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2026-08-27",
+    "end": "2026-09-23"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2025-07-31",
+    "end": "2025-08-28"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-01-17",
+    "end": "2024-01-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-06-20",
+    "end": "2024-07-04"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-01-02",
+    "end": "2025-01-16"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-11-20",
+    "end": "2025-12-04"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003001",
+  "character_id": "layla",
+  "name_en": "Anvil of Creation",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003101",
+  "character_id": "elpis",
+  "name_en": "Hand of Salvation",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 2,
+  "release_date": "2024-04-11",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003201",
+  "character_id": "loen",
+  "name_en": "Last Hope",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2024-05-09",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original (Side Story)",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-05-08",
+    "end": "2024-05-22"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2025-06-05",
+    "end": "2025-06-19"
+   },
+   {
+    "type": "custom",
+    "description": "Can be chosen as an option from the [[Recommended Costume Selective Ticket]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2024-09-12",
+    "end": "2024-10-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-05-22",
+    "end": "2024-06-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-01-02",
+    "end": "2025-01-16"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-12-04",
+    "end": "2025-12-16"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003202",
+  "character_id": "loen",
+  "name_en": "Track and Field Team",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-07-18",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "School",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-07-18",
+    "end": "2024-08-01"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2025-12-16",
+    "end": "2026-01-15"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-08-01",
+    "end": "2024-08-14"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-12-17",
+    "end": "2025-01-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-08-28",
+    "end": "2025-09-11"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003203",
+  "character_id": "loen",
+  "name_en": "Celebrity Bunny",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2024-12-17",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Future",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-12-17",
+    "end": "2025-01-16"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-12-11",
+    "end": "2026-01-15"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003301",
+  "character_id": "nebris",
+  "name_en": "Labyrinth Gatekeeper",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-09-26",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-09-26",
+    "end": "2024-10-10"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2025-05-08",
+    "end": "2025-05-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-10-17",
+    "end": "2024-10-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-05-07",
+    "end": "2026-05-21"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003302",
+  "character_id": "nebris",
+  "name_en": "Laid-back Lifeguard",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-06-27",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-06-27",
+    "end": "2024-07-11"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-06-12",
+    "end": "2025-06-26"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-07-02",
+    "end": "2026-07-30"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-07-18",
+    "end": "2024-08-01"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-07-03",
+    "end": "2025-07-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-02-26",
+    "end": "2026-03-12"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-07-30",
+    "end": "2026-08-13"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003303",
+  "character_id": "nebris",
+  "name_en": "New Hire",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-12-05",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Office",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-12-05",
+    "end": "2024-12-26"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-11-27",
+    "end": "2025-12-11"
+   },
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free from the Guide [[Pass]] (Step 1).",
+    "start": "2025-06-18",
+    "end": null
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-01-02",
+    "end": "2025-01-16"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-12-16",
+    "end": "2025-12-30"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003401",
+  "character_id": "morpeah",
+  "name_en": "Beach Vacation",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2024-08-21",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-08-22",
+    "end": "2024-09-12"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-08-21",
+    "end": "2025-09-04"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-05-28",
+    "end": "2026-06-11"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2025-01-16",
+    "end": "2025-02-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-09-12",
+    "end": "2024-10-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-09-11",
+    "end": "2025-09-25"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-06-18",
+    "end": "2026-07-02"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003402",
+  "character_id": "morpeah",
+  "name_en": "Daydream Bunny",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2024-12-17",
+  "is_drawable": false,
+  "is_pub_recruitable": false,
+  "world": "Future",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "6 copies (up to +5) obtained for free after finishing the 1.5th Anniversary event.",
+    "start": "2024-12-17",
+    "end": "2025-01-16"
+   },
+   {
+    "type": "custom",
+    "description": "6 copies (up to +5) obtained for free after finishing the reintroduced 1.5th Anniversary event.",
+    "start": "2025-06-18",
+    "end": null
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003403",
+  "character_id": "morpeah",
+  "name_en": "Apostle",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-04-24",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-04-24",
+    "end": "2025-05-08"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2026-02-12",
+    "end": "2026-02-26"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-05-08",
+    "end": "2025-05-22"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003501",
+  "character_id": "sacred-justia",
+  "name_en": "Reclaimed Destiny",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-07-04",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-07-04",
+    "end": "2024-07-18"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-07-24",
+    "end": "2025-08-07"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-03-19",
+    "end": "2026-04-02"
+   },
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free from a quest during the [[Edge of Dimensions]] [[pack]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2025-01-02",
+    "end": "2025-02-13"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2026-09-23",
+    "end": "2026-10-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-07-18",
+    "end": "2024-08-01"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-08-14",
+    "end": "2025-08-28"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-04-09",
+    "end": "2026-04-23"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003601",
+  "character_id": "olivier",
+  "name_en": "Faithful Wings",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-11-20",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-11-20",
+    "end": "2025-12-04"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-09-23",
+    "end": "2026-10-08"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2026-06-04",
+    "end": "2026-06-18"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-12-04",
+    "end": "2025-12-16"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-03-12",
+    "end": "2026-03-26"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003602",
+  "character_id": "olivier",
+  "name_en": "Apostle",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-07-31",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-07-31",
+    "end": "2025-08-14"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-08-14",
+    "end": "2025-08-28"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-06-18",
+    "end": "2026-07-02"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003603",
+  "character_id": "olivier",
+  "name_en": "Fallen Wings",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-07-17",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-07-17",
+    "end": "2025-07-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-07-31",
+    "end": "2025-08-14"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-08-13",
+    "end": "2026-08-27"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003604",
+  "character_id": "olivier",
+  "name_en": "Retired Legend",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2026-02-26",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Office",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-02-26",
+    "end": "2026-03-19"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-03-26",
+    "end": "2026-04-09"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-09-23",
+    "end": "2026-10-08"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003701",
+  "character_id": "blade",
+  "name_en": "Apostle",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2025-02-13",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-02-13",
+    "end": "2025-02-27"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-02-05",
+    "end": "2026-02-19"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2025-10-23",
+    "end": "2025-11-06"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-02-27",
+    "end": "2025-03-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-02-26",
+    "end": "2026-03-12"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-09-10",
+    "end": "2026-09-23"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003702",
+  "character_id": "blade",
+  "name_en": "Onsen Swordfighter",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2026-01-29",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "School",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-01-29",
+    "end": "2026-02-12"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2026-08-27",
+    "end": "2026-09-23"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-02-12",
+    "end": "2026-02-26"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003703",
+  "character_id": "blade",
+  "name_en": "Young Lady",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-02-27",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-02-27",
+    "end": "2025-03-13"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-11-06",
+    "end": "2025-11-20"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-08-27",
+    "end": "2026-09-23"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-03-13",
+    "end": "2025-03-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-09-11",
+    "end": "2025-09-25"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-11-20",
+    "end": "2025-12-04"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-09-23",
+    "end": "2026-10-08"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003801",
+  "character_id": "liberta",
+  "name_en": "Dark Saintess",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-03-13",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-03-13",
+    "end": "2025-03-27"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2025-11-20",
+    "end": "2025-12-04"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-03-27",
+    "end": "2025-04-10"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-04-23",
+    "end": "2026-05-07"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003802",
+  "character_id": "liberta",
+  "name_en": "Onsen Manager",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-01-31",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "School",
+  "has_burst": true,
+  "has_prestige": true,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-01-31",
+    "end": "2025-02-13"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-01-15",
+    "end": "2026-02-12"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2025-09-25",
+    "end": "2025-10-23"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-02-13",
+    "end": "2025-02-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-02-12",
+    "end": "2026-02-26"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-09-10",
+    "end": "2026-09-23"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003803",
+  "character_id": "liberta",
+  "name_en": "Miracle Rose",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2026-04-23",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Office",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-04-23",
+    "end": "2026-05-07"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-05-07",
+    "end": "2026-05-21"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003901",
+  "character_id": "sonya",
+  "name_en": "Shadowed Dream",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-09-11",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-09-11",
+    "end": "2025-09-25"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-04-16",
+    "end": "2026-04-30"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2026-07-02",
+    "end": "2026-07-16"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-09-25",
+    "end": "2025-10-10"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-05-07",
+    "end": "2026-05-21"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "003902",
+  "character_id": "sonya",
+  "name_en": "Little Pumpkin Girl",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-10-30",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Fairy Tale",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-10-30",
+    "end": "2025-11-20"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-11-20",
+    "end": "2025-12-04"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "004001",
+  "character_id": "darian",
+  "name_en": "Prophetic Dream",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-10-02",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-10-02",
+    "end": "2025-10-23"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-06-04",
+    "end": "2026-07-02"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2026-03-12",
+    "end": "2026-03-26"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2026-08-27",
+    "end": "2026-09-10"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-10-23",
+    "end": "2025-11-06"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-07-02",
+    "end": "2026-07-16"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "004002",
+  "character_id": "darian",
+  "name_en": "Bittersweet Bunny",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2025-12-16",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Fairy Tale",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-12-16",
+    "end": "2026-01-15"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "004101",
+  "character_id": "tyr",
+  "name_en": "Starlight Guardian",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-09-25",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-09-25",
+    "end": "2025-10-10"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2026-07-30",
+    "end": "2026-08-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-10-10",
+    "end": "2025-10-23"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-05-07",
+    "end": "2026-05-21"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "004102",
+  "character_id": "tyr",
+  "name_en": "Innocent Bunny",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2025-12-30",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Fairy Tale",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-12-30",
+    "end": "2026-01-15"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-01-15",
+    "end": "2026-01-29"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "004201",
+  "character_id": "palette",
+  "name_en": "Shattered Dream",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2026-03-12",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-03-12",
+    "end": "2026-03-26"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-03-26",
+    "end": "2026-04-09"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "004202",
+  "character_id": "palette",
+  "name_en": "Miracle Violet",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2026-05-07",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Office",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-05-07",
+    "end": "2026-05-21"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-05-21",
+    "end": "2026-06-04"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "004301",
+  "character_id": "nekyndalia",
+  "name_en": "Deadeye",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2026-06-04",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-06-04",
+    "end": "2026-06-18"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-06-18",
+    "end": "2026-07-02"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "020001",
+  "character_id": "eris",
+  "name_en": "Esteemed Adventurer",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2024-06-05",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-06-05",
+    "end": "2024-06-19"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-10-10",
+    "end": "2025-10-23"
+   },
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free from a dice game during the Mushoku Tensei [[collaboration]] event.",
+    "start": "2024-06-05",
+    "end": "2024-06-19"
+   },
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free from a dice game during the Mushoku Tensei [[collaboration]] event.",
+    "start": "2025-10-10",
+    "end": "2025-10-23"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "020002",
+  "character_id": "eris",
+  "name_en": "Your Very Own Cat",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2024-06-05",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-06-05",
+    "end": "2024-06-19"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-10-10",
+    "end": "2025-10-23"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "020101",
+  "character_id": "roxy",
+  "name_en": "Respected Master",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2024-05-23",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-05-22",
+    "end": "2024-06-19"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-10-10",
+    "end": "2025-10-23"
+   },
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free from a bingo game during the Mushoku Tensei [[collaboration]] event.",
+    "start": "2024-05-23",
+    "end": "2024-06-19"
+   },
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free from a bingo game during the Mushoku Tensei [[collaboration]] event.",
+    "start": "2025-10-10",
+    "end": "2025-10-23"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "020102",
+  "character_id": "roxy",
+  "name_en": "Emerging Desire",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2024-05-23",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-05-22",
+    "end": "2024-06-19"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-10-10",
+    "end": "2025-10-23"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "020201",
+  "character_id": "yomi",
+  "name_en": "Gentle Destroyer",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": null,
+  "release_date": "2024-10-02",
+  "is_drawable": false,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "6 copies (up to +5) obtained for free from a special event during the Senran Kagura [[collaboration]] event.",
+    "start": "2024-10-02",
+    "end": "2024-10-31"
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "020301",
+  "character_id": "yozakura",
+  "name_en": "Fist of Conviction",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2024-10-02",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-10-02",
+    "end": "2024-10-31"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-04-09",
+    "end": "2026-05-07"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "020401",
+  "character_id": "yumi",
+  "name_en": "Dancing Snowflake",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2024-10-17",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-10-17",
+    "end": "2024-10-31"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-02-13",
+    "end": "2025-02-20"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-04-09",
+    "end": "2026-05-07"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "020501",
+  "character_id": "hikage",
+  "name_en": "Kind Ruthlessness",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2024-10-02",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-10-02",
+    "end": "2024-10-31"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-04-09",
+    "end": "2026-05-07"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "020601",
+  "character_id": "goblin-slayer",
+  "name_en": "Orcbolg",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2025-05-08",
+  "is_drawable": false,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "6 copies (up to +5) obtained for free from a special event during the Goblin Slayer [[collaboration]] event.",
+    "start": "2025-05-08",
+    "end": "2025-06-05"
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "020701",
+  "character_id": "priestess",
+  "name_en": "Earth Mother Believer",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2025-05-08",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-05-08",
+    "end": "2025-06-05"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "020801",
+  "character_id": "high-elf-archer",
+  "name_en": "Daughter of Starwind",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2025-05-08",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-05-08",
+    "end": "2025-06-05"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "020901",
+  "character_id": "sword-maiden",
+  "name_en": "Supreme God Archbishop",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2025-05-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-05-22",
+    "end": "2025-06-05"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "021001",
+  "character_id": "ikaruga",
+  "name_en": "Noble Flame",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2026-04-09",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-04-09",
+    "end": "2026-05-07"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "021101",
+  "character_id": "kyouka-uzen",
+  "name_en": "Eternal Chains",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2026-09-10",
+  "is_drawable": false,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "6 copies (up to +5) obtained for free from an event during the Chained Soldier 2 [[collaboration]] event.",
+    "start": "2026-09-10",
+    "end": "2026-10-08"
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "021201",
+  "character_id": "tenka-izumo",
+  "name_en": "Ame-no-Mitori",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2026-09-10",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-09-10",
+    "end": "2026-10-08"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "021301",
+  "character_id": "ren-yamashiro",
+  "name_en": "Lord of the Cosmos",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2026-09-23",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Collaboration",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-09-23",
+    "end": "2026-10-08"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "060301",
+  "character_id": "alec",
+  "name_en": "The Destruction",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-08-20",
+    "end": "2026-08-27"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2024-04-24",
+    "end": "2024-05-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-12-06",
+    "end": "2023-12-20"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-08-27",
+    "end": "2026-09-10"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "060302",
+  "character_id": "alec",
+  "name_en": "Sword Breaker",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-01-29",
+    "end": "2026-02-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-01-31",
+    "end": "2024-02-14"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-09-12",
+    "end": "2024-10-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-02-12",
+    "end": "2026-02-26"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "060401",
+  "character_id": "celia",
+  "name_en": "The Curse",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2024-01-03",
+    "end": "2024-01-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-10-25",
+    "end": "2023-11-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-08-01",
+    "end": "2024-08-14"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-04-24",
+    "end": "2025-05-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-12-16",
+    "end": "2025-12-30"
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "060402",
+  "character_id": "celia",
+  "name_en": "Descendant of the Great Witch",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-03-06",
+    "end": "2025-03-20"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2023-09-25",
+    "end": "2023-10-25"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2024-05-08",
+    "end": "2024-06-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-12-20",
+    "end": "2024-01-03"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-10-31",
+    "end": "2024-11-21"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-03-27",
+    "end": "2025-04-10"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-09-25",
+    "end": "2025-10-10"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "060403",
+  "character_id": "celia",
+  "name_en": "Masquerade Bunny",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2023-12-28",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Future",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-12-27",
+    "end": "2024-01-10"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-12-26",
+    "end": "2025-01-23"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-12-11",
+    "end": "2026-01-08"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "060501",
+  "character_id": "anastasia",
+  "name_en": "Gentle Maid",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-08-30",
+    "end": "2023-09-13"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2024-07-18",
+    "end": "2024-08-01"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2024-02-14",
+    "end": "2024-03-13"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2024-12-05",
+    "end": "2025-01-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-09-13",
+    "end": "2023-09-25"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "060502",
+  "character_id": "anastasia",
+  "name_en": "Fire Graffiti",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Future",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-08-30",
+    "end": "2023-09-13"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2024-05-22",
+    "end": "2024-06-19"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2025-11-20",
+    "end": "2025-12-16"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2025-03-13",
+    "end": "2025-04-10"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2026-06-04",
+    "end": "2026-07-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-09-13",
+    "end": "2023-09-25"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-02-14",
+    "end": "2024-02-28"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "060601",
+  "character_id": "lecliss",
+  "name_en": "Killer Doll",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-02-20",
+    "end": "2025-03-06"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-08-13",
+    "end": "2026-08-20"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2026-09-23",
+    "end": "2026-10-08"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2023-10-25",
+    "end": "2023-11-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-10-17",
+    "end": "2024-10-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-03-13",
+    "end": "2025-03-27"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "060602",
+  "character_id": "lecliss",
+  "name_en": "Android Queen",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Future",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-11-08",
+    "end": "2023-11-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-08-02",
+    "end": "2023-08-16"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-11-22",
+    "end": "2023-12-06"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-03-27",
+    "end": "2024-04-10"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-02-27",
+    "end": "2025-03-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-11-06",
+    "end": "2025-11-20"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-02-26",
+    "end": "2026-03-12"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "060701",
+  "character_id": "rafina",
+  "name_en": "Steel Engine",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-07-16",
+    "end": "2026-07-23"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2023-12-06",
+    "end": "2023-12-20"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2023-11-22",
+    "end": "2023-12-20"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2025-05-08",
+    "end": "2025-06-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-03-13",
+    "end": "2024-03-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-08-14",
+    "end": "2024-08-29"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-10-10",
+    "end": "2025-10-23"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "060702",
+  "character_id": "rafina",
+  "name_en": "Code Name A",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-10-16",
+    "end": "2025-10-30"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-11-22",
+    "end": "2023-12-06"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-03-27",
+    "end": "2025-04-10"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-09-11",
+    "end": "2025-09-25"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-11-06",
+    "end": "2025-11-20"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "060706",
+  "character_id": "rafina",
+  "name_en": "Game Club",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-03-28",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "School",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-03-27",
+    "end": "2024-04-10"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-08-08",
+    "end": "2024-08-22"
+   },
+   {
+    "type": "custom",
+    "description": "Can be chosen as an option from the [[Recommended Costume Selective Ticket]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2025-02-13",
+    "end": "2025-03-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-04-10",
+    "end": "2024-04-24"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-08-29",
+    "end": "2024-09-12"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "060801",
+  "character_id": "elise",
+  "name_en": "Lovely Lady",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-01-23",
+    "end": "2025-02-06"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2024-09-12",
+    "end": "2024-09-26"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2026-01-15",
+    "end": "2026-02-12"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-11-08",
+    "end": "2023-11-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-06-05",
+    "end": "2024-06-20"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-02-13",
+    "end": "2025-02-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-07-02",
+    "end": "2026-07-16"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "060802",
+  "character_id": "elise",
+  "name_en": "Code Name O",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-06-12",
+    "end": "2024-06-26"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-03-27",
+    "end": "2025-04-10"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2026-06-04",
+    "end": "2026-07-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-02-28",
+    "end": "2024-03-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-07-04",
+    "end": "2024-07-18"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-01-16",
+    "end": "2025-01-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-04-10",
+    "end": "2025-04-24"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "060804",
+  "character_id": "elise",
+  "name_en": "Naive Lady",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2026-07-02",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-07-02",
+    "end": "2026-07-16"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-07-16",
+    "end": "2026-07-30"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "061001",
+  "character_id": "helena",
+  "name_en": "Top Idol",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2024-06-20",
+    "end": "2024-07-04"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2024-01-03",
+    "end": "2024-01-31"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2025-08-28",
+    "end": "2025-09-25"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2026-07-30",
+    "end": "2026-08-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-07-05",
+    "end": "2023-07-19"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-02-13",
+    "end": "2025-02-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-12-16",
+    "end": "2025-12-30"
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "061002",
+  "character_id": "helena",
+  "name_en": "B-Rank Idol",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-07-06",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-07-05",
+    "end": "2023-07-26"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-01-03",
+    "end": "2024-01-17"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-07-18",
+    "end": "2024-08-01"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-01-02",
+    "end": "2025-01-16"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-03-26",
+    "end": "2026-04-09"
+   },
+   {
+    "type": "custom",
+    "description": "Can be chosen as an option from the [[Recommended Costume Selective Ticket]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-07-19",
+    "end": "2023-08-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-01-17",
+    "end": "2024-01-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-06-20",
+    "end": "2024-07-04"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-08-01",
+    "end": "2024-08-14"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-01-16",
+    "end": "2025-01-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-04-09",
+    "end": "2026-04-23"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "061003",
+  "character_id": "helena",
+  "name_en": "Sunny Inn Hand",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2026-08-13",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Martial Arts",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-08-13",
+    "end": "2026-08-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-08-27",
+    "end": "2026-09-10"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "061101",
+  "character_id": "eleaneer",
+  "name_en": "Piercing Magic Bow",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-11-14",
+    "end": "2024-11-28"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-09-10",
+    "end": "2026-09-23"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2025-09-25",
+    "end": "2025-10-10"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2024-10-17",
+    "end": "2024-11-14"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-07-05",
+    "end": "2023-07-19"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-12-20",
+    "end": "2024-01-03"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-05-08",
+    "end": "2024-05-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-12-05",
+    "end": "2024-12-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-05-22",
+    "end": "2025-06-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-09-23",
+    "end": "2026-10-08"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "061102",
+  "character_id": "eleaneer",
+  "name_en": "B-Rank Idol",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-07-06",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-07-05",
+    "end": "2023-07-26"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-05-15",
+    "end": "2024-05-29"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2025-08-28",
+    "end": "2025-09-25"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-07-19",
+    "end": "2023-08-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-01-03",
+    "end": "2024-01-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-06-05",
+    "end": "2024-06-20"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-12-30",
+    "end": "2026-01-15"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "061103",
+  "character_id": "eleaneer",
+  "name_en": "Shadow Bunny",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-12-16",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Fairy Tale",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-12-16",
+    "end": "2025-12-30"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-12-30",
+    "end": "2026-01-15"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-09-23",
+    "end": "2026-10-08"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "061302",
+  "character_id": "dalvi",
+  "name_en": "Bright Moon",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2023-12-07",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Martial Arts",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-12-06",
+    "end": "2023-12-20"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-04-10",
+    "end": "2024-04-24"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-09-26",
+    "end": "2024-10-02"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-05-01",
+    "end": "2025-05-15"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-08-13",
+    "end": "2026-09-10"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2025-02-13",
+    "end": "2025-02-27"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2026-05-07",
+    "end": "2026-06-04"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-12-20",
+    "end": "2024-01-03"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-04-24",
+    "end": "2024-05-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-05-22",
+    "end": "2025-06-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-09-10",
+    "end": "2026-09-23"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "061305",
+  "character_id": "dalvi",
+  "name_en": "Summer Vacation",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-06-20",
+  "is_drawable": false,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "6 copies (up to +5) obtained for free after finishing the 1st Anniversary event.",
+    "start": "2024-06-19",
+    "end": "2024-07-31"
+   },
+   {
+    "type": "custom",
+    "description": "6 copies (up to +5) obtained for free after finishing the reintroduced 1st Anniversary event.",
+    "start": "2025-06-18",
+    "end": null
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "061306",
+  "character_id": "dalvi",
+  "name_en": "Tricky Lover",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2026-07-16",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-07-16",
+    "end": "2026-07-30"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-07-30",
+    "end": "2026-08-13"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "061402",
+  "character_id": "zenith",
+  "name_en": "Robin Hood",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-10-26",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Fairy Tale",
+  "has_burst": false,
+  "has_prestige": true,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-10-25",
+    "end": "2023-11-08"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-12-16",
+    "end": "2026-01-15"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-03-12",
+    "end": "2026-04-09"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2025-07-31",
+    "end": "2025-08-14"
+   },
+   {
+    "type": "custom",
+    "description": "Can be chosen as an option from the [[Recommended Costume Selective Ticket]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2024-03-27",
+    "end": "2024-04-24"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-11-08",
+    "end": "2023-11-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-07-18",
+    "end": "2024-08-01"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-10-02",
+    "end": "2024-10-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-01-15",
+    "end": "2026-01-29"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-04-09",
+    "end": "2026-04-23"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "061404",
+  "character_id": "zenith",
+  "name_en": "Poolside Guardian",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-07-03",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-07-03",
+    "end": "2025-07-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-07-17",
+    "end": "2025-07-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-12-30",
+    "end": "2026-01-15"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "062001",
+  "character_id": "andrew",
+  "name_en": "Loyal Butler",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "062002",
+  "character_id": "andrew",
+  "name_en": "Specialist",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "063001",
+  "character_id": "ingrid",
+  "name_en": "Kardis' Bullet",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "063301",
+  "character_id": "cynthia",
+  "name_en": "Warmth within the Severe Cold",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "063401",
+  "character_id": "julie",
+  "name_en": "Healer",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "065102",
+  "character_id": "yuri",
+  "name_en": "Whitebolt",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2023-11-30",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Martial Arts",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-11-29",
+    "end": "2023-12-13"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-09-19",
+    "end": "2024-09-26"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2025-03-13",
+    "end": "2025-03-27"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2026-04-09",
+    "end": "2026-05-07"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-12-20",
+    "end": "2024-01-03"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-11-21",
+    "end": "2024-12-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-07-31",
+    "end": "2025-08-14"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-08-13",
+    "end": "2026-08-27"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "065103",
+  "character_id": "yuri",
+  "name_en": "Comeback Idol",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-01-18",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": true,
+  "has_prestige": true,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-01-17",
+    "end": "2024-01-31"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-07-30",
+    "end": "2026-08-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-01-31",
+    "end": "2024-02-14"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-07-04",
+    "end": "2024-07-18"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-05-22",
+    "end": "2025-06-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-10-23",
+    "end": "2025-11-06"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-08-27",
+    "end": "2026-09-10"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "065802",
+  "character_id": "nartas",
+  "name_en": "Anonymous Sage",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2023-12-14",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Martial Arts",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-12-13",
+    "end": "2023-12-27"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-07-23",
+    "end": "2026-07-30"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2025-07-03",
+    "end": "2025-07-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-01-03",
+    "end": "2024-01-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-05-08",
+    "end": "2024-05-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-10-31",
+    "end": "2024-11-21"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-07-30",
+    "end": "2026-08-13"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "066401",
+  "character_id": "angelica",
+  "name_en": "The Fallen",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-10-11",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-10-11",
+    "end": "2023-10-25"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-07-11",
+    "end": "2024-07-25"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2024-04-24",
+    "end": "2024-05-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-10-25",
+    "end": "2023-11-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-08-01",
+    "end": "2024-08-14"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-10-23",
+    "end": "2025-11-06"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "066402",
+  "character_id": "angelica",
+  "name_en": "Pool Party",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-08-17",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-08-16",
+    "end": "2023-08-30"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-04-17",
+    "end": "2024-05-01"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-08-07",
+    "end": "2025-08-21"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2025-02-13",
+    "end": "2025-03-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-08-30",
+    "end": "2023-09-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-01-31",
+    "end": "2024-02-14"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-05-08",
+    "end": "2024-05-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-08-28",
+    "end": "2025-09-11"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "066403",
+  "character_id": "angelica",
+  "name_en": "Neon Savior",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-09-21",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Future",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-09-20",
+    "end": "2023-10-04"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-10-23",
+    "end": "2025-11-06"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-10-11",
+    "end": "2023-10-25"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-08-29",
+    "end": "2024-09-12"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-11-06",
+    "end": "2025-11-20"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "066801",
+  "character_id": "refithea",
+  "name_en": "The Gluttonous",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-05-02",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-05-01",
+    "end": "2024-05-15"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2024-12-17",
+    "end": "2025-01-02"
+   },
+   {
+    "type": "custom",
+    "description": "Can be chosen as an option from the [[Recommended Costume Selective Ticket]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2024-08-29",
+    "end": "2024-10-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-05-22",
+    "end": "2024-06-05"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "066802",
+  "character_id": "refithea",
+  "name_en": "Pure White Blessing",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-04-25",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Fairy Tale",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-04-24",
+    "end": "2024-05-08"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-11-28",
+    "end": "2024-12-12"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-11-13",
+    "end": "2025-11-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-05-08",
+    "end": "2024-05-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-12-17",
+    "end": "2025-01-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-07-03",
+    "end": "2025-07-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-12-04",
+    "end": "2025-12-16"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-03-12",
+    "end": "2026-03-26"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "066803",
+  "character_id": "refithea",
+  "name_en": "Poolside Fairy",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-06-26",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-06-26",
+    "end": "2025-07-10"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-07-17",
+    "end": "2025-07-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-07-16",
+    "end": "2026-07-30"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "066902",
+  "character_id": "glacia",
+  "name_en": "Alice",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-09-25",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Fairy Tale",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-09-25",
+    "end": "2023-10-11"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2025-04-10",
+    "end": "2025-04-24"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2024-10-02",
+    "end": "2024-10-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-10-11",
+    "end": "2023-10-25"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-03-13",
+    "end": "2024-03-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-06-19",
+    "end": "2025-07-03"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "066906",
+  "character_id": "glacia",
+  "name_en": "Disciplinary Committee",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-03-20",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "School",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-03-20",
+    "end": "2024-04-03"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2026-07-30",
+    "end": "2026-08-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-04-10",
+    "end": "2024-04-24"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-10-31",
+    "end": "2024-11-21"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-05-22",
+    "end": "2025-06-05"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "066907",
+  "character_id": "glacia",
+  "name_en": "Heavenly Guardian Successor",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2026-07-30",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Martial Arts",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-07-30",
+    "end": "2026-08-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-08-13",
+    "end": "2026-08-27"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067002",
+  "character_id": "ventana",
+  "name_en": "Snow White",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-10-11",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Fairy Tale",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-10-11",
+    "end": "2023-10-25"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-01-08",
+    "end": "2026-01-22"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2025-01-16",
+    "end": "2025-01-31"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2024-04-10",
+    "end": "2024-05-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-10-25",
+    "end": "2023-11-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-12-05",
+    "end": "2024-12-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-10-23",
+    "end": "2025-11-06"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-01-29",
+    "end": "2026-02-12"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067003",
+  "character_id": "ventana",
+  "name_en": "Comeback Idol",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2024-02-01",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-01-31",
+    "end": "2024-02-14"
+   },
+   {
+    "type": "custom",
+    "description": "Can be chosen as an option from the [[Recommended Costume Selective Ticket]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-02-14",
+    "end": "2024-02-28"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-04-24",
+    "end": "2024-05-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-08-29",
+    "end": "2024-09-12"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-01-16",
+    "end": "2025-01-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-01-15",
+    "end": "2026-01-29"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067004",
+  "character_id": "ventana",
+  "name_en": "Onsen Practitioner",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-01-16",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "School",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-01-16",
+    "end": "2025-01-31"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-01-22",
+    "end": "2026-02-05"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2026-07-02",
+    "end": "2026-07-30"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-01-31",
+    "end": "2025-02-13"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-02-12",
+    "end": "2026-02-26"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067101",
+  "character_id": "granhildr",
+  "name_en": "The Void",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2024-02-29",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-02-28",
+    "end": "2024-03-13"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-07-17",
+    "end": "2025-07-31"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2025-08-28",
+    "end": "2025-09-11"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2024-11-14",
+    "end": "2024-12-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-03-13",
+    "end": "2024-03-27"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-07-31",
+    "end": "2025-08-14"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067102",
+  "character_id": "granhildr",
+  "name_en": "Comeback Idol",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2024-01-25",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-01-24",
+    "end": "2024-02-07"
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2025-03-13",
+    "end": "2025-04-10"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2024-07-04",
+    "end": "2024-08-01"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2026-02-12",
+    "end": "2026-03-12"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-02-14",
+    "end": "2024-02-28"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067103",
+  "character_id": "granhildr",
+  "name_en": "Boo Ghost",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-10-23",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Fairy Tale",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-10-23",
+    "end": "2025-11-06"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-11-06",
+    "end": "2025-11-20"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-06-18",
+    "end": "2026-07-02"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067104",
+  "character_id": "granhildr",
+  "name_en": "Combat Medic",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2026-06-18",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-06-18",
+    "end": "2026-07-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-07-02",
+    "end": "2026-07-16"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067201",
+  "character_id": "venaka",
+  "name_en": "DJ",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-06-20",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-06-20",
+    "end": "2024-07-04"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-06-05",
+    "end": "2025-06-19"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-05-14",
+    "end": "2026-05-28"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-07-04",
+    "end": "2024-07-18"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-12-05",
+    "end": "2024-12-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-06-19",
+    "end": "2025-07-03"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-06-04",
+    "end": "2026-06-18"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067202",
+  "character_id": "venaka",
+  "name_en": "Wind Dancer",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-12-05",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-12-05",
+    "end": "2024-12-17"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2025-12-16",
+    "end": "2025-12-30"
+   },
+   {
+    "type": "custom",
+    "description": "Can be chosen as an option from the [[Recommended Costume Selective Ticket]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-12-17",
+    "end": "2025-01-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-06-05",
+    "end": "2025-06-19"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-11-20",
+    "end": "2025-12-04"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067301",
+  "character_id": "levia",
+  "name_en": "Track and Field Captain",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-07-25",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "School",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-07-25",
+    "end": "2024-08-08"
+   },
+   {
+    "type": "custom",
+    "description": "Can be chosen as an option from the [[Recommended Costume Selective Ticket]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "goldenThread",
+    "description": null,
+    "start": "2024-12-17",
+    "end": "2025-01-16"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-08-14",
+    "end": "2024-08-29"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-05-08",
+    "end": "2025-05-22"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-12-16",
+    "end": "2025-12-30"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067302",
+  "character_id": "levia",
+  "name_en": "Night of Jealousy",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-09-12",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-09-12",
+    "end": "2024-09-26"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2025-07-03",
+    "end": "2025-07-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-10-02",
+    "end": "2024-10-17"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067303",
+  "character_id": "levia",
+  "name_en": "Overheat",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-12-17",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Future",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-12-17",
+    "end": "2025-01-02"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-12-23",
+    "end": "2026-01-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-01-02",
+    "end": "2025-01-16"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-08-28",
+    "end": "2025-09-11"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-01-15",
+    "end": "2026-01-29"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067401",
+  "character_id": "michaela",
+  "name_en": "Beachside Justice",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-08-29",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-08-29",
+    "end": "2024-09-19"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-07-31",
+    "end": "2025-08-14"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-06-04",
+    "end": "2026-07-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-10-02",
+    "end": "2024-10-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-08-14",
+    "end": "2025-08-28"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-07-02",
+    "end": "2026-07-16"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067402",
+  "character_id": "michaela",
+  "name_en": "Queen of Signatures",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-11-21",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Office",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-11-21",
+    "end": "2024-12-05"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-04-03",
+    "end": "2025-04-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-12-05",
+    "end": "2024-12-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-04-24",
+    "end": "2025-05-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-03-12",
+    "end": "2026-03-26"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067403",
+  "character_id": "michaela",
+  "name_en": "Acting Archbishop",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-03-27",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-03-27",
+    "end": "2025-04-10"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-03-05",
+    "end": "2026-03-19"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2026-04-09",
+    "end": "2026-04-23"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-04-10",
+    "end": "2025-04-24"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-03-26",
+    "end": "2026-04-09"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067502",
+  "character_id": "luvencia",
+  "name_en": "Deal Snatcher",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2024-11-07",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Office",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-11-07",
+    "end": "2024-11-21"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-05-29",
+    "end": "2025-06-12"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2025-04-10",
+    "end": "2025-05-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-11-21",
+    "end": "2024-12-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-06-19",
+    "end": "2025-07-03"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-01-29",
+    "end": "2026-02-12"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-06-04",
+    "end": "2026-06-18"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067503",
+  "character_id": "luvencia",
+  "name_en": "Wild Dog",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-01-02",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Future",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-01-02",
+    "end": "2025-01-16"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-09-18",
+    "end": "2025-10-02"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-01-16",
+    "end": "2025-01-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-10-10",
+    "end": "2025-10-23"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067504",
+  "character_id": "luvencia",
+  "name_en": "Ocean Vanguard",
+  "name_zh": null,
+  "is_limited": true,
+  "sp_reduced_at": 1,
+  "release_date": "2026-06-04",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-06-04",
+    "end": "2026-07-02"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067601",
+  "character_id": "wilhelmina",
+  "name_en": "Iron Monarch",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-04-10",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-04-10",
+    "end": "2025-04-24"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2026-01-15",
+    "end": "2026-01-29"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-04-24",
+    "end": "2025-05-08"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-10-10",
+    "end": "2025-10-23"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067603",
+  "character_id": "wilhelmina",
+  "name_en": "Water Park Queen",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-06-18",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2025-06-19",
+    "end": "2025-07-03"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-07-03",
+    "end": "2025-07-17"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067604",
+  "character_id": "wilhelmina",
+  "name_en": "Frozen Queen",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2025-12-16",
+  "is_drawable": false,
+  "is_pub_recruitable": false,
+  "world": "Fairy Tale",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "6 copies (up to +5) obtained for free after finishing the 2.5th Anniversary event.",
+    "start": "2025-12-16",
+    "end": null
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067701",
+  "character_id": "granadair",
+  "name_en": "Shrine Maiden of Purification",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2026-01-15",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "School",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-01-15",
+    "end": "2026-02-12"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-02-12",
+    "end": "2026-02-26"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067702",
+  "character_id": "granadair",
+  "name_en": "Queen of Gluttis",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2026-01-15",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-01-15",
+    "end": "2026-02-12"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-02-12",
+    "end": "2026-02-26"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067801",
+  "character_id": "mamonir",
+  "name_en": "Night of Death",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2026-03-26",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-03-26",
+    "end": "2026-04-09"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-04-09",
+    "end": "2026-04-23"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067803",
+  "character_id": "mamonir",
+  "name_en": "Miracle Marine",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2026-05-21",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Office",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-05-21",
+    "end": "2026-06-04"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-06-04",
+    "end": "2026-06-18"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "067901",
+  "character_id": "aquila",
+  "name_en": "Savage Warrior",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2026-08-27",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-08-27",
+    "end": "2026-09-10"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2026-09-10",
+    "end": "2026-09-23"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "100101",
+  "character_id": "gynt",
+  "name_en": "Lugo Hunter",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "100201",
+  "character_id": "fred",
+  "name_en": "Lugo Defense Force",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "100301",
+  "character_id": "lisianne",
+  "name_en": "Wandering Priest",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "100401",
+  "character_id": "remnunt",
+  "name_en": "Combat Doctor",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "100501",
+  "character_id": "wiggle",
+  "name_en": "Bomb Fanatic",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 1,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free after starting the [[Knight of Blood]] [[pack]].",
+    "start": null,
+    "end": null
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "100502",
+  "character_id": "wiggle",
+  "name_en": "Bomb in the Hoodie",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Future",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "100601",
+  "character_id": "lucrezia",
+  "name_en": "Seductive Wings",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "100801",
+  "character_id": "bernie",
+  "name_en": "Righteous Raider Girl",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "101101",
+  "character_id": "seir",
+  "name_en": "Demon's Daughter",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-10-24",
+    "end": "2024-11-07"
+   },
+   {
+    "type": "characterPass",
+    "description": null,
+    "start": "2024-08-14",
+    "end": "2024-08-29"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2025-10-23",
+    "end": "2025-11-20"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-08-16",
+    "end": "2023-08-30"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-01-17",
+    "end": "2024-01-31"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-11-21",
+    "end": "2024-12-05"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "101102",
+  "character_id": "seir",
+  "name_en": "B-Rank Idol",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-07-20",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Present Day",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2023-07-19",
+    "end": "2023-08-02"
+   },
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2026-07-02",
+    "end": "2026-07-09"
+   },
+   {
+    "type": "mirrorWars",
+    "description": null,
+    "start": "2026-01-15",
+    "end": "2026-02-12"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2023-08-02",
+    "end": "2023-08-16"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-01-03",
+    "end": "2024-01-17"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-10-31",
+    "end": "2024-11-21"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-06-05",
+    "end": "2025-06-19"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "101103",
+  "character_id": "seir",
+  "name_en": "New Hire",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": null,
+  "release_date": "2024-10-31",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Office",
+  "has_burst": true,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "banner",
+    "description": null,
+    "start": "2024-10-31",
+    "end": "2024-11-14"
+   },
+   {
+    "type": "custom",
+    "description": "Can be chosen as an option from the [[Recommended Costume Selective Ticket]].",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2024-11-21",
+    "end": "2024-12-05"
+   },
+   {
+    "type": "powderOfHope",
+    "description": null,
+    "start": "2025-03-27",
+    "end": "2025-04-10"
+   }
+  ],
+  "is_banner": true,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "101201",
+  "character_id": "jayden",
+  "name_en": "Beautiful Girl Devotee",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "101202",
+  "character_id": "jayden",
+  "name_en": "Manga Research Club",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "School",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "101301",
+  "character_id": "emma",
+  "name_en": "Haggard Delinquent",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "101302",
+  "character_id": "emma",
+  "name_en": "School Queen",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "School",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "101401",
+  "character_id": "samay",
+  "name_en": "Kind Liberator",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "101402",
+  "character_id": "samay",
+  "name_en": "Kind Student",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "School",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "101501",
+  "character_id": "kry",
+  "name_en": "Liberated Marauder",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "101502",
+  "character_id": "kry",
+  "name_en": "Violent Student",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "103201",
+  "character_id": "carlson",
+  "name_en": "The Mercenary Knight",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free after starting the [[Knight of Blood]] [[pack]].",
+    "start": null,
+    "end": null
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "103301",
+  "character_id": "lydia",
+  "name_en": "Apprentice Spearman",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free after starting the [[Knight of Blood]] [[pack]].",
+    "start": null,
+    "end": null
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "103401",
+  "character_id": "rigenette",
+  "name_en": "Little Hunter",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free after starting the [[Knight of Blood]] [[pack]].",
+    "start": null,
+    "end": null
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "103501",
+  "character_id": "beatrice",
+  "name_en": "The Mighty Warrior of the Tribe",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": false,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": true,
+  "availability": [
+   {
+    "type": "custom",
+    "description": "1 copy obtained for free after starting the [[Knight of Blood]] [[pack]].",
+    "start": null,
+    "end": null
+   }
+  ],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "103601",
+  "character_id": "maria",
+  "name_en": "Archmage",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "id": "103701",
+  "character_id": "arines",
+  "name_en": "Priest of Vitality",
+  "name_zh": null,
+  "is_limited": false,
+  "sp_reduced_at": 3,
+  "release_date": "2023-06-22",
+  "is_drawable": true,
+  "is_pub_recruitable": true,
+  "world": "Original",
+  "has_burst": false,
+  "has_prestige": false,
+  "has_cutscene": false,
+  "availability": [],
+  "is_banner": false,
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Costume"
+  ],
+  "as_of": "2026-10-01"
+ }
+]

@@ -1,0 +1,2322 @@
+[
+ {
+  "season": 80,
+  "id": "9274",
+  "name_en": "Spirit of the Mine",
+  "name_zh": "灵脉矿灵",
+  "element": "Darkness",
+  "damage_type": "Physical",
+  "start": "2026-10-01",
+  "end": "2026-10-08",
+  "hp_formula": {
+   "base": 5400,
+   "rate": 4000,
+   "slope": 2.9
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 1
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 1
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 78,
+  "id": "9273",
+  "name_en": "Ancient Undead Miner",
+  "name_zh": null,
+  "element": "Light",
+  "damage_type": "Magical",
+  "start": "2026-09-16",
+  "end": "2026-09-23",
+  "hp_formula": {
+   "base": 5000,
+   "rate": 4000,
+   "slope": 2.9
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 1
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 1
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 77,
+  "id": "9272",
+  "name_en": "Chimera of Resentment",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Magical",
+  "start": "2026-09-03",
+  "end": "2026-09-10",
+  "hp_formula": {
+   "base": 5800,
+   "rate": 4000,
+   "slope": 2.9
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 1
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 1
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 79,
+  "id": "9272",
+  "name_en": "Chimera of Resentment",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Magical",
+  "start": "2026-09-03",
+  "end": "2026-09-10",
+  "hp_formula": {
+   "base": 5800,
+   "rate": 4000,
+   "slope": 2.9
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 1
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 1
+  },
+  "is_break_season": true,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 76,
+  "id": "9271",
+  "name_en": "Wrathful Lion Mask",
+  "name_zh": null,
+  "element": "Darkness",
+  "damage_type": "Physical",
+  "start": "2026-08-20",
+  "end": "2026-08-27",
+  "hp_formula": {
+   "base": 2900,
+   "rate": 4000,
+   "slope": 2.9
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 1
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 1
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 75,
+  "id": "9265",
+  "name_en": "Dark Magica",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Magical",
+  "start": "2026-08-13",
+  "end": "2026-08-20",
+  "hp_formula": {
+   "base": 5000,
+   "rate": 4000,
+   "slope": 2.9
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 1
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 1
+  },
+  "is_break_season": true,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 74,
+  "id": "9270",
+  "name_en": "Basilisk",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Physical",
+  "start": "2026-08-06",
+  "end": "2026-08-13",
+  "hp_formula": {
+   "base": 2900,
+   "rate": 4000,
+   "slope": 2.9
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 1
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 1
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 73,
+  "id": "9268",
+  "name_en": "Octovius I",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Magical",
+  "start": "2026-07-30",
+  "end": "2026-08-06",
+  "hp_formula": {
+   "base": 1600,
+   "rate": 4000,
+   "slope": 2.9
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 1
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 1
+  },
+  "is_break_season": true,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 72,
+  "id": "9269",
+  "name_en": "Octoqueen",
+  "name_zh": null,
+  "element": "Water",
+  "damage_type": "Physical",
+  "start": "2026-07-23",
+  "end": "2026-07-30",
+  "hp_formula": {
+   "base": 7500,
+   "rate": 4000,
+   "slope": 2.9
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 1
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 1
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 71,
+  "id": "9268",
+  "name_en": "Octovius I",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Magical",
+  "start": "2026-07-09",
+  "end": "2026-07-16",
+  "hp_formula": {
+   "base": 1600,
+   "rate": 4000,
+   "slope": 2.9
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 1
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 1
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 70,
+  "id": "9267",
+  "name_en": "Mermaid Princess",
+  "name_zh": null,
+  "element": "Darkness",
+  "damage_type": "Physical",
+  "start": "2026-06-25",
+  "end": "2026-07-02",
+  "hp_formula": {
+   "base": 2400,
+   "rate": 4000,
+   "slope": 2.9
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 1
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 1
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 69,
+  "id": "9266",
+  "name_en": "Baywatcher",
+  "name_zh": null,
+  "element": "Light",
+  "damage_type": "Physical",
+  "start": "2026-06-11",
+  "end": "2026-06-18",
+  "hp_formula": {
+   "base": 1550,
+   "rate": 4000,
+   "slope": 2.9
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 1
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 1
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 68,
+  "id": "9265",
+  "name_en": "Dark Magica",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Magical",
+  "start": "2026-05-28",
+  "end": "2026-06-04",
+  "hp_formula": {
+   "base": 5000,
+   "rate": 4000,
+   "slope": 2.9
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 1
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 1
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 67,
+  "id": "9264",
+  "name_en": "Giant Rou",
+  "name_zh": null,
+  "element": "Water",
+  "damage_type": "Physical",
+  "start": "2026-05-14",
+  "end": "2026-05-21",
+  "hp_formula": {
+   "base": 7000,
+   "rate": 4000,
+   "slope": 2.9
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 1
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 1
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 66,
+  "id": "9263",
+  "name_en": "True Orochi",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Magical",
+  "start": "2026-04-30",
+  "end": "2026-05-07",
+  "hp_formula": {
+   "base": 7000,
+   "rate": 3900,
+   "slope": 2.9
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 1
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 1
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 65,
+  "id": "9259",
+  "name_en": "Abomination",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Physical",
+  "start": "2026-04-23",
+  "end": "2026-04-30",
+  "hp_formula": {
+   "base": 24000,
+   "rate": 1630,
+   "slope": 2.8
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.9
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.9
+  },
+  "is_break_season": true,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 64,
+  "id": "9262",
+  "name_en": "True Orochi",
+  "name_zh": null,
+  "element": "Light",
+  "damage_type": "Physical",
+  "start": "2026-04-16",
+  "end": "2026-04-23",
+  "hp_formula": {
+   "base": 10000,
+   "rate": 4800,
+   "slope": 3
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.9
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.9
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 63,
+  "id": "9261",
+  "name_en": "Complex",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Magical",
+  "start": "2026-04-02",
+  "end": "2026-04-09",
+  "hp_formula": {
+   "base": 9000,
+   "rate": 3300,
+   "slope": 2.8
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.9
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.9
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 62,
+  "id": "9255",
+  "name_en": "Frost Spirit",
+  "name_zh": null,
+  "element": "Water",
+  "damage_type": "Physical",
+  "start": "2026-03-26",
+  "end": "2026-04-02",
+  "hp_formula": {
+   "base": 30000,
+   "rate": 3570,
+   "slope": 2.2
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.83
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.88
+  },
+  "is_break_season": true,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 61,
+  "id": "9258",
+  "name_en": "Abyssal Moon Shadow Tanya",
+  "name_zh": null,
+  "element": "Darkness",
+  "damage_type": "Magical",
+  "start": "2026-03-19",
+  "end": "2026-03-26",
+  "hp_formula": {
+   "base": 10000,
+   "rate": 3700,
+   "slope": 2.2
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.9
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.9
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 60,
+  "id": "9260",
+  "name_en": "GNR-GH01",
+  "name_zh": null,
+  "element": "Water",
+  "damage_type": "Physical",
+  "start": "2026-03-05",
+  "end": "2026-03-12",
+  "hp_formula": {
+   "base": 25000,
+   "rate": 1500,
+   "slope": 2.5
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.9
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.9
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 59,
+  "id": "9259",
+  "name_en": "Abomination",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Physical",
+  "start": "2026-02-19",
+  "end": "2026-02-26",
+  "hp_formula": {
+   "base": 24000,
+   "rate": 1630,
+   "slope": 2.8
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.9
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.9
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 58,
+  "id": "9257",
+  "name_en": "Mother Bird Yokai",
+  "name_zh": null,
+  "element": "Light",
+  "damage_type": "Magical",
+  "start": "2026-02-05",
+  "end": "2026-02-12",
+  "hp_formula": {
+   "base": 20000,
+   "rate": 1750,
+   "slope": 2.8
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.9
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.9
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 57,
+  "id": "9256",
+  "name_en": "Snowy Mountain Tyrant",
+  "name_zh": null,
+  "element": "Darkness",
+  "damage_type": "Physical",
+  "start": "2026-01-22",
+  "end": "2026-01-29",
+  "hp_formula": {
+   "base": 23000,
+   "rate": 1800,
+   "slope": 2.8
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.9
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.9
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 56,
+  "id": "9255",
+  "name_en": "Frost Spirit",
+  "name_zh": null,
+  "element": "Water",
+  "damage_type": "Physical",
+  "start": "2026-01-08",
+  "end": "2026-01-15",
+  "hp_formula": {
+   "base": 30000,
+   "rate": 3570,
+   "slope": 2.2
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.83
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.88
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 55,
+  "id": "9254",
+  "name_en": "Ashen Salamander",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Magical",
+  "start": "2025-12-23",
+  "end": "2025-12-30",
+  "hp_formula": {
+   "base": 30000,
+   "rate": 6800,
+   "slope": 2.3
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.8
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.85
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 54,
+  "id": "9253",
+  "name_en": "E.O.N",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Magical",
+  "start": "2025-12-09",
+  "end": "2025-12-16",
+  "hp_formula": {
+   "base": 30000,
+   "rate": 6000,
+   "slope": 2.3
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.82
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.82
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 53,
+  "id": "9252",
+  "name_en": "Basilisk",
+  "name_zh": null,
+  "element": "Water",
+  "damage_type": "Physical",
+  "start": "2025-11-27",
+  "end": "2025-12-04",
+  "hp_formula": {
+   "base": 30000,
+   "rate": 5050,
+   "slope": 2.3
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.8
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.85
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 52,
+  "id": "9251",
+  "name_en": "Pumpkin Ghost Tanya",
+  "name_zh": null,
+  "element": "Light",
+  "damage_type": "Magical",
+  "start": "2025-11-13",
+  "end": "2025-11-20",
+  "hp_formula": {
+   "base": 30000,
+   "rate": 5400,
+   "slope": 2.3
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.8
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.85
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 51,
+  "id": "9250",
+  "name_en": "Talos",
+  "name_zh": null,
+  "element": "Darkness",
+  "damage_type": "Physical",
+  "start": "2025-10-30",
+  "end": "2025-11-06",
+  "hp_formula": {
+   "base": 30000,
+   "rate": 4500,
+   "slope": 2.28
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.8
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.85
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 50,
+  "id": "9249",
+  "name_en": "Berserker",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Physical",
+  "start": "2025-10-16",
+  "end": "2025-10-23",
+  "hp_formula": {
+   "base": 30000,
+   "rate": 3890,
+   "slope": 2.3
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.95
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.9
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 49,
+  "id": "9248",
+  "name_en": "Frenzied Wolf",
+  "name_zh": null,
+  "element": "Water",
+  "damage_type": "Physical",
+  "start": "2025-10-02",
+  "end": "2025-10-10",
+  "hp_formula": {
+   "base": 30000,
+   "rate": 2550,
+   "slope": 2.2
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.88
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.95
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 48,
+  "id": "9247",
+  "name_en": "Abyssal Moon Shadow Tanya",
+  "name_zh": null,
+  "element": "Light",
+  "damage_type": "Magical",
+  "start": "2025-09-18",
+  "end": "2025-09-25",
+  "hp_formula": {
+   "base": 30000,
+   "rate": 2550,
+   "slope": 2.3
+  },
+  "stage2": {
+   "level": 10,
+   "ratio": 0.95
+  },
+  "stage3": {
+   "level": 13,
+   "ratio": 0.92
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 47,
+  "id": "9246",
+  "name_en": "Baywatcher",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Physical",
+  "start": "2025-09-04",
+  "end": "2025-09-11",
+  "hp_formula": {
+   "base": 40000,
+   "rate": 2880,
+   "slope": 2.28
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 46,
+  "id": "9245",
+  "name_en": "Crab Mother",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Physical",
+  "start": "2025-08-21",
+  "end": "2025-08-28",
+  "hp_formula": {
+   "base": 35000,
+   "rate": 1200,
+   "slope": 2.75
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 45,
+  "id": "9244",
+  "name_en": "Chimera of Resentment",
+  "name_zh": null,
+  "element": "Darkness",
+  "damage_type": "Magical",
+  "start": "2025-08-07",
+  "end": "2025-08-14",
+  "hp_formula": {
+   "base": 35000,
+   "rate": 1200,
+   "slope": 2.75
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 44,
+  "id": "9243",
+  "name_en": "Blue Beard",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Physical",
+  "start": "2025-07-24",
+  "end": "2025-07-31",
+  "hp_formula": {
+   "base": 15000,
+   "rate": 1400,
+   "slope": 2.8
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 43,
+  "id": "9242",
+  "name_en": "Trauma Flamingo",
+  "name_zh": null,
+  "element": "Light",
+  "damage_type": "Physical",
+  "start": "2025-07-10",
+  "end": "2025-07-17",
+  "hp_formula": {
+   "base": 20000,
+   "rate": 700,
+   "slope": 3.1
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 42,
+  "id": "9241",
+  "name_en": "Procyon 001",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Physical",
+  "start": "2025-06-26",
+  "end": "2025-07-03",
+  "hp_formula": {
+   "base": 20000,
+   "rate": 580,
+   "slope": 3.2
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 41,
+  "id": "9240",
+  "name_en": "Octovius I",
+  "name_zh": null,
+  "element": "Water",
+  "damage_type": "Magical",
+  "start": "2025-06-12",
+  "end": "2025-06-19",
+  "hp_formula": {
+   "base": 10000,
+   "rate": 380,
+   "slope": 3.9
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 40,
+  "id": "9239",
+  "name_en": "Master of the Fiend Den",
+  "name_zh": null,
+  "element": "Darkness",
+  "damage_type": "Physical",
+  "start": "2025-05-29",
+  "end": "2025-06-05",
+  "hp_formula": {
+   "base": 10000,
+   "rate": 1800,
+   "slope": 3.1
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 39,
+  "id": "9238",
+  "name_en": "Gronvar",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Physical",
+  "start": "2025-05-15",
+  "end": "2025-05-22",
+  "hp_formula": {
+   "base": 10000,
+   "rate": 300,
+   "slope": 3.59
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 38,
+  "id": "9237",
+  "name_en": "Abyssal Moon Shadow Tanya",
+  "name_zh": null,
+  "element": "Water",
+  "damage_type": "Magical",
+  "start": "2025-05-01",
+  "end": "2025-05-08",
+  "hp_formula": {
+   "base": 10000,
+   "rate": 300,
+   "slope": 3.59
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 37,
+  "id": "9236",
+  "name_en": "Gridlin",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Physical",
+  "start": "2025-04-17",
+  "end": "2025-04-24",
+  "hp_formula": {
+   "base": 12000,
+   "rate": 33,
+   "slope": 4.4
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 36,
+  "id": "9235",
+  "name_en": "The Conspired",
+  "name_zh": null,
+  "element": "Darkness",
+  "damage_type": "Magical",
+  "start": "2025-04-03",
+  "end": "2025-04-10",
+  "hp_formula": {
+   "base": 10000,
+   "rate": 1500,
+   "slope": 2.6
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 35,
+  "id": "9234",
+  "name_en": "Cherry Blossom Evil Spirit",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Magical",
+  "start": "2025-03-20",
+  "end": "2025-03-27",
+  "hp_formula": {
+   "base": 13000,
+   "rate": 390,
+   "slope": 3.3
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 34,
+  "id": "9233",
+  "name_en": "Basilisk",
+  "name_zh": null,
+  "element": "Light",
+  "damage_type": "Physical",
+  "start": "2025-03-06",
+  "end": "2025-03-13",
+  "hp_formula": {
+   "base": 10000,
+   "rate": 300,
+   "slope": 4
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 33,
+  "id": "9232",
+  "name_en": "Darkness Devourer",
+  "name_zh": null,
+  "element": "Water",
+  "damage_type": "Magical",
+  "start": "2025-02-20",
+  "end": "2025-02-27",
+  "hp_formula": {
+   "base": 11000,
+   "rate": 400,
+   "slope": 3.43
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 32,
+  "id": "9231",
+  "name_en": "Snowy Mountain Tyrant",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Physical",
+  "start": "2025-02-06",
+  "end": "2025-02-13",
+  "hp_formula": {
+   "base": 8000,
+   "rate": 60,
+   "slope": 4.7
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 31,
+  "id": "9230",
+  "name_en": "Giant Rou",
+  "name_zh": null,
+  "element": "Darkness",
+  "damage_type": "Physical",
+  "start": "2025-01-23",
+  "end": "2025-01-31",
+  "hp_formula": {
+   "base": 10000,
+   "rate": 360,
+   "slope": 3.6
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 30,
+  "id": "9229",
+  "name_en": "CYBORG TYPE-B01",
+  "name_zh": null,
+  "element": "Light",
+  "damage_type": "Magical",
+  "start": "2025-01-09",
+  "end": "2025-01-16",
+  "hp_formula": {
+   "base": 13000,
+   "rate": 380,
+   "slope": 3.27
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 29,
+  "id": "9228",
+  "name_en": "Talos",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Physical",
+  "start": "2024-12-26",
+  "end": "2025-01-02",
+  "hp_formula": {
+   "base": 8000,
+   "rate": 11,
+   "slope": 5
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 28,
+  "id": "9227",
+  "name_en": "E.O.N",
+  "name_zh": null,
+  "element": "Water",
+  "damage_type": "Magical",
+  "start": "2024-12-10",
+  "end": "2024-12-17",
+  "hp_formula": {
+   "base": 7500,
+   "rate": 0,
+   "slope": 5.7
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 27,
+  "id": "9226",
+  "name_en": "Blue Beard",
+  "name_zh": null,
+  "element": "Darkness",
+  "damage_type": "Physical",
+  "start": "2024-11-28",
+  "end": "2024-12-05",
+  "hp_formula": {
+   "base": 14000,
+   "rate": 580,
+   "slope": 3
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 26,
+  "id": "9219",
+  "name_en": "Crab Mother",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Physical",
+  "start": "2024-11-14",
+  "end": "2024-11-21",
+  "hp_formula": {
+   "base": 8000,
+   "rate": 400,
+   "slope": 3.2
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": true,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 25,
+  "id": "9225",
+  "name_en": "Abomination",
+  "name_zh": null,
+  "element": "Light",
+  "damage_type": "Physical",
+  "start": "2024-11-07",
+  "end": "2024-11-14",
+  "hp_formula": {
+   "base": 12000,
+   "rate": 470,
+   "slope": 3.2
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 24,
+  "id": "9224",
+  "name_en": "True Orochi",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Magical",
+  "start": "2024-10-24",
+  "end": "2024-10-31",
+  "hp_formula": {
+   "base": 9000,
+   "rate": 430,
+   "slope": 3.2
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 23,
+  "id": "9223",
+  "name_en": "True Orochi",
+  "name_zh": null,
+  "element": "Water",
+  "damage_type": "Physical",
+  "start": "2024-10-10",
+  "end": "2024-10-17",
+  "hp_formula": {
+   "base": 10000,
+   "rate": 50,
+   "slope": 4.07
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 22,
+  "id": "9214",
+  "name_en": "Berserker",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Physical",
+  "start": "2024-09-26",
+  "end": "2024-10-03",
+  "hp_formula": {
+   "base": 1000,
+   "rate": 0,
+   "slope": 6.5
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": true,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 21,
+  "id": "9221",
+  "name_en": "Fiery Tiger - YuKwang",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Physical",
+  "start": "2024-09-19",
+  "end": "2024-09-26",
+  "hp_formula": {
+   "base": 8000,
+   "rate": 330,
+   "slope": 4.1
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 20,
+  "id": "9220",
+  "name_en": "Parakyr Rex",
+  "name_zh": null,
+  "element": "Darkness",
+  "damage_type": "Physical",
+  "start": "2024-09-05",
+  "end": "2024-09-12",
+  "hp_formula": {
+   "base": 12000,
+   "rate": 0,
+   "slope": 5.1
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 19,
+  "id": "9219",
+  "name_en": "Crab Mother",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Physical",
+  "start": "2024-08-22",
+  "end": "2024-08-29",
+  "hp_formula": {
+   "base": 8000,
+   "rate": 400,
+   "slope": 3.2
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 18,
+  "id": "9218",
+  "name_en": "Cherry Blossom Evil Spirit",
+  "name_zh": null,
+  "element": "Light",
+  "damage_type": "Magical",
+  "start": "2024-08-07",
+  "end": "2024-08-14",
+  "hp_formula": {
+   "base": 5000,
+   "rate": 0,
+   "slope": 6.52
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 17,
+  "id": "9217",
+  "name_en": "Giant Rou",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Physical",
+  "start": "2024-07-25",
+  "end": "2024-08-01",
+  "hp_formula": {
+   "base": 10000,
+   "rate": 400,
+   "slope": 3.2
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 16,
+  "id": "9216",
+  "name_en": "Procyon 001",
+  "name_zh": null,
+  "element": "Darkness",
+  "damage_type": "Physical",
+  "start": "2024-07-11",
+  "end": "2024-07-18",
+  "hp_formula": {
+   "base": 8000,
+   "rate": 300,
+   "slope": 3.45
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 15,
+  "id": "9215",
+  "name_en": "Octovious I",
+  "name_zh": null,
+  "element": "Water",
+  "damage_type": "Magical",
+  "start": "2024-06-27",
+  "end": "2024-07-04",
+  "hp_formula": {
+   "base": 4000,
+   "rate": 3,
+   "slope": 5.75
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 14,
+  "id": "9214",
+  "name_en": "Berserker",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Physical",
+  "start": "2024-06-13",
+  "end": "2024-06-20",
+  "hp_formula": {
+   "base": 1000,
+   "rate": 0,
+   "slope": 6.5
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 13,
+  "id": "9213",
+  "name_en": "Talos",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Physical",
+  "start": "2024-05-29",
+  "end": "2024-06-05",
+  "hp_formula": {
+   "base": 13000,
+   "rate": 200,
+   "slope": 3.3
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 12,
+  "id": "9212",
+  "name_en": "Gridlin",
+  "name_zh": null,
+  "element": "Light",
+  "damage_type": "Physical",
+  "start": "2024-05-16",
+  "end": "2024-05-23",
+  "hp_formula": {
+   "base": 12000,
+   "rate": 290,
+   "slope": 3.1
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 11,
+  "id": "9211",
+  "name_en": "Blue Beard",
+  "name_zh": null,
+  "element": "Darkness",
+  "damage_type": "Physical",
+  "start": "2024-05-02",
+  "end": "2024-05-09",
+  "hp_formula": {
+   "base": 10000,
+   "rate": 14,
+   "slope": 4.3
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 10,
+  "id": "9210",
+  "name_en": "Fiery Tiger - YuKwang",
+  "name_zh": null,
+  "element": "Water",
+  "damage_type": "Physical",
+  "start": "2024-04-18",
+  "end": "2024-04-25",
+  "hp_formula": {
+   "base": 4500,
+   "rate": 100,
+   "slope": 3.2
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 9,
+  "id": "9209",
+  "name_en": "Darkness Devourer",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Magical",
+  "start": "2024-04-04",
+  "end": "2024-04-11",
+  "hp_formula": {
+   "base": 11000,
+   "rate": 150,
+   "slope": 3.2
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 8,
+  "id": "9208",
+  "name_en": "Cherry Blossom Evil Spirit",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Magical",
+  "start": "2024-03-21",
+  "end": "2024-03-28",
+  "hp_formula": {
+   "base": 5000,
+   "rate": 13,
+   "slope": 4.3
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 7,
+  "id": "9207",
+  "name_en": "Parakyr Rex Slayer",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Physical",
+  "start": "2024-03-07",
+  "end": "2024-03-14",
+  "hp_formula": {
+   "base": 7800,
+   "rate": 240,
+   "slope": 3
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 6,
+  "id": "9206",
+  "name_en": "Procyon 001",
+  "name_zh": null,
+  "element": "Wind",
+  "damage_type": "Physical",
+  "start": "2024-02-22",
+  "end": "2024-02-29",
+  "hp_formula": {
+   "base": 8000,
+   "rate": 400,
+   "slope": 2.85
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 5,
+  "id": "9205",
+  "name_en": "Gridlin",
+  "name_zh": null,
+  "element": "Darkness",
+  "damage_type": "Magical",
+  "start": "2024-02-08",
+  "end": "2024-02-15",
+  "hp_formula": {
+   "base": 13000,
+   "rate": 120,
+   "slope": 3.2
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 4,
+  "id": "9204",
+  "name_en": "E.O.N",
+  "name_zh": null,
+  "element": "Light",
+  "damage_type": "Magical",
+  "start": "2024-01-11",
+  "end": "2024-01-18",
+  "hp_formula": {
+   "base": 7500,
+   "rate": 200,
+   "slope": 2.75
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 3,
+  "id": "9203",
+  "name_en": "Fiery Tiger - YuKwang",
+  "name_zh": null,
+  "element": "Fire",
+  "damage_type": "Physical",
+  "start": "2023-12-14",
+  "end": "2023-12-21",
+  "hp_formula": {
+   "base": 4000,
+   "rate": 375,
+   "slope": 3.15
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 2,
+  "id": "9202",
+  "name_en": "Parakyr Rex",
+  "name_zh": null,
+  "element": "Water",
+  "damage_type": "Physical",
+  "start": "2023-11-16",
+  "end": "2023-11-23",
+  "hp_formula": {
+   "base": 5800,
+   "rate": 150,
+   "slope": 3
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ },
+ {
+  "season": 1,
+  "id": "9201",
+  "name_en": "Darkness Devourer",
+  "name_zh": null,
+  "element": "Darkness",
+  "damage_type": "Magical",
+  "start": "2023-10-12",
+  "end": "2023-10-19",
+  "hp_formula": {
+   "base": 6000,
+   "rate": 400,
+   "slope": 2.6
+  },
+  "stage2": {
+   "level": 12,
+   "ratio": 1.02
+  },
+  "stage3": {
+   "level": 14,
+   "ratio": 0.86
+  },
+  "is_break_season": false,
+  "counter_comps": [],
+  "sources": [
+   "https://browndust2.miraheze.org/wiki/Fiend_Hunter_Bosses"
+  ],
+  "as_of": "2026-10-01"
+ }
+]

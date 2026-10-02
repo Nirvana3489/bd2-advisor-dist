@@ -1,0 +1,292 @@
+[
+ {
+  "name": "Absorption",
+  "description": "Absorption is a type of removal skill.<br><br>The following effects can be absorbed:<br>- Effects cast by allies or enemies<br><br>The following effects cannot be absorbed:<br>- Immunity</br><br>- Death Time<br>- Battle Environment effects and Domain<br>- Collection Buffs / Evil Castle Blessings / Artifacts<br>- Last Night Pressure effect<br>- Unplaceable effect<br>- Buffs/Debuffs that cannot be removed by removal skills<br>- Gladiator's Blessings<br>- Break effect",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Acceleration",
+  "description": "Stacks an additional effect for each Chain stacked.<br><br>When multiple enemies are targeted, applies the effect to the enemy with the most Chains.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Allied Zone Summon",
+  "description": "Summons units sequentially starting from the forward left of your formation.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Augmentation",
+  "description": "Augmentation increases damage dealt.<br><br>For instance, with a 25% Augmentation effect, dealing 100 damage results in 125 damage.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Aura",
+  "description": "Auras provide certain effects to nearby allies. These effects disappear if the unit with the Aura dies and cannot be removed by removal effects.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Barrier",
+  "description": "Barrier reduces damage received.<br><br>For instance, with a 50% Barrier and 50% DEF, taking 100 damage is reduced to 25 due to the Barrier and DEF.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Bleed",
+  "description": "Inflicts DoT damage at the end of each turn.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Break",
+  "description": "Skills are canceled, and no actions can be performed while in Break state.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Burn",
+  "description": "Inflicts DoT damage at the end of each turn.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Chain",
+  "description": "Each attack adds a Chain stack to the target, with each stack increasing the next attack's damage by 10%. For example, if a target has 3 stacks and receives 100 damage, the Chain effect increases it to 130 damage.<br><br>- Multi-hit attacks add a stack for each hit.<br>- Counters and DoTs do not add Chain stacks.<br>- Stacks reset at the end of the turn.<br>- Chains can stack up to a maximum of 100.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Chain DMG Increase",
+  "description": "Bonus damage from Chains is increased. For instance, if Chain DMG Increase it set to 10%, each Chain stack will now deal 20% additional damage instead of 10%.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Chain Reinforcement",
+  "description": "When stacking Chains through attacks, extra Chains are added based on the Chain Reinforcement value. This effect occurs with each attack.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Concentrated Fire",
+  "description": "Enemies concentrate attacks on targets with the Concentrated Fire effect.<br>Concentrated Fire targets are prioritized over Taunt. If multiple targets are in a Concentrated Fire state, the earliest in the action order is prioritized.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Counter",
+  "description": "If you survive after being hit, you counter the enemy, dealing damage or applying effects. Counters apply for each attack received.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Current HP",
+  "description": "This represents the current health the target has.<br><br>When using a skill based on Current HP, if the calculated HP exceeds 50,000, it is capped at 50,000.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Dark Vulnerability",
+  "description": "Increases the Dark DMG taken by the target.<br><br>For instance, with a 25% Dark Vulnerability, taking 100 damage from a Dark type enemy results in 125 damage instead due to the effects of Vulnerability.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Debuff Count",
+  "description": "The following Debuffs are added to the count:<br>- Effects cast by allies or enemies<br><br>The following effects are not added to the count:<br>- Death Time<br>- Battle Environment effects and Domain<br>- Artifacts<br>- Last Night Pressure effect<br>- Gladiator's Blessings<br>- Break effect",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Domain",
+  "description": "Only a single domain can be maintained on a battlefield.<br>The last domain skill used will replace the existing one.<br><br>The domain lasts even if the caster of the domain falls or is replaced.<br>Domain effects are not affeced by damage that scales with the number of Buffs/Debuffs, or by Buff/Debuff extension skills.<br>They also cannot be removed by Buff/Debuff removal skills.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "DoT",
+  "description": "DoTs (Damage Over Time) deal ongoing damage at the end of each turn, such as Bleed, Burn, Poison, Rot, Frostbite, and others.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "DoT Vulnerability",
+  "description": "Increases the damage taken from DoTs.<br><br>For instance, with a 25% DoT Vulnerability, taking 100 damage from a DoT attack results in 125 damage instead due to the effects of Vulnerability.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Energy Guard",
+  "description": "Energy Guard is consumed before HP when taking damage.<br>If multiple Energy Guards are stacked, they deplete in the order they were activated. Pure DMG ignores Energy Guard, dealing direct damage.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Evasion",
+  "description": "Succesfully evading ignores all effects and damage, but self-destruct and counters cannot be evaded.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Extend",
+  "description": "Extends the duration of active Buffs/Debuffs.<br></br> The duration of Artifact effects cannot be extended.<br>The number of Buff/Debuff uses cannot be increased.<br>The Break effect cannot be extended.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Fixed DMG",
+  "description": "Isn't affected by the following effects:<br>- DEF / Magic Resistance / Damage Taken (Increase/Reduction) / Critical Strike / Death Time Effect<br>Is affected by the following effects:<br>- Property DMG / Chain Effect / Damage Dealt (Increase/Reduction) / Energy Guard",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Frostbite",
+  "description": "Inflicts DoT damage at the end of each turn.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Increase Chain DMG",
+  "description": "Bonus damage from Chains is increased.<br>For instance, if Increase Chain DMG is set to 10%, each Chain stack will now deal 20% additional damage insetad of 10%.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Irremovable Blessing",
+  "description": "Irremovable Blessings cannot be removed by any removal skills.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Light Vulnerability",
+  "description": "Increases the Light DMG taken by the target.<br><br>For instance, with a 25% Light Vulnerability, taking 100 damage from a Light type enemy results in 125 damage instead due to the effects of Vulnerability.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Magic Type",
+  "description": "This type uses the Magic ATK stat instead of ATK for its attacks.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Main Target",
+  "description": "The main target is the single square at the center of the skill's range.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Mark",
+  "description": "Ignores the target's Evasion.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Max HP",
+  "description": "This represents the maximum health the target can have.<br><br>When using a skill based on Max HP, if the calculated HP exceeds 50,000, it is capped at 50,000.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Nightmare",
+  "description": "Every time the target takes damage, bonus damage is inflicted based on the caster's stats.<br><br>Stats: ATK / Magic ATK / Crit Rate / Crit DMG / Property DMG / Elemental Property / Attack Property",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Number of Buffs",
+  "description": "The following Buffs are included in the count:<br>- Buffs applied by allies and enemies.<br><br>The following are not included in the count:<br>- Immunity<br>- Death Time<br>- Battle Environment effects and Domain<br>- Collection Buffs / Evil Castle Blessings / Artifacts<br>- Gladiator's Blessings",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Physical Type",
+  "description": "This type uses the ATK stat instead of Magic ATK for its attacks.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Poison",
+  "description": "Inflicts DoT damage at the end of each turn.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Preemptive Action",
+  "description": "This is a skill that can be activated preemptively before the battle begins.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Pressure",
+  "description": "Under the Pressure effect, the efficiency of stat-boosting effects is reduced. For instance, with a 20% Pressure effect, a 200% ATK increase effect becomes 160% instead.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Property DMG",
+  "description": "When attacking with a property advantage, your damage increases by the property damage value.<br><br>For instance, with a 50% property damage increase, dealing 100 damage to a weaker property results in 150 damage.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Pure DMG",
+  "description": "Isn't affected by the following effects:<br>- DEF / Magic Resistance / Damage Taken (Increase/Reduction) / Energy Guard<br>Is affected by the following effects:<br>- Property DMG / Chain Effect / Damage Dealt (Increase/Reduction) / Death Time Effect",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Rampage",
+  "description": "Consumes all remaining SP to amplify the skill's power.<br>Any SP gained during the attack turn will not be used.<br>If multiple characters enter Rampage at once, the remaining SP goes to the character with the fastest attack order.<br>If the character dies before the skill activates, the SP consumed is not refunded.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Revive",
+  "description": "Revives after being killed. All active effects disappear upon revival.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Rot",
+  "description": "Inflicts DoT damage at the end of each turn.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Silence",
+  "description": "Silenced targets can't reserve skills, and any reserved skills are canceled with SP refunded.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "SP",
+  "description": "SP is the points needed to use skills in battle. A set amount is provided at the start of battle, and you may earn additional SP at the end of each turn, depending on the in-game content. Additional SP can also be gained through basic and knockback attacks or by using SP restoring skills.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "SP Cost Increase",
+  "description": "Increases the SP cost when queuing a skill.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "SP Cost Reduction",
+  "description": "Reduces the SP cost when queuing a skill. SP cost can't drop below 0.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Stack Application",
+  "description": "Stack Application skills become more effective with the number of stacks.<br><br>For instance if each stack provides a 10% increase in ATK, then with 3 stacks, ATK increases by 30%.<br><br>The potency of Stack Application is determined by the most recently applied value. If you have 5 stacks of a 10% effect and gain 3 stacks of a 20% effect, all 8 stacks will be calculated using the 20% value.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Stat Reinforcement",
+  "description": "This effect increases the following stats:<br>- ATK / Magic ATK / DEF / Magic Resistance / Crit Rate / Crit DMG / Property DMG / Property Resistance",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Summons Vulnerability",
+  "description": "Increases the damage taken from Summons.<br><br>For instance, with a 25% Summons Vulnerability, taking 100 damage from the Summons enemy results in 125 damage instead due to the effects of Vulnerability.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Target Avoidance",
+  "description": "While the Target Avoidance effect is active, the character doesn't become the main target of enemies, unless no other targets are available. Taunt and Concentrated Fire take priority over Target Avoidance.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Taunt",
+  "description": "Enemies prioritize attacking targets with the Taunt effect. Concentrated Fire targets are prioritized over Taunt. If multiple targets are taunted, the earliest in the action order is prioritized.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Transform",
+  "description": "Transforms the target's appearance and grants additional effects.<br>While transformed, SP cost and cooldown for the skill are reduced to 0.<br>Transformations can't be removed by removal effects.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Vulnerability",
+  "description": "Vulnerability increases damage received.<br><br>For instance, with a 25% Vulnerability, taking 100 damage results in 125 damage instead due to the effects of Vulnerability.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Vulnerability (Magic)",
+  "description": "Magic Vulnerability increases incoming Magic type DMG the target receives.<br><br>For instance, with a 25% Magic Vulnerability, taking 100 damage results in 125 damage instead due to the effects of Vulnerability.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Vulnerability (Physical)",
+  "description": "Physical Vulnerability increases incoming Physical type DMG the target receives.<br><br>For instance, with a 25% Physical Vulnerability, taking 100 damage results in 125 damage instead due to the effects of Vulnerability.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Weakening",
+  "description": "This is a debuff that lowers the target's stats.",
+  "as_of": "2026-10-01"
+ },
+ {
+  "name": "Wind Vulnerability",
+  "description": "Increases the Wind DMG taken by the target.<br><br>For instance, with a 25% Wind Vulnerability, taking 100 damage from a Wind type enemy results in 125 damage instead due to the effects of Vulnerability.",
+  "as_of": "2026-10-01"
+ }
+]
