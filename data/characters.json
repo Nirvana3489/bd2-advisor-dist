@@ -2,7 +2,7 @@
  {
   "id": "alec",
   "name_en": "Alec",
-  "name_zh": null,
+  "name_zh": "艾瑞克",
   "star": 5,
   "element": "Fire",
   "damage_type": "Physical",
@@ -57,7 +57,7 @@
  {
   "id": "anastasia",
   "name_en": "Anastasia",
-  "name_zh": null,
+  "name_zh": "安娜塔西亚",
   "star": 5,
   "element": "Fire",
   "damage_type": "Physical",
@@ -112,7 +112,7 @@
  {
   "id": "angelica",
   "name_en": "Angelica",
-  "name_zh": null,
+  "name_zh": "安洁莉卡",
   "star": 5,
   "element": "Light",
   "damage_type": "Magical",
@@ -168,7 +168,7 @@
  {
   "id": "aquila",
   "name_en": "Aquila",
-  "name_zh": null,
+  "name_zh": "阿奇拉",
   "star": 5,
   "element": "Fire",
   "damage_type": "Physical",
@@ -222,7 +222,7 @@
  {
   "id": "blade",
   "name_en": "Blade",
-  "name_zh": null,
+  "name_zh": "布莱德",
   "star": 5,
   "element": "Darkness",
   "damage_type": "Physical",
@@ -278,7 +278,7 @@
  {
   "id": "celia",
   "name_en": "Celia",
-  "name_zh": null,
+  "name_zh": "西利亚",
   "star": 5,
   "element": "Darkness",
   "damage_type": "Magical",
@@ -334,7 +334,7 @@
  {
   "id": "dalvi",
   "name_en": "Dalvi",
-  "name_zh": null,
+  "name_zh": "达非",
   "star": 5,
   "element": "Wind",
   "damage_type": "Magical",
@@ -390,7 +390,7 @@
  {
   "id": "darian",
   "name_en": "Darian",
-  "name_zh": null,
+  "name_zh": "达丽安",
   "star": 5,
   "element": "Water",
   "damage_type": "Physical",
@@ -445,7 +445,7 @@
  {
   "id": "diana",
   "name_en": "Diana",
-  "name_zh": null,
+  "name_zh": "黛安娜",
   "star": 5,
   "element": "Wind",
   "damage_type": "Magical",
@@ -501,7 +501,7 @@
  {
   "id": "eclipse",
   "name_en": "Eclipse",
-  "name_zh": null,
+  "name_zh": "伊柯利普斯",
   "star": 5,
   "element": "Darkness",
   "damage_type": "Magical",
@@ -558,7 +558,7 @@
  {
   "id": "eleaneer",
   "name_en": "Eleaneer",
-  "name_zh": null,
+  "name_zh": "艾尼尔",
   "star": 5,
   "element": "Darkness",
   "damage_type": "Physical",
@@ -614,7 +614,7 @@
  {
   "id": "elise",
   "name_en": "Elise",
-  "name_zh": null,
+  "name_zh": "爱丽洁",
   "star": 5,
   "element": "Fire",
   "damage_type": "Physical",
@@ -670,7 +670,7 @@
  {
   "id": "eris",
   "name_en": "Eris",
-  "name_zh": null,
+  "name_zh": "艾莉丝",
   "star": 5,
   "element": "Fire",
   "damage_type": "Physical",
@@ -725,7 +725,7 @@
  {
   "id": "glacia",
   "name_en": "Glacia",
-  "name_zh": null,
+  "name_zh": "克蕾西亚",
   "star": 5,
   "element": "Water",
   "damage_type": "Magical",
@@ -781,7 +781,7 @@
  {
   "id": "goblin-slayer",
   "name_en": "Goblin Slayer",
-  "name_zh": null,
+  "name_zh": "哥布林杀手",
   "star": 5,
   "element": "Fire",
   "damage_type": "Physical",
@@ -835,7 +835,7 @@
  {
   "id": "granadair",
   "name_en": "Granadair",
-  "name_zh": null,
+  "name_zh": "葛拉娜德",
   "star": 5,
   "element": "Water",
   "damage_type": "Magical",
@@ -890,7 +890,7 @@
  {
   "id": "granhildr",
   "name_en": "Granhildr",
-  "name_zh": null,
+  "name_zh": "格兰希特",
   "star": 5,
   "element": "Light",
   "damage_type": "Physical",
@@ -947,7 +947,7 @@
  {
   "id": "gray",
   "name_en": "Gray",
-  "name_zh": null,
+  "name_zh": "格雷",
   "star": 5,
   "element": "Wind",
   "damage_type": "Physical",
@@ -1004,7 +1004,7 @@
  {
   "id": "helena",
   "name_en": "Helena",
-  "name_zh": null,
+  "name_zh": "海伦娜",
   "star": 5,
   "element": "Light",
   "damage_type": "Magical",
@@ -1060,7 +1060,7 @@
  {
   "id": "high-elf-archer",
   "name_en": "High Elf Archer",
-  "name_zh": null,
+  "name_zh": "妖精弓手",
   "star": 5,
   "element": "Wind",
   "damage_type": "Physical",
@@ -1114,7 +1114,7 @@
  {
   "id": "hikage",
   "name_en": "Hikage",
-  "name_zh": null,
+  "name_zh": "日影",
   "star": 5,
   "element": "Wind",
   "damage_type": "Physical",
@@ -1168,7 +1168,7 @@
  {
   "id": "ikaruga",
   "name_en": "Ikaruga",
-  "name_zh": null,
+  "name_zh": "斑鸠",
   "star": 5,
   "element": "Fire",
   "damage_type": "Physical",
@@ -1222,7 +1222,7 @@
  {
   "id": "justia",
   "name_en": "Justia",
-  "name_zh": null,
+  "name_zh": "悠丝缇亚",
   "star": 5,
   "element": "Light",
   "damage_type": "Physical",
@@ -1280,7 +1280,7 @@
  {
   "id": "kyouka-uzen",
   "name_en": "Kyouka Uzen",
-  "name_zh": null,
+  "name_zh": "羽前京香",
   "star": 5,
   "element": "Light",
   "damage_type": "Physical",
@@ -1334,7 +1334,7 @@
  {
   "id": "lathel",
   "name_en": "Lathel",
-  "name_zh": null,
+  "name_zh": "拉德尔",
   "star": 5,
   "element": "Fire",
   "damage_type": "Physical",
@@ -1393,7 +1393,7 @@
  {
   "id": "lecliss",
   "name_en": "Lecliss",
-  "name_zh": null,
+  "name_zh": "莱克莉斯",
   "star": 5,
   "element": "Wind",
   "damage_type": "Physical",
@@ -1448,7 +1448,7 @@
  {
   "id": "levia",
   "name_en": "Levia",
-  "name_zh": null,
+  "name_zh": "莱维亚",
   "star": 5,
   "element": "Fire",
   "damage_type": "Magical",
@@ -1504,7 +1504,7 @@
  {
   "id": "liatris",
   "name_en": "Liatris",
-  "name_zh": null,
+  "name_zh": "莉亚特里斯",
   "star": 5,
   "element": "Fire",
   "damage_type": "Physical",
@@ -1560,7 +1560,7 @@
  {
   "id": "liberta",
   "name_en": "Liberta",
-  "name_zh": null,
+  "name_zh": "黎维塔",
   "star": 5,
   "element": "Fire",
   "damage_type": "Physical",
@@ -1616,7 +1616,7 @@
  {
   "id": "loen",
   "name_en": "Loen",
-  "name_zh": null,
+  "name_zh": "罗安",
   "star": 5,
   "element": "Fire",
   "damage_type": "Magical",
@@ -1672,7 +1672,7 @@
  {
   "id": "luvencia",
   "name_en": "Luvencia",
-  "name_zh": null,
+  "name_zh": "卢班希亚",
   "star": 5,
   "element": "Darkness",
   "damage_type": "Physical",
@@ -1728,7 +1728,7 @@
  {
   "id": "mamonir",
   "name_en": "Mamonir",
-  "name_zh": null,
+  "name_zh": "马莫尼勒",
   "star": 5,
   "element": "Water",
   "damage_type": "Magical",
@@ -1783,7 +1783,7 @@
  {
   "id": "michaela",
   "name_en": "Michaela",
-  "name_zh": null,
+  "name_zh": "米卡艾拉",
   "star": 5,
   "element": "Light",
   "damage_type": "Magical",
@@ -1839,7 +1839,7 @@
  {
   "id": "morpeah",
   "name_en": "Morpeah",
-  "name_zh": null,
+  "name_zh": "墨菲亚",
   "star": 5,
   "element": "Water",
   "damage_type": "Magical",
@@ -1895,7 +1895,7 @@
  {
   "id": "nartas",
   "name_en": "Nartas",
-  "name_zh": null,
+  "name_zh": "纳罗达斯",
   "star": 5,
   "element": "Darkness",
   "damage_type": "Magical",
@@ -1949,7 +1949,7 @@
  {
   "id": "nebris",
   "name_en": "Nebris",
-  "name_zh": null,
+  "name_zh": "内布利斯",
   "star": 5,
   "element": "Wind",
   "damage_type": "Physical",
@@ -2005,7 +2005,7 @@
  {
   "id": "nekyndalia",
   "name_en": "Nekyndalia",
-  "name_zh": null,
+  "name_zh": "内肯达莉亚",
   "star": 5,
   "element": "Wind",
   "damage_type": "Magical",
@@ -2059,7 +2059,7 @@
  {
   "id": "olivier",
   "name_en": "Olivier",
-  "name_zh": null,
+  "name_zh": "奥利维耶",
   "star": 5,
   "element": "Light",
   "damage_type": "Magical",
@@ -2116,7 +2116,7 @@
  {
   "id": "olstein",
   "name_en": "Olstein",
-  "name_zh": null,
+  "name_zh": "奥尔施塔因",
   "star": 5,
   "element": "Wind",
   "damage_type": "Magical",
@@ -2171,7 +2171,7 @@
  {
   "id": "palette",
   "name_en": "Palette",
-  "name_zh": null,
+  "name_zh": "帕莱特",
   "star": 5,
   "element": "Darkness",
   "damage_type": "Magical",
@@ -2226,7 +2226,7 @@
  {
   "id": "priestess",
   "name_en": "Priestess",
-  "name_zh": null,
+  "name_zh": "女神官",
   "star": 5,
   "element": "Light",
   "damage_type": "Magical",
@@ -2280,7 +2280,7 @@
  {
   "id": "rafina",
   "name_en": "Rafina",
-  "name_zh": null,
+  "name_zh": "拉菲娜",
   "star": 5,
   "element": "Water",
   "damage_type": "Physical",
@@ -2336,7 +2336,7 @@
  {
   "id": "refithea",
   "name_en": "Refithea",
-  "name_zh": null,
+  "name_zh": "芮彼泰雅",
   "star": 5,
   "element": "Light",
   "damage_type": "Magical",
@@ -2392,7 +2392,7 @@
  {
   "id": "ren-yamashiro",
   "name_en": "Ren Yamashiro",
-  "name_zh": null,
+  "name_zh": "山城恋",
   "star": 5,
   "element": "Light",
   "damage_type": "Magical",
@@ -2446,7 +2446,7 @@
  {
   "id": "rou",
   "name_en": "Rou",
-  "name_zh": null,
+  "name_zh": "鲁",
   "star": 5,
   "element": "Darkness",
   "damage_type": "Physical",
@@ -2503,7 +2503,7 @@
  {
   "id": "roxy",
   "name_en": "Roxy",
-  "name_zh": null,
+  "name_zh": "洛琪希",
   "star": 5,
   "element": "Water",
   "damage_type": "Magical",
@@ -2558,7 +2558,7 @@
  {
   "id": "rubia",
   "name_en": "Rubia",
-  "name_zh": null,
+  "name_zh": "露比雅",
   "star": 5,
   "element": "Fire",
   "damage_type": "Physical",
@@ -2615,7 +2615,7 @@
  {
   "id": "sacred-justia",
   "name_en": "Sacred Justia",
-  "name_zh": null,
+  "name_zh": "神圣悠丝缇亚",
   "star": 5,
   "element": "Light",
   "damage_type": "Physical",
@@ -2669,7 +2669,7 @@
  {
   "id": "scheherazade",
   "name_en": "Scheherazade",
-  "name_zh": null,
+  "name_zh": "莎赫拉查德",
   "star": 5,
   "element": "Water",
   "damage_type": "Magical",
@@ -2726,7 +2726,7 @@
  {
   "id": "seir",
   "name_en": "Seir",
-  "name_zh": null,
+  "name_zh": "赛尔",
   "star": 5,
   "element": "Darkness",
   "damage_type": "Magical",
@@ -2782,7 +2782,7 @@
  {
   "id": "sonya",
   "name_en": "Sonya",
-  "name_zh": null,
+  "name_zh": "索尼娅",
   "star": 5,
   "element": "Darkness",
   "damage_type": "Magical",
@@ -2837,7 +2837,7 @@
  {
   "id": "sword-maiden",
   "name_en": "Sword Maiden",
-  "name_zh": null,
+  "name_zh": "剑之圣女",
   "star": 5,
   "element": "Light",
   "damage_type": "Magical",
@@ -2891,7 +2891,7 @@
  {
   "id": "sylvia",
   "name_en": "Sylvia",
-  "name_zh": null,
+  "name_zh": "席比雅",
   "star": 5,
   "element": "Water",
   "damage_type": "Physical",
@@ -2948,7 +2948,7 @@
  {
   "id": "tenka-izumo",
   "name_en": "Tenka Izumo",
-  "name_zh": null,
+  "name_zh": "出云天花",
   "star": 5,
   "element": "Darkness",
   "damage_type": "Magical",
@@ -3002,7 +3002,7 @@
  {
   "id": "teresse",
   "name_en": "Teresse",
-  "name_zh": null,
+  "name_zh": "泰瑞丝",
   "star": 5,
   "element": "Water",
   "damage_type": "Physical",
@@ -3058,7 +3058,7 @@
  {
   "id": "tyr",
   "name_en": "Tyr",
-  "name_zh": null,
+  "name_zh": "提尔",
   "star": 5,
   "element": "Wind",
   "damage_type": "Physical",
@@ -3113,7 +3113,7 @@
  {
   "id": "venaka",
   "name_en": "Venaka",
-  "name_zh": null,
+  "name_zh": "贝那卡",
   "star": 5,
   "element": "Wind",
   "damage_type": "Magical",
@@ -3168,7 +3168,7 @@
  {
   "id": "ventana",
   "name_en": "Ventana",
-  "name_zh": null,
+  "name_zh": "班塔纳",
   "star": 5,
   "element": "Light",
   "damage_type": "Physical",
@@ -3224,7 +3224,7 @@
  {
   "id": "wilhelmina",
   "name_en": "Wilhelmina",
-  "name_zh": null,
+  "name_zh": "威廉明娜",
   "star": 5,
   "element": "Water",
   "damage_type": "Physical",
@@ -3280,7 +3280,7 @@
  {
   "id": "yomi",
   "name_en": "Yomi",
-  "name_zh": null,
+  "name_zh": "咏",
   "star": 5,
   "element": "Wind",
   "damage_type": "Physical",
@@ -3334,7 +3334,7 @@
  {
   "id": "yozakura",
   "name_en": "Yozakura",
-  "name_zh": null,
+  "name_zh": "夜樱",
   "star": 5,
   "element": "Wind",
   "damage_type": "Magical",
@@ -3388,7 +3388,7 @@
  {
   "id": "yumi",
   "name_en": "Yumi",
-  "name_zh": null,
+  "name_zh": "雪泉",
   "star": 5,
   "element": "Water",
   "damage_type": "Magical",
@@ -3442,7 +3442,7 @@
  {
   "id": "yuri",
   "name_en": "Yuri",
-  "name_zh": null,
+  "name_zh": "尤里",
   "star": 5,
   "element": "Light",
   "damage_type": "Physical",
@@ -3497,7 +3497,7 @@
  {
   "id": "zenith",
   "name_en": "Zenith",
-  "name_zh": null,
+  "name_zh": "杰尼斯",
   "star": 5,
   "element": "Wind",
   "damage_type": "Physical",
@@ -3552,7 +3552,7 @@
  {
   "id": "andrew",
   "name_en": "Andrew",
-  "name_zh": null,
+  "name_zh": "安德鲁",
   "star": 4,
   "element": "Fire",
   "damage_type": "Physical",
@@ -3607,7 +3607,7 @@
  {
   "id": "bernie",
   "name_en": "Bernie",
-  "name_zh": null,
+  "name_zh": "维尔尼",
   "star": 4,
   "element": "Wind",
   "damage_type": "Physical",
@@ -3661,7 +3661,7 @@
  {
   "id": "elpis",
   "name_en": "Elpis",
-  "name_zh": null,
+  "name_zh": "厄尔比斯",
   "star": 4,
   "element": "Darkness",
   "damage_type": "Magical",
@@ -3715,7 +3715,7 @@
  {
   "id": "jayden",
   "name_en": "Jayden",
-  "name_zh": null,
+  "name_zh": "杰登",
   "star": 4,
   "element": "Light",
   "damage_type": "Magical",
@@ -3770,7 +3770,7 @@
  {
   "id": "kry",
   "name_en": "Kry",
-  "name_zh": null,
+  "name_zh": "克莱",
   "star": 4,
   "element": "Darkness",
   "damage_type": "Physical",
@@ -3825,7 +3825,7 @@
  {
   "id": "layla",
   "name_en": "Layla",
-  "name_zh": null,
+  "name_zh": "蕾拉",
   "star": 4,
   "element": "Light",
   "damage_type": "Physical",
@@ -3879,7 +3879,7 @@
  {
   "id": "lisianne",
   "name_en": "Lisianne",
-  "name_zh": null,
+  "name_zh": "莉西安",
   "star": 4,
   "element": "Wind",
   "damage_type": "Magical",
@@ -3933,7 +3933,7 @@
  {
   "id": "lucrezia",
   "name_en": "Lucrezia",
-  "name_zh": null,
+  "name_zh": "卢克雷齐亚",
   "star": 4,
   "element": "Darkness",
   "damage_type": "Magical",
@@ -3987,7 +3987,7 @@
  {
   "id": "samay",
   "name_en": "Samay",
-  "name_zh": null,
+  "name_zh": "莎美",
   "star": 4,
   "element": "Darkness",
   "damage_type": "Magical",
@@ -4042,7 +4042,7 @@
  {
   "id": "arines",
   "name_en": "Arines",
-  "name_zh": null,
+  "name_zh": "阿里内斯",
   "star": 3,
   "element": "Light",
   "damage_type": "Magical",
@@ -4096,7 +4096,7 @@
  {
   "id": "beatrice",
   "name_en": "Beatrice",
-  "name_zh": null,
+  "name_zh": "比阿特丽丝",
   "star": 3,
   "element": "Fire",
   "damage_type": "Physical",
@@ -4150,7 +4150,7 @@
  {
   "id": "carlson",
   "name_en": "Carlson",
-  "name_zh": null,
+  "name_zh": "卡森",
   "star": 3,
   "element": "Water",
   "damage_type": "Physical",
@@ -4204,7 +4204,7 @@
  {
   "id": "cynthia",
   "name_en": "Cynthia",
-  "name_zh": null,
+  "name_zh": "辛西亚",
   "star": 3,
   "element": "Water",
   "damage_type": "Magical",
@@ -4258,7 +4258,7 @@
  {
   "id": "emma",
   "name_en": "Emma",
-  "name_zh": null,
+  "name_zh": "艾玛",
   "star": 3,
   "element": "Light",
   "damage_type": "Physical",
@@ -4313,7 +4313,7 @@
  {
   "id": "fred",
   "name_en": "Fred",
-  "name_zh": null,
+  "name_zh": "弗雷德",
   "star": 3,
   "element": "Wind",
   "damage_type": "Physical",
@@ -4367,7 +4367,7 @@
  {
   "id": "gynt",
   "name_en": "Gynt",
-  "name_zh": null,
+  "name_zh": "君特",
   "star": 3,
   "element": "Wind",
   "damage_type": "Physical",
@@ -4421,7 +4421,7 @@
  {
   "id": "ingrid",
   "name_en": "Ingrid",
-  "name_zh": null,
+  "name_zh": "英格利得",
   "star": 3,
   "element": "Water",
   "damage_type": "Physical",
@@ -4475,7 +4475,7 @@
  {
   "id": "julie",
   "name_en": "Julie",
-  "name_zh": null,
+  "name_zh": "茱莉",
   "star": 3,
   "element": "Wind",
   "damage_type": "Magical",
@@ -4529,7 +4529,7 @@
  {
   "id": "lydia",
   "name_en": "Lydia",
-  "name_zh": null,
+  "name_zh": "黎迪雅",
   "star": 3,
   "element": "Water",
   "damage_type": "Physical",
@@ -4583,7 +4583,7 @@
  {
   "id": "maria",
   "name_en": "Maria",
-  "name_zh": null,
+  "name_zh": "玛丽亚",
   "star": 3,
   "element": "Darkness",
   "damage_type": "Magical",
@@ -4637,7 +4637,7 @@
  {
   "id": "remnunt",
   "name_en": "Remnunt",
-  "name_zh": null,
+  "name_zh": "雷南特",
   "star": 3,
   "element": "Water",
   "damage_type": "Physical",
@@ -4691,7 +4691,7 @@
  {
   "id": "rigenette",
   "name_en": "Rigenette",
-  "name_zh": null,
+  "name_zh": "莉兹内",
   "star": 3,
   "element": "Wind",
   "damage_type": "Physical",
@@ -4745,7 +4745,7 @@
  {
   "id": "wiggle",
   "name_en": "Wiggle",
-  "name_zh": null,
+  "name_zh": "威格",
   "star": 3,
   "element": "Fire",
   "damage_type": "Physical",

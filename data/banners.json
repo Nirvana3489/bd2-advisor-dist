@@ -14,264 +14,264 @@
  "history": [
   {
    "costume_id": "001106",
-   "costume_name": "Medical Club",
-   "char_name": "Teresse",
+   "costume_name": "保健部",
+   "char_name": "泰瑞丝",
    "is_limited": false,
    "start": "2026-09-23",
    "end": "2026-10-08"
   },
   {
    "costume_id": "003601",
-   "costume_name": "Faithful Wings",
-   "char_name": "Olivier",
+   "costume_name": "信实之翼",
+   "char_name": "奥利维耶",
    "is_limited": false,
    "start": "2026-09-23",
    "end": "2026-10-08"
   },
   {
    "costume_id": "021301",
-   "costume_name": "Lord of the Cosmos",
-   "char_name": "Ren Yamashiro",
+   "costume_name": "无限宇宙之全一",
+   "char_name": "山城恋",
    "is_limited": true,
    "start": "2026-09-23",
    "end": "2026-10-08"
   },
   {
    "costume_id": "021201",
-   "costume_name": "Ame-no-Mitori",
-   "char_name": "Tenka Izumo",
+   "costume_name": "天御鸟命",
+   "char_name": "出云天花",
    "is_limited": true,
    "start": "2026-09-10",
    "end": "2026-10-08"
   },
   {
    "costume_id": "061101",
-   "costume_name": "Piercing Magic Bow",
-   "char_name": "Eleaneer",
+   "costume_name": "穿透魔弓",
+   "char_name": "艾尼尔",
    "is_limited": false,
    "start": "2026-09-10",
    "end": "2026-09-23"
   },
   {
    "costume_id": "003703",
-   "costume_name": "Young Lady",
-   "char_name": "Blade",
+   "costume_name": "小公主",
+   "char_name": "布莱德",
    "is_limited": false,
    "start": "2026-08-27",
    "end": "2026-09-23"
   },
   {
    "costume_id": "067901",
-   "costume_name": "Savage Warrior",
-   "char_name": "Aquila",
+   "costume_name": "战场猛兽",
+   "char_name": "阿奇拉",
    "is_limited": false,
    "start": "2026-08-27",
    "end": "2026-09-10"
   },
   {
    "costume_id": "060301",
-   "costume_name": "The Destruction",
-   "char_name": "Alec",
+   "costume_name": "毁灭之星",
+   "char_name": "艾瑞克",
    "is_limited": false,
    "start": "2026-08-20",
    "end": "2026-08-27"
   },
   {
    "costume_id": "060601",
-   "costume_name": "Killer Doll",
-   "char_name": "Lecliss",
+   "costume_name": "杀人娃娃",
+   "char_name": "莱克莉斯",
    "is_limited": false,
    "start": "2026-08-13",
    "end": "2026-08-20"
   },
   {
    "costume_id": "061003",
-   "costume_name": "Sunny Inn Hand",
-   "char_name": "Helena",
+   "costume_name": "客栈晴晖",
+   "char_name": "海伦娜",
    "is_limited": false,
    "start": "2026-08-13",
    "end": "2026-08-27"
   },
   {
    "costume_id": "061302",
-   "costume_name": "Bright Moon",
-   "char_name": "Dalvi",
+   "costume_name": "明月",
+   "char_name": "达非",
    "is_limited": false,
    "start": "2026-08-13",
    "end": "2026-09-10"
   },
   {
    "costume_id": "000102",
-   "costume_name": "Lonely Survivor",
-   "char_name": "Lathel",
+   "costume_name": "孤独生还者",
+   "char_name": "拉德尔",
    "is_limited": false,
    "start": "2026-08-06",
    "end": "2026-08-13"
   },
   {
    "costume_id": "001002",
-   "costume_name": "The Sword Queen",
-   "char_name": "Sylvia",
+   "costume_name": "剑后",
+   "char_name": "席比雅",
    "is_limited": false,
    "start": "2026-07-30",
    "end": "2026-08-27"
   },
   {
    "costume_id": "001101",
-   "costume_name": "Angel of Destruction",
-   "char_name": "Teresse",
+   "costume_name": "毁灭天使",
+   "char_name": "泰瑞丝",
    "is_limited": false,
    "start": "2026-07-30",
    "end": "2026-08-06"
   },
   {
    "costume_id": "065103",
-   "costume_name": "Comeback Idol",
-   "char_name": "Yuri",
+   "costume_name": "回归偶像",
+   "char_name": "尤里",
    "is_limited": false,
    "start": "2026-07-30",
    "end": "2026-08-27"
   },
   {
    "costume_id": "066907",
-   "costume_name": "Heavenly Guardian Successor",
-   "char_name": "Glacia",
+   "costume_name": "天守传人",
+   "char_name": "克蕾西亚",
    "is_limited": false,
    "start": "2026-07-30",
    "end": "2026-08-13"
   },
   {
    "costume_id": "065802",
-   "costume_name": "Anonymous Sage",
-   "char_name": "Nartas",
+   "costume_name": "无名道士",
+   "char_name": "纳罗达斯",
    "is_limited": false,
    "start": "2026-07-23",
    "end": "2026-07-30"
   },
   {
    "costume_id": "060701",
-   "costume_name": "Steel Engine",
-   "char_name": "Rafina",
+   "costume_name": "钢铁引擎",
+   "char_name": "拉菲娜",
    "is_limited": false,
    "start": "2026-07-16",
    "end": "2026-07-23"
   },
   {
    "costume_id": "061306",
-   "costume_name": "Tricky Lover",
-   "char_name": "Dalvi",
+   "costume_name": "机智恋人",
+   "char_name": "达非",
    "is_limited": false,
    "start": "2026-07-16",
    "end": "2026-07-30"
   },
   {
    "costume_id": "000406",
-   "costume_name": "Pool Party",
-   "char_name": "Gray",
+   "costume_name": "泳池派对",
+   "char_name": "格雷",
    "is_limited": false,
    "start": "2026-07-09",
    "end": "2026-07-16"
   },
   {
    "costume_id": "001107",
-   "costume_name": "Beachside Angel",
-   "char_name": "Teresse",
+   "costume_name": "海滨天使",
+   "char_name": "泰瑞丝",
    "is_limited": true,
    "start": "2026-07-02",
    "end": "2026-07-30"
   },
   {
    "costume_id": "003302",
-   "costume_name": "Laid-back Lifeguard",
-   "char_name": "Nebris",
+   "costume_name": "松散的救生员",
+   "char_name": "内布利斯",
    "is_limited": false,
    "start": "2026-07-02",
    "end": "2026-07-30"
   },
   {
    "costume_id": "060804",
-   "costume_name": "Naive Lady",
-   "char_name": "Elise",
+   "costume_name": "稚心佳人",
+   "char_name": "爱丽洁",
    "is_limited": false,
    "start": "2026-07-02",
    "end": "2026-07-16"
   },
   {
    "costume_id": "101102",
-   "costume_name": "B-Rank Idol",
-   "char_name": "Seir",
+   "costume_name": "B级偶像",
+   "char_name": "赛尔",
    "is_limited": false,
    "start": "2026-07-02",
    "end": "2026-07-09"
   },
   {
    "costume_id": "067104",
-   "costume_name": "Combat Medic",
-   "char_name": "Granhildr",
+   "costume_name": "战地医疗兵",
+   "char_name": "格兰希特",
    "is_limited": false,
    "start": "2026-06-18",
    "end": "2026-07-02"
   },
   {
    "costume_id": "000206",
-   "costume_name": "Pool Party",
-   "char_name": "Justia",
+   "costume_name": "泳池派对",
+   "char_name": "悠丝缇亚",
    "is_limited": true,
    "start": "2026-06-04",
    "end": "2026-07-02"
   },
   {
    "costume_id": "000306",
-   "costume_name": "Pool Party",
-   "char_name": "Scheherazade",
+   "costume_name": "泳池派对",
+   "char_name": "莎赫拉查德",
    "is_limited": true,
    "start": "2026-06-04",
    "end": "2026-07-02"
   },
   {
    "costume_id": "004001",
-   "costume_name": "Prophetic Dream",
-   "char_name": "Darian",
+   "costume_name": "启示之梦",
+   "char_name": "达丽安",
    "is_limited": false,
    "start": "2026-06-04",
    "end": "2026-07-02"
   },
   {
    "costume_id": "004301",
-   "costume_name": "Deadeye",
-   "char_name": "Nekyndalia",
+   "costume_name": "神枪手",
+   "char_name": "内肯达莉亚",
    "is_limited": false,
    "start": "2026-06-04",
    "end": "2026-06-18"
   },
   {
    "costume_id": "067401",
-   "costume_name": "Beachside Justice",
-   "char_name": "Michaela",
+   "costume_name": "海滨正义",
+   "char_name": "米卡艾拉",
    "is_limited": false,
    "start": "2026-06-04",
    "end": "2026-07-02"
   },
   {
    "costume_id": "067504",
-   "costume_name": "Ocean Vanguard",
-   "char_name": "Luvencia",
+   "costume_name": "海洋先锋",
+   "char_name": "卢班希亚",
    "is_limited": true,
    "start": "2026-06-04",
    "end": "2026-07-02"
   },
   {
    "costume_id": "003401",
-   "costume_name": "Beach Vacation",
-   "char_name": "Morpeah",
+   "costume_name": "海滨度假",
+   "char_name": "墨菲亚",
    "is_limited": false,
    "start": "2026-05-28",
    "end": "2026-06-11"
   },
   {
    "costume_id": "067803",
-   "costume_name": "Miracle Marine",
-   "char_name": "Mamonir",
+   "costume_name": "奇迹海洋",
+   "char_name": "马莫尼勒",
    "is_limited": false,
    "start": "2026-05-21",
    "end": "2026-06-04"
@@ -279,583 +279,583 @@
   {
    "costume_id": "067201",
    "costume_name": "DJ",
-   "char_name": "Venaka",
+   "char_name": "贝那卡",
    "is_limited": false,
    "start": "2026-05-14",
    "end": "2026-05-28"
   },
   {
    "costume_id": "004202",
-   "costume_name": "Miracle Violet",
-   "char_name": "Palette",
+   "costume_name": "卡迪斯的子弹",
+   "char_name": "英格利得",
    "is_limited": false,
    "start": "2026-05-07",
    "end": "2026-05-21"
   },
   {
    "costume_id": "000807",
-   "costume_name": "Maid Bikini",
-   "char_name": "Rubia",
+   "costume_name": "女仆比基尼",
+   "char_name": "露比雅",
    "is_limited": false,
    "start": "2026-04-30",
    "end": "2026-05-14"
   },
   {
    "costume_id": "003803",
-   "costume_name": "Miracle Rose",
-   "char_name": "Liberta",
+   "costume_name": "奇迹玫瑰",
+   "char_name": "黎维塔",
    "is_limited": false,
    "start": "2026-04-23",
    "end": "2026-05-07"
   },
   {
    "costume_id": "003901",
-   "costume_name": "Shadowed Dream",
-   "char_name": "Sonya",
+   "costume_name": "潜藏的梦",
+   "char_name": "索尼娅",
    "is_limited": false,
    "start": "2026-04-16",
    "end": "2026-04-30"
   },
   {
    "costume_id": "020301",
-   "costume_name": "Fist of Conviction",
-   "char_name": "Yozakura",
+   "costume_name": "信念之拳",
+   "char_name": "夜樱",
    "is_limited": true,
    "start": "2026-04-09",
    "end": "2026-05-07"
   },
   {
    "costume_id": "020401",
-   "costume_name": "Dancing Snowflake",
-   "char_name": "Yumi",
+   "costume_name": "雪花之舞",
+   "char_name": "雪泉",
    "is_limited": true,
    "start": "2026-04-09",
    "end": "2026-05-07"
   },
   {
    "costume_id": "020501",
-   "costume_name": "Kind Ruthlessness",
-   "char_name": "Hikage",
+   "costume_name": "和蔼的无情",
+   "char_name": "日影",
    "is_limited": true,
    "start": "2026-04-09",
    "end": "2026-05-07"
   },
   {
    "costume_id": "021001",
-   "costume_name": "Noble Flame",
-   "char_name": "Ikaruga",
+   "costume_name": "纯净之焰",
+   "char_name": "斑鸠",
    "is_limited": true,
    "start": "2026-04-09",
    "end": "2026-05-07"
   },
   {
    "costume_id": "001006",
-   "costume_name": "Bikini Agent",
-   "char_name": "Sylvia",
+   "costume_name": "比基尼特工",
+   "char_name": "席比雅",
    "is_limited": false,
    "start": "2026-04-02",
    "end": "2026-04-16"
   },
   {
    "costume_id": "061002",
-   "costume_name": "B-Rank Idol",
-   "char_name": "Helena",
+   "costume_name": "B级偶像",
+   "char_name": "海伦娜",
    "is_limited": false,
    "start": "2026-03-26",
    "end": "2026-04-09"
   },
   {
    "costume_id": "067801",
-   "costume_name": "Night of Death",
-   "char_name": "Mamonir",
+   "costume_name": "玄夜",
+   "char_name": "马莫尼勒",
    "is_limited": false,
    "start": "2026-03-26",
    "end": "2026-04-09"
   },
   {
    "costume_id": "003501",
-   "costume_name": "Reclaimed Destiny",
-   "char_name": "Sacred Justia",
+   "costume_name": "找回的命运",
+   "char_name": "神圣悠丝缇亚",
    "is_limited": false,
    "start": "2026-03-19",
    "end": "2026-04-02"
   },
   {
    "costume_id": "004201",
-   "costume_name": "Shattered Dream",
-   "char_name": "Palette",
+   "costume_name": "惊悚之梦",
+   "char_name": "帕莱特",
    "is_limited": false,
    "start": "2026-03-12",
    "end": "2026-03-26"
   },
   {
    "costume_id": "061402",
-   "costume_name": "Robin Hood",
-   "char_name": "Zenith",
+   "costume_name": "罗宾汉",
+   "char_name": "杰尼斯",
    "is_limited": false,
    "start": "2026-03-12",
    "end": "2026-04-09"
   },
   {
    "costume_id": "067403",
-   "costume_name": "Acting Archbishop",
-   "char_name": "Michaela",
+   "costume_name": "神圣者",
+   "char_name": "米卡艾拉",
    "is_limited": false,
    "start": "2026-03-05",
    "end": "2026-03-19"
   },
   {
    "costume_id": "003604",
-   "costume_name": "Retired Legend",
-   "char_name": "Olivier",
+   "costume_name": "传奇退役",
+   "char_name": "奥利维耶",
    "is_limited": false,
    "start": "2026-02-26",
    "end": "2026-03-19"
   },
   {
    "costume_id": "001207",
-   "costume_name": "Maid Name R",
-   "char_name": "Liatris",
+   "costume_name": "女仆代号R",
+   "char_name": "莉亚特里斯",
    "is_limited": false,
    "start": "2026-02-19",
    "end": "2026-03-05"
   },
   {
    "costume_id": "002403",
-   "costume_name": "Magical Innovator",
-   "char_name": "Diana",
+   "costume_name": "魔法匠心",
+   "char_name": "黛安娜",
    "is_limited": false,
    "start": "2026-02-12",
    "end": "2026-02-26"
   },
   {
    "costume_id": "003701",
-   "costume_name": "Apostle",
-   "char_name": "Blade",
+   "costume_name": "使徒",
+   "char_name": "布莱德",
    "is_limited": false,
    "start": "2026-02-05",
    "end": "2026-02-19"
   },
   {
    "costume_id": "003702",
-   "costume_name": "Onsen Swordfighter",
-   "char_name": "Blade",
+   "costume_name": "温泉剑客",
+   "char_name": "布莱德",
    "is_limited": false,
    "start": "2026-01-29",
    "end": "2026-02-12"
   },
   {
    "costume_id": "060302",
-   "costume_name": "Sword Breaker",
-   "char_name": "Alec",
+   "costume_name": "破剑士",
+   "char_name": "艾瑞克",
    "is_limited": false,
    "start": "2026-01-29",
    "end": "2026-02-05"
   },
   {
    "costume_id": "067004",
-   "costume_name": "Onsen Practitioner",
-   "char_name": "Ventana",
+   "costume_name": "温泉修行者",
+   "char_name": "班塔纳",
    "is_limited": false,
    "start": "2026-01-22",
    "end": "2026-02-05"
   },
   {
    "costume_id": "000601",
-   "costume_name": "The Fiend Scholar",
-   "char_name": "Olstein",
+   "costume_name": "魔物学家",
+   "char_name": "奥尔施塔因",
    "is_limited": false,
    "start": "2026-01-15",
    "end": "2026-01-22"
   },
   {
    "costume_id": "003802",
-   "costume_name": "Onsen Manager",
-   "char_name": "Liberta",
+   "costume_name": "温泉管理员",
+   "char_name": "黎维塔",
    "is_limited": false,
    "start": "2026-01-15",
    "end": "2026-02-12"
   },
   {
    "costume_id": "067701",
-   "costume_name": "Shrine Maiden of Purification",
-   "char_name": "Granadair",
+   "costume_name": "净化巫女",
+   "char_name": "葛拉娜德",
    "is_limited": false,
    "start": "2026-01-15",
    "end": "2026-02-12"
   },
   {
    "costume_id": "067702",
-   "costume_name": "Queen of Gluttis",
-   "char_name": "Granadair",
+   "costume_name": "葛洛堤的女王",
+   "char_name": "葛拉娜德",
    "is_limited": false,
    "start": "2026-01-15",
    "end": "2026-02-12"
   },
   {
    "costume_id": "067002",
-   "costume_name": "Snow White",
-   "char_name": "Ventana",
+   "costume_name": "白雪公主",
+   "char_name": "班塔纳",
    "is_limited": false,
    "start": "2026-01-08",
    "end": "2026-01-22"
   },
   {
    "costume_id": "000403",
-   "costume_name": "Vanguard",
-   "char_name": "Gray",
+   "costume_name": "先锋大将",
+   "char_name": "格雷",
    "is_limited": false,
    "start": "2025-12-30",
    "end": "2026-01-08"
   },
   {
    "costume_id": "004102",
-   "costume_name": "Innocent Bunny",
-   "char_name": "Tyr",
+   "costume_name": "澄心无邪兔女郎",
+   "char_name": "提尔",
    "is_limited": false,
    "start": "2025-12-30",
    "end": "2026-01-15"
   },
   {
    "costume_id": "067303",
-   "costume_name": "Overheat",
-   "char_name": "Levia",
+   "costume_name": "过热",
+   "char_name": "莱维亚",
    "is_limited": false,
    "start": "2025-12-23",
    "end": "2026-01-08"
   },
   {
    "costume_id": "000104",
-   "costume_name": "Dark Knight",
-   "char_name": "Lathel",
+   "costume_name": "暗黑骑士",
+   "char_name": "拉德尔",
    "is_limited": false,
    "start": "2025-12-16",
    "end": "2025-12-23"
   },
   {
    "costume_id": "004002",
-   "costume_name": "Bittersweet Bunny",
-   "char_name": "Darian",
+   "costume_name": "半糖余韵兔女郎",
+   "char_name": "达丽安",
    "is_limited": true,
    "start": "2025-12-16",
    "end": "2026-01-15"
   },
   {
    "costume_id": "061103",
-   "costume_name": "Shadow Bunny",
-   "char_name": "Eleaneer",
+   "costume_name": "夜色流影兔女郎",
+   "char_name": "艾尼尔",
    "is_limited": false,
    "start": "2025-12-16",
    "end": "2025-12-30"
   },
   {
    "costume_id": "061402",
-   "costume_name": "Robin Hood",
-   "char_name": "Zenith",
+   "costume_name": "罗宾汉",
+   "char_name": "杰尼斯",
    "is_limited": false,
    "start": "2025-12-16",
    "end": "2026-01-15"
   },
   {
    "costume_id": "003203",
-   "costume_name": "Celebrity Bunny",
-   "char_name": "Loen",
+   "costume_name": "名人兔女郎",
+   "char_name": "罗安",
    "is_limited": true,
    "start": "2025-12-11",
    "end": "2026-01-15"
   },
   {
    "costume_id": "060403",
-   "costume_name": "Masquerade Bunny",
-   "char_name": "Celia",
+   "costume_name": "化妆舞会兔女郎",
+   "char_name": "西利亚",
    "is_limited": true,
    "start": "2025-12-11",
    "end": "2026-01-08"
   },
   {
    "costume_id": "000706",
-   "costume_name": "Nightmare Bunny",
-   "char_name": "Eclipse",
+   "costume_name": "恶梦兔女郎",
+   "char_name": "伊柯利普斯",
    "is_limited": true,
    "start": "2025-12-04",
    "end": "2025-12-30"
   },
   {
    "costume_id": "003303",
-   "costume_name": "New Hire",
-   "char_name": "Nebris",
+   "costume_name": "新进员工",
+   "char_name": "内布利斯",
    "is_limited": false,
    "start": "2025-11-27",
    "end": "2025-12-11"
   },
   {
    "costume_id": "003601",
-   "costume_name": "Faithful Wings",
-   "char_name": "Olivier",
+   "costume_name": "信实之翼",
+   "char_name": "奥利维耶",
    "is_limited": false,
    "start": "2025-11-20",
    "end": "2025-12-04"
   },
   {
    "costume_id": "066802",
-   "costume_name": "Pure White Blessing",
-   "char_name": "Refithea",
+   "costume_name": "纯白祝福",
+   "char_name": "芮彼泰雅",
    "is_limited": false,
    "start": "2025-11-13",
    "end": "2025-11-27"
   },
   {
    "costume_id": "003703",
-   "costume_name": "Young Lady",
-   "char_name": "Blade",
+   "costume_name": "小公主",
+   "char_name": "布莱德",
    "is_limited": false,
    "start": "2025-11-06",
    "end": "2025-11-20"
   },
   {
    "costume_id": "003902",
-   "costume_name": "Little Pumpkin Girl",
-   "char_name": "Sonya",
+   "costume_name": "卖南瓜的少女",
+   "char_name": "索尼娅",
    "is_limited": false,
    "start": "2025-10-30",
    "end": "2025-11-20"
   },
   {
    "costume_id": "066403",
-   "costume_name": "Neon Savior",
-   "char_name": "Angelica",
+   "costume_name": "霓虹救星",
+   "char_name": "安洁莉卡",
    "is_limited": false,
    "start": "2025-10-23",
    "end": "2025-11-06"
   },
   {
    "costume_id": "067103",
-   "costume_name": "Boo Ghost",
-   "char_name": "Granhildr",
+   "costume_name": "恶作剧幽灵",
+   "char_name": "格兰希特",
    "is_limited": false,
    "start": "2025-10-23",
    "end": "2025-11-06"
   },
   {
    "costume_id": "060702",
-   "costume_name": "Code Name A",
-   "char_name": "Rafina",
+   "costume_name": "代号A",
+   "char_name": "拉菲娜",
    "is_limited": false,
    "start": "2025-10-16",
    "end": "2025-10-30"
   },
   {
    "costume_id": "020001",
-   "costume_name": "Esteemed Adventurer",
-   "char_name": "Eris",
+   "costume_name": "受祝福的冒险家",
+   "char_name": "艾莉丝",
    "is_limited": true,
    "start": "2025-10-10",
    "end": "2025-10-23"
   },
   {
    "costume_id": "020002",
-   "costume_name": "Your Very Own Cat",
-   "char_name": "Eris",
+   "costume_name": "只属于你的猫咪",
+   "char_name": "艾莉丝",
    "is_limited": true,
    "start": "2025-10-10",
    "end": "2025-10-23"
   },
   {
    "costume_id": "020101",
-   "costume_name": "Respected Master",
-   "char_name": "Roxy",
+   "costume_name": "受尊敬的师傅",
+   "char_name": "洛琪希",
    "is_limited": true,
    "start": "2025-10-10",
    "end": "2025-10-23"
   },
   {
    "costume_id": "020102",
-   "costume_name": "Emerging Desire",
-   "char_name": "Roxy",
+   "costume_name": "泄露的欲望",
+   "char_name": "洛琪希",
    "is_limited": true,
    "start": "2025-10-10",
    "end": "2025-10-23"
   },
   {
    "costume_id": "004001",
-   "costume_name": "Prophetic Dream",
-   "char_name": "Darian",
+   "costume_name": "启示之梦",
+   "char_name": "达丽安",
    "is_limited": false,
    "start": "2025-10-02",
    "end": "2025-10-23"
   },
   {
    "costume_id": "004101",
-   "costume_name": "Starlight Guardian",
-   "char_name": "Tyr",
+   "costume_name": "星光守护者",
+   "char_name": "提尔",
    "is_limited": false,
    "start": "2025-09-25",
    "end": "2025-10-10"
   },
   {
    "costume_id": "067503",
-   "costume_name": "Wild Dog",
-   "char_name": "Luvencia",
+   "costume_name": "野犬",
+   "char_name": "卢班希亚",
    "is_limited": false,
    "start": "2025-09-18",
    "end": "2025-10-02"
   },
   {
    "costume_id": "003901",
-   "costume_name": "Shadowed Dream",
-   "char_name": "Sonya",
+   "costume_name": "潜藏的梦",
+   "char_name": "索尼娅",
    "is_limited": false,
    "start": "2025-09-11",
    "end": "2025-09-25"
   },
   {
    "costume_id": "000806",
-   "costume_name": "Maid Name C",
-   "char_name": "Rubia",
+   "costume_name": "女仆代号C",
+   "char_name": "露比雅",
    "is_limited": false,
    "start": "2025-09-04",
    "end": "2025-09-18"
   },
   {
    "costume_id": "000807",
-   "costume_name": "Maid Bikini",
-   "char_name": "Rubia",
+   "costume_name": "女仆比基尼",
+   "char_name": "露比雅",
    "is_limited": false,
    "start": "2025-08-28",
    "end": "2025-09-11"
   },
   {
    "costume_id": "003401",
-   "costume_name": "Beach Vacation",
-   "char_name": "Morpeah",
+   "costume_name": "海滨度假",
+   "char_name": "墨菲亚",
    "is_limited": false,
    "start": "2025-08-21",
    "end": "2025-09-04"
   },
   {
    "costume_id": "000306",
-   "costume_name": "Pool Party",
-   "char_name": "Scheherazade",
+   "costume_name": "泳池派对",
+   "char_name": "莎赫拉查德",
    "is_limited": true,
    "start": "2025-08-14",
    "end": "2025-09-11"
   },
   {
    "costume_id": "001006",
-   "costume_name": "Bikini Agent",
-   "char_name": "Sylvia",
+   "costume_name": "比基尼特工",
+   "char_name": "席比雅",
    "is_limited": false,
    "start": "2025-08-14",
    "end": "2025-08-28"
   },
   {
    "costume_id": "001107",
-   "costume_name": "Beachside Angel",
-   "char_name": "Teresse",
+   "costume_name": "海滨天使",
+   "char_name": "泰瑞丝",
    "is_limited": true,
    "start": "2025-08-14",
    "end": "2025-09-11"
   },
   {
    "costume_id": "066402",
-   "costume_name": "Pool Party",
-   "char_name": "Angelica",
+   "costume_name": "泳池派对",
+   "char_name": "安洁莉卡",
    "is_limited": false,
    "start": "2025-08-07",
    "end": "2025-08-21"
   },
   {
    "costume_id": "003602",
-   "costume_name": "Apostle",
-   "char_name": "Olivier",
+   "costume_name": "使徒",
+   "char_name": "奥利维耶",
    "is_limited": false,
    "start": "2025-07-31",
    "end": "2025-08-14"
   },
   {
    "costume_id": "067401",
-   "costume_name": "Beachside Justice",
-   "char_name": "Michaela",
+   "costume_name": "海滨正义",
+   "char_name": "米卡艾拉",
    "is_limited": false,
    "start": "2025-07-31",
    "end": "2025-08-14"
   },
   {
    "costume_id": "003501",
-   "costume_name": "Reclaimed Destiny",
-   "char_name": "Sacred Justia",
+   "costume_name": "找回的命运",
+   "char_name": "神圣悠丝缇亚",
    "is_limited": false,
    "start": "2025-07-24",
    "end": "2025-08-07"
   },
   {
    "costume_id": "003603",
-   "costume_name": "Fallen Wings",
-   "char_name": "Olivier",
+   "costume_name": "堕落之翼",
+   "char_name": "奥利维耶",
    "is_limited": false,
    "start": "2025-07-17",
    "end": "2025-07-31"
   },
   {
    "costume_id": "067101",
-   "costume_name": "The Void",
-   "char_name": "Granhildr",
+   "costume_name": "虚无之星",
+   "char_name": "格兰希特",
    "is_limited": false,
    "start": "2025-07-17",
    "end": "2025-07-31"
   },
   {
    "costume_id": "000707",
-   "costume_name": "Beach Vacation",
-   "char_name": "Eclipse",
+   "costume_name": "海滨度假",
+   "char_name": "伊柯利普斯",
    "is_limited": false,
    "start": "2025-07-10",
    "end": "2025-07-24"
   },
   {
    "costume_id": "061404",
-   "costume_name": "Poolside Guardian",
-   "char_name": "Zenith",
+   "costume_name": "水上守护者",
+   "char_name": "杰尼斯",
    "is_limited": false,
    "start": "2025-07-03",
    "end": "2025-07-17"
   },
   {
    "costume_id": "066803",
-   "costume_name": "Poolside Fairy",
-   "char_name": "Refithea",
+   "costume_name": "水上精灵",
+   "char_name": "芮彼泰雅",
    "is_limited": false,
    "start": "2025-06-26",
    "end": "2025-07-10"
   },
   {
    "costume_id": "000206",
-   "costume_name": "Pool Party",
-   "char_name": "Justia",
+   "costume_name": "泳池派对",
+   "char_name": "悠丝缇亚",
    "is_limited": true,
    "start": "2025-06-19",
    "end": "2025-07-17"
   },
   {
    "costume_id": "001107",
-   "costume_name": "Beachside Angel",
-   "char_name": "Teresse",
+   "costume_name": "海滨天使",
+   "char_name": "泰瑞丝",
    "is_limited": true,
    "start": "2025-06-19",
    "end": "2025-07-17"
   },
   {
    "costume_id": "067603",
-   "costume_name": "Water Park Queen",
-   "char_name": "Wilhelmina",
+   "costume_name": "水上乐园女王",
+   "char_name": "威廉明娜",
    "is_limited": false,
    "start": "2025-06-19",
    "end": "2025-07-03"
   },
   {
    "costume_id": "003302",
-   "costume_name": "Laid-back Lifeguard",
-   "char_name": "Nebris",
+   "costume_name": "松散的救生员",
+   "char_name": "内布利斯",
    "is_limited": false,
    "start": "2025-06-12",
    "end": "2025-06-26"
@@ -863,543 +863,543 @@
   {
    "costume_id": "067201",
    "costume_name": "DJ",
-   "char_name": "Venaka",
+   "char_name": "贝那卡",
    "is_limited": false,
    "start": "2025-06-05",
    "end": "2025-06-19"
   },
   {
    "costume_id": "067502",
-   "costume_name": "Deal Snatcher",
-   "char_name": "Luvencia",
+   "costume_name": "印鉴掠夺者",
+   "char_name": "卢班希亚",
    "is_limited": false,
    "start": "2025-05-29",
    "end": "2025-06-12"
   },
   {
    "costume_id": "020901",
-   "costume_name": "Supreme God Archbishop",
-   "char_name": "Sword Maiden",
+   "costume_name": "至高神的大主教",
+   "char_name": "剑之圣女",
    "is_limited": true,
    "start": "2025-05-22",
    "end": "2025-06-05"
   },
   {
    "costume_id": "000301",
-   "costume_name": "The Lapis Witch",
-   "char_name": "Scheherazade",
+   "costume_name": "苍蓝魔女",
+   "char_name": "莎赫拉查德",
    "is_limited": false,
    "start": "2025-05-15",
    "end": "2025-05-29"
   },
   {
    "costume_id": "020701",
-   "costume_name": "Earth Mother Believer",
-   "char_name": "Priestess",
+   "costume_name": "地母神的祭司",
+   "char_name": "女神官",
    "is_limited": true,
    "start": "2025-05-08",
    "end": "2025-06-05"
   },
   {
    "costume_id": "020801",
-   "costume_name": "Daughter of Starwind",
-   "char_name": "High Elf Archer",
+   "costume_name": "星风之女",
+   "char_name": "妖精弓手",
    "is_limited": true,
    "start": "2025-05-08",
    "end": "2025-06-05"
   },
   {
    "costume_id": "061302",
-   "costume_name": "Bright Moon",
-   "char_name": "Dalvi",
+   "costume_name": "明月",
+   "char_name": "达非",
    "is_limited": false,
    "start": "2025-05-01",
    "end": "2025-05-15"
   },
   {
    "costume_id": "000801",
-   "costume_name": "Thorn of the Desert",
-   "char_name": "Rubia",
+   "costume_name": "沙漠之刺",
+   "char_name": "露比雅",
    "is_limited": false,
    "start": "2025-04-24",
    "end": "2025-05-08"
   },
   {
    "costume_id": "003403",
-   "costume_name": "Apostle",
-   "char_name": "Morpeah",
+   "costume_name": "使徒",
+   "char_name": "墨菲亚",
    "is_limited": false,
    "start": "2025-04-24",
    "end": "2025-05-08"
   },
   {
    "costume_id": "000304",
-   "costume_name": "Code Name S",
-   "char_name": "Scheherazade",
+   "costume_name": "代号S",
+   "char_name": "莎赫拉查德",
    "is_limited": false,
    "start": "2025-04-17",
    "end": "2025-05-01"
   },
   {
    "costume_id": "001004",
-   "costume_name": "Admiral",
-   "char_name": "Sylvia",
+   "costume_name": "海军队长",
+   "char_name": "席比雅",
    "is_limited": false,
    "start": "2025-04-10",
    "end": "2025-04-24"
   },
   {
    "costume_id": "067601",
-   "costume_name": "Iron Monarch",
-   "char_name": "Wilhelmina",
+   "costume_name": "钢铁君主",
+   "char_name": "威廉明娜",
    "is_limited": false,
    "start": "2025-04-10",
    "end": "2025-04-24"
   },
   {
    "costume_id": "067402",
-   "costume_name": "Queen of Signatures",
-   "char_name": "Michaela",
+   "costume_name": "签名女王",
+   "char_name": "米卡艾拉",
    "is_limited": false,
    "start": "2025-04-03",
    "end": "2025-04-17"
   },
   {
    "costume_id": "060802",
-   "costume_name": "Code Name O",
-   "char_name": "Elise",
+   "costume_name": "代号O",
+   "char_name": "爱丽洁",
    "is_limited": false,
    "start": "2025-03-27",
    "end": "2025-04-10"
   },
   {
    "costume_id": "067403",
-   "costume_name": "Acting Archbishop",
-   "char_name": "Michaela",
+   "costume_name": "神圣者",
+   "char_name": "米卡艾拉",
    "is_limited": false,
    "start": "2025-03-27",
    "end": "2025-04-10"
   },
   {
    "costume_id": "000203",
-   "costume_name": "Blood Glutton",
-   "char_name": "Justia",
+   "costume_name": "血之贪食者",
+   "char_name": "悠丝缇亚",
    "is_limited": false,
    "start": "2025-03-20",
    "end": "2025-04-03"
   },
   {
    "costume_id": "003801",
-   "costume_name": "Dark Saintess",
-   "char_name": "Liberta",
+   "costume_name": "暗黑圣女",
+   "char_name": "黎维塔",
    "is_limited": false,
    "start": "2025-03-13",
    "end": "2025-03-27"
   },
   {
    "costume_id": "060402",
-   "costume_name": "Descendant of the Great Witch",
-   "char_name": "Celia",
+   "costume_name": "大魔女后裔",
+   "char_name": "西利亚",
    "is_limited": false,
    "start": "2025-03-06",
    "end": "2025-03-20"
   },
   {
    "costume_id": "003703",
-   "costume_name": "Young Lady",
-   "char_name": "Blade",
+   "costume_name": "小公主",
+   "char_name": "布莱德",
    "is_limited": false,
    "start": "2025-02-27",
    "end": "2025-03-13"
   },
   {
    "costume_id": "060601",
-   "costume_name": "Killer Doll",
-   "char_name": "Lecliss",
+   "costume_name": "杀人娃娃",
+   "char_name": "莱克莉斯",
    "is_limited": false,
    "start": "2025-02-20",
    "end": "2025-03-06"
   },
   {
    "costume_id": "003701",
-   "costume_name": "Apostle",
-   "char_name": "Blade",
+   "costume_name": "使徒",
+   "char_name": "布莱德",
    "is_limited": false,
    "start": "2025-02-13",
    "end": "2025-02-27"
   },
   {
    "costume_id": "020401",
-   "costume_name": "Dancing Snowflake",
-   "char_name": "Yumi",
+   "costume_name": "雪花之舞",
+   "char_name": "雪泉",
    "is_limited": true,
    "start": "2025-02-13",
    "end": "2025-02-20"
   },
   {
    "costume_id": "001106",
-   "costume_name": "Medical Club",
-   "char_name": "Teresse",
+   "costume_name": "保健部",
+   "char_name": "泰瑞丝",
    "is_limited": false,
    "start": "2025-02-06",
    "end": "2025-02-20"
   },
   {
    "costume_id": "003802",
-   "costume_name": "Onsen Manager",
-   "char_name": "Liberta",
+   "costume_name": "温泉管理员",
+   "char_name": "黎维塔",
    "is_limited": false,
    "start": "2025-01-31",
    "end": "2025-02-13"
   },
   {
    "costume_id": "060801",
-   "costume_name": "Lovely Lady",
-   "char_name": "Elise",
+   "costume_name": "可爱小姐",
+   "char_name": "爱丽洁",
    "is_limited": false,
    "start": "2025-01-23",
    "end": "2025-02-06"
   },
   {
    "costume_id": "000103",
-   "costume_name": "Homunculus",
-   "char_name": "Lathel",
+   "costume_name": "霍尔蒙克斯",
+   "char_name": "拉德尔",
    "is_limited": false,
    "start": "2025-01-16",
    "end": "2025-01-31"
   },
   {
    "costume_id": "067004",
-   "costume_name": "Onsen Practitioner",
-   "char_name": "Ventana",
+   "costume_name": "温泉修行者",
+   "char_name": "班塔纳",
    "is_limited": false,
    "start": "2025-01-16",
    "end": "2025-01-31"
   },
   {
    "costume_id": "061002",
-   "costume_name": "B-Rank Idol",
-   "char_name": "Helena",
+   "costume_name": "B级偶像",
+   "char_name": "海伦娜",
    "is_limited": false,
    "start": "2025-01-02",
    "end": "2025-01-16"
   },
   {
    "costume_id": "067503",
-   "costume_name": "Wild Dog",
-   "char_name": "Luvencia",
+   "costume_name": "野犬",
+   "char_name": "卢班希亚",
    "is_limited": false,
    "start": "2025-01-02",
    "end": "2025-01-16"
   },
   {
    "costume_id": "060403",
-   "costume_name": "Masquerade Bunny",
-   "char_name": "Celia",
+   "costume_name": "化妆舞会兔女郎",
+   "char_name": "西利亚",
    "is_limited": true,
    "start": "2024-12-26",
    "end": "2025-01-23"
   },
   {
    "costume_id": "000706",
-   "costume_name": "Nightmare Bunny",
-   "char_name": "Eclipse",
+   "costume_name": "恶梦兔女郎",
+   "char_name": "伊柯利普斯",
    "is_limited": true,
    "start": "2024-12-17",
    "end": "2025-01-16"
   },
   {
    "costume_id": "002401",
-   "costume_name": "Adventurer of the Unknown",
-   "char_name": "Diana",
+   "costume_name": "未知探究者",
+   "char_name": "黛安娜",
    "is_limited": false,
    "start": "2024-12-17",
    "end": "2025-01-02"
   },
   {
    "costume_id": "003203",
-   "costume_name": "Celebrity Bunny",
-   "char_name": "Loen",
+   "costume_name": "名人兔女郎",
+   "char_name": "罗安",
    "is_limited": true,
    "start": "2024-12-17",
    "end": "2025-01-16"
   },
   {
    "costume_id": "067303",
-   "costume_name": "Overheat",
-   "char_name": "Levia",
+   "costume_name": "过热",
+   "char_name": "莱维亚",
    "is_limited": false,
    "start": "2024-12-17",
    "end": "2025-01-02"
   },
   {
    "costume_id": "002406",
-   "costume_name": "Anti-dystopia",
-   "char_name": "Diana",
+   "costume_name": "反乌托邦",
+   "char_name": "黛安娜",
    "is_limited": false,
    "start": "2024-12-12",
    "end": "2024-12-26"
   },
   {
    "costume_id": "003303",
-   "costume_name": "New Hire",
-   "char_name": "Nebris",
+   "costume_name": "新进员工",
+   "char_name": "内布利斯",
    "is_limited": false,
    "start": "2024-12-05",
    "end": "2024-12-26"
   },
   {
    "costume_id": "067202",
-   "costume_name": "Wind Dancer",
-   "char_name": "Venaka",
+   "costume_name": "风之舞姬",
+   "char_name": "贝那卡",
    "is_limited": false,
    "start": "2024-12-05",
    "end": "2024-12-17"
   },
   {
    "costume_id": "066802",
-   "costume_name": "Pure White Blessing",
-   "char_name": "Refithea",
+   "costume_name": "纯白祝福",
+   "char_name": "芮彼泰雅",
    "is_limited": false,
    "start": "2024-11-28",
    "end": "2024-12-12"
   },
   {
    "costume_id": "067402",
-   "costume_name": "Queen of Signatures",
-   "char_name": "Michaela",
+   "costume_name": "签名女王",
+   "char_name": "米卡艾拉",
    "is_limited": false,
    "start": "2024-11-21",
    "end": "2024-12-05"
   },
   {
    "costume_id": "061101",
-   "costume_name": "Piercing Magic Bow",
-   "char_name": "Eleaneer",
+   "costume_name": "穿透魔弓",
+   "char_name": "艾尼尔",
    "is_limited": false,
    "start": "2024-11-14",
    "end": "2024-11-28"
   },
   {
    "costume_id": "067502",
-   "costume_name": "Deal Snatcher",
-   "char_name": "Luvencia",
+   "costume_name": "印鉴掠夺者",
+   "char_name": "卢班希亚",
    "is_limited": false,
    "start": "2024-11-07",
    "end": "2024-11-21"
   },
   {
    "costume_id": "101103",
-   "costume_name": "New Hire",
-   "char_name": "Seir",
+   "costume_name": "新进员工",
+   "char_name": "赛尔",
    "is_limited": false,
    "start": "2024-10-31",
    "end": "2024-11-14"
   },
   {
    "costume_id": "101101",
-   "costume_name": "Demon's Daughter",
-   "char_name": "Seir",
+   "costume_name": "恶魔之女",
+   "char_name": "赛尔",
    "is_limited": false,
    "start": "2024-10-24",
    "end": "2024-11-07"
   },
   {
    "costume_id": "020401",
-   "costume_name": "Dancing Snowflake",
-   "char_name": "Yumi",
+   "costume_name": "雪花之舞",
+   "char_name": "雪泉",
    "is_limited": true,
    "start": "2024-10-17",
    "end": "2024-10-31"
   },
   {
    "costume_id": "020301",
-   "costume_name": "Fist of Conviction",
-   "char_name": "Yozakura",
+   "costume_name": "信念之拳",
+   "char_name": "夜樱",
    "is_limited": true,
    "start": "2024-10-02",
    "end": "2024-10-31"
   },
   {
    "costume_id": "020501",
-   "costume_name": "Kind Ruthlessness",
-   "char_name": "Hikage",
+   "costume_name": "和蔼的无情",
+   "char_name": "日影",
    "is_limited": true,
    "start": "2024-10-02",
    "end": "2024-10-31"
   },
   {
    "costume_id": "003301",
-   "costume_name": "Labyrinth Gatekeeper",
-   "char_name": "Nebris",
+   "costume_name": "迷宫的门卫",
+   "char_name": "内布利斯",
    "is_limited": false,
    "start": "2024-09-26",
    "end": "2024-10-10"
   },
   {
    "costume_id": "061302",
-   "costume_name": "Bright Moon",
-   "char_name": "Dalvi",
+   "costume_name": "明月",
+   "char_name": "达非",
    "is_limited": false,
    "start": "2024-09-26",
    "end": "2024-10-02"
   },
   {
    "costume_id": "000804",
-   "costume_name": "The Empress of the Ocean",
-   "char_name": "Rubia",
+   "costume_name": "大海女帝",
+   "char_name": "露比雅",
    "is_limited": false,
    "start": "2024-09-19",
    "end": "2024-10-02"
   },
   {
    "costume_id": "065102",
-   "costume_name": "Whitebolt",
-   "char_name": "Yuri",
+   "costume_name": "白雷",
+   "char_name": "尤里",
    "is_limited": false,
    "start": "2024-09-19",
    "end": "2024-09-26"
   },
   {
    "costume_id": "001002",
-   "costume_name": "The Sword Queen",
-   "char_name": "Sylvia",
+   "costume_name": "剑后",
+   "char_name": "席比雅",
    "is_limited": false,
    "start": "2024-09-12",
    "end": "2024-09-19"
   },
   {
    "costume_id": "067302",
-   "costume_name": "Night of Jealousy",
-   "char_name": "Levia",
+   "costume_name": "猜忌之夜",
+   "char_name": "莱维亚",
    "is_limited": false,
    "start": "2024-09-12",
    "end": "2024-09-26"
   },
   {
    "costume_id": "000707",
-   "costume_name": "Beach Vacation",
-   "char_name": "Eclipse",
+   "costume_name": "海滨度假",
+   "char_name": "伊柯利普斯",
    "is_limited": false,
    "start": "2024-09-05",
    "end": "2024-09-26"
   },
   {
    "costume_id": "067401",
-   "costume_name": "Beachside Justice",
-   "char_name": "Michaela",
+   "costume_name": "海滨正义",
+   "char_name": "米卡艾拉",
    "is_limited": false,
    "start": "2024-08-29",
    "end": "2024-09-19"
   },
   {
    "costume_id": "003401",
-   "costume_name": "Beach Vacation",
-   "char_name": "Morpeah",
+   "costume_name": "海滨度假",
+   "char_name": "墨菲亚",
    "is_limited": false,
    "start": "2024-08-22",
    "end": "2024-09-12"
   },
   {
    "costume_id": "001107",
-   "costume_name": "Beachside Angel",
-   "char_name": "Teresse",
+   "costume_name": "海滨天使",
+   "char_name": "泰瑞丝",
    "is_limited": true,
    "start": "2024-08-14",
    "end": "2024-09-05"
   },
   {
    "costume_id": "060706",
-   "costume_name": "Game Club",
-   "char_name": "Rafina",
+   "costume_name": "游戏社",
+   "char_name": "拉菲娜",
    "is_limited": false,
    "start": "2024-08-08",
    "end": "2024-08-22"
   },
   {
    "costume_id": "000501",
-   "costume_name": "White Cat",
-   "char_name": "Rou",
+   "costume_name": "白色猫咪",
+   "char_name": "鲁",
    "is_limited": false,
    "start": "2024-08-01",
    "end": "2024-08-14"
   },
   {
    "costume_id": "067301",
-   "costume_name": "Track and Field Captain",
-   "char_name": "Levia",
+   "costume_name": "田径社社长",
+   "char_name": "莱维亚",
    "is_limited": false,
    "start": "2024-07-25",
    "end": "2024-08-08"
   },
   {
    "costume_id": "003202",
-   "costume_name": "Track and Field Team",
-   "char_name": "Loen",
+   "costume_name": "田径社社员",
+   "char_name": "罗安",
    "is_limited": false,
    "start": "2024-07-18",
    "end": "2024-08-01"
   },
   {
    "costume_id": "061002",
-   "costume_name": "B-Rank Idol",
-   "char_name": "Helena",
+   "costume_name": "B级偶像",
+   "char_name": "海伦娜",
    "is_limited": false,
    "start": "2024-07-18",
    "end": "2024-08-01"
   },
   {
    "costume_id": "066401",
-   "costume_name": "The Fallen",
-   "char_name": "Angelica",
+   "costume_name": "堕落之星",
+   "char_name": "安洁莉卡",
    "is_limited": false,
    "start": "2024-07-11",
    "end": "2024-07-25"
   },
   {
    "costume_id": "000103",
-   "costume_name": "Homunculus",
-   "char_name": "Lathel",
+   "costume_name": "霍尔蒙克斯",
+   "char_name": "拉德尔",
    "is_limited": false,
    "start": "2024-07-04",
    "end": "2024-07-18"
   },
   {
    "costume_id": "000206",
-   "costume_name": "Pool Party",
-   "char_name": "Justia",
+   "costume_name": "泳池派对",
+   "char_name": "悠丝缇亚",
    "is_limited": true,
    "start": "2024-07-04",
    "end": "2024-07-18"
   },
   {
    "costume_id": "003501",
-   "costume_name": "Reclaimed Destiny",
-   "char_name": "Sacred Justia",
+   "costume_name": "找回的命运",
+   "char_name": "神圣悠丝缇亚",
    "is_limited": false,
    "start": "2024-07-04",
    "end": "2024-07-18"
   },
   {
    "costume_id": "003302",
-   "costume_name": "Laid-back Lifeguard",
-   "char_name": "Nebris",
+   "costume_name": "松散的救生员",
+   "char_name": "内布利斯",
    "is_limited": false,
    "start": "2024-06-27",
    "end": "2024-07-11"
   },
   {
    "costume_id": "000306",
-   "costume_name": "Pool Party",
-   "char_name": "Scheherazade",
+   "costume_name": "泳池派对",
+   "char_name": "莎赫拉查德",
    "is_limited": true,
    "start": "2024-06-20",
    "end": "2024-07-04"
   },
   {
    "costume_id": "002401",
-   "costume_name": "Adventurer of the Unknown",
-   "char_name": "Diana",
+   "costume_name": "未知探究者",
+   "char_name": "黛安娜",
    "is_limited": false,
    "start": "2024-06-20",
    "end": "2024-07-04"
@@ -1407,487 +1407,487 @@
   {
    "costume_id": "067201",
    "costume_name": "DJ",
-   "char_name": "Venaka",
+   "char_name": "贝那卡",
    "is_limited": false,
    "start": "2024-06-20",
    "end": "2024-07-04"
   },
   {
    "costume_id": "060802",
-   "costume_name": "Code Name O",
-   "char_name": "Elise",
+   "costume_name": "代号O",
+   "char_name": "爱丽洁",
    "is_limited": false,
    "start": "2024-06-12",
    "end": "2024-06-26"
   },
   {
    "costume_id": "020001",
-   "costume_name": "Esteemed Adventurer",
-   "char_name": "Eris",
+   "costume_name": "受祝福的冒险家",
+   "char_name": "艾莉丝",
    "is_limited": true,
    "start": "2024-06-05",
    "end": "2024-06-19"
   },
   {
    "costume_id": "020002",
-   "costume_name": "Your Very Own Cat",
-   "char_name": "Eris",
+   "costume_name": "只属于你的猫咪",
+   "char_name": "艾莉丝",
    "is_limited": true,
    "start": "2024-06-05",
    "end": "2024-06-19"
   },
   {
    "costume_id": "000301",
-   "costume_name": "The Lapis Witch",
-   "char_name": "Scheherazade",
+   "costume_name": "苍蓝魔女",
+   "char_name": "莎赫拉查德",
    "is_limited": false,
    "start": "2024-05-29",
    "end": "2024-06-12"
   },
   {
    "costume_id": "020101",
-   "costume_name": "Respected Master",
-   "char_name": "Roxy",
+   "costume_name": "受尊敬的师傅",
+   "char_name": "洛琪希",
    "is_limited": true,
    "start": "2024-05-22",
    "end": "2024-06-19"
   },
   {
    "costume_id": "020102",
-   "costume_name": "Emerging Desire",
-   "char_name": "Roxy",
+   "costume_name": "泄露的欲望",
+   "char_name": "洛琪希",
    "is_limited": true,
    "start": "2024-05-22",
    "end": "2024-06-19"
   },
   {
    "costume_id": "061102",
-   "costume_name": "B-Rank Idol",
-   "char_name": "Eleaneer",
+   "costume_name": "B级偶像",
+   "char_name": "艾尼尔",
    "is_limited": false,
    "start": "2024-05-15",
    "end": "2024-05-29"
   },
   {
    "costume_id": "003201",
-   "costume_name": "Last Hope",
-   "char_name": "Loen",
+   "costume_name": "最后的希望",
+   "char_name": "罗安",
    "is_limited": false,
    "start": "2024-05-08",
    "end": "2024-05-22"
   },
   {
    "costume_id": "066801",
-   "costume_name": "The Gluttonous",
-   "char_name": "Refithea",
+   "costume_name": "贪婪之星",
+   "char_name": "芮彼泰雅",
    "is_limited": false,
    "start": "2024-05-01",
    "end": "2024-05-15"
   },
   {
    "costume_id": "000502",
-   "costume_name": "Red Riding Hood",
-   "char_name": "Rou",
+   "costume_name": "小红帽",
+   "char_name": "鲁",
    "is_limited": false,
    "start": "2024-04-24",
    "end": "2024-05-08"
   },
   {
    "costume_id": "066802",
-   "costume_name": "Pure White Blessing",
-   "char_name": "Refithea",
+   "costume_name": "纯白祝福",
+   "char_name": "芮彼泰雅",
    "is_limited": false,
    "start": "2024-04-24",
    "end": "2024-05-08"
   },
   {
    "costume_id": "066402",
-   "costume_name": "Pool Party",
-   "char_name": "Angelica",
+   "costume_name": "泳池派对",
+   "char_name": "安洁莉卡",
    "is_limited": false,
    "start": "2024-04-17",
    "end": "2024-05-01"
   },
   {
    "costume_id": "001101",
-   "costume_name": "Angel of Destruction",
-   "char_name": "Teresse",
+   "costume_name": "毁灭天使",
+   "char_name": "泰瑞丝",
    "is_limited": false,
    "start": "2024-04-10",
    "end": "2024-04-24"
   },
   {
    "costume_id": "061302",
-   "costume_name": "Bright Moon",
-   "char_name": "Dalvi",
+   "costume_name": "明月",
+   "char_name": "达非",
    "is_limited": false,
    "start": "2024-04-10",
    "end": "2024-04-24"
   },
   {
    "costume_id": "000303",
-   "costume_name": "The Magic School Professor",
-   "char_name": "Scheherazade",
+   "costume_name": "魔法学校教授",
+   "char_name": "莎赫拉查德",
    "is_limited": false,
    "start": "2024-04-03",
    "end": "2024-04-17"
   },
   {
    "costume_id": "060706",
-   "costume_name": "Game Club",
-   "char_name": "Rafina",
+   "costume_name": "游戏社",
+   "char_name": "拉菲娜",
    "is_limited": false,
    "start": "2024-03-27",
    "end": "2024-04-10"
   },
   {
    "costume_id": "066906",
-   "costume_name": "Disciplinary Committee",
-   "char_name": "Glacia",
+   "costume_name": "纪律部",
+   "char_name": "克蕾西亚",
    "is_limited": false,
    "start": "2024-03-20",
    "end": "2024-04-03"
   },
   {
    "costume_id": "001106",
-   "costume_name": "Medical Club",
-   "char_name": "Teresse",
+   "costume_name": "保健部",
+   "char_name": "泰瑞丝",
    "is_limited": false,
    "start": "2024-03-13",
    "end": "2024-03-27"
   },
   {
    "costume_id": "001201",
-   "costume_name": "Rodev's Star",
-   "char_name": "Liatris",
+   "costume_name": "罗戴夫之星",
+   "char_name": "莉亚特里斯",
    "is_limited": false,
    "start": "2024-03-06",
    "end": "2024-03-20"
   },
   {
    "costume_id": "067101",
-   "costume_name": "The Void",
-   "char_name": "Granhildr",
+   "costume_name": "虚无之星",
+   "char_name": "格兰希特",
    "is_limited": false,
    "start": "2024-02-28",
    "end": "2024-03-13"
   },
   {
    "costume_id": "000806",
-   "costume_name": "Maid Name C",
-   "char_name": "Rubia",
+   "costume_name": "女仆代号C",
+   "char_name": "露比雅",
    "is_limited": false,
    "start": "2024-02-21",
    "end": "2024-03-06"
   },
   {
    "costume_id": "001207",
-   "costume_name": "Maid Name R",
-   "char_name": "Liatris",
+   "costume_name": "女仆代号R",
+   "char_name": "莉亚特里斯",
    "is_limited": false,
    "start": "2024-02-14",
    "end": "2024-02-28"
   },
   {
    "costume_id": "000203",
-   "costume_name": "Blood Glutton",
-   "char_name": "Justia",
+   "costume_name": "血之贪食者",
+   "char_name": "悠丝缇亚",
    "is_limited": false,
    "start": "2024-02-07",
    "end": "2024-02-21"
   },
   {
    "costume_id": "002401",
-   "costume_name": "Adventurer of the Unknown",
-   "char_name": "Diana",
+   "costume_name": "未知探究者",
+   "char_name": "黛安娜",
    "is_limited": false,
    "start": "2024-02-07",
    "end": "2024-02-21"
   },
   {
    "costume_id": "067003",
-   "costume_name": "Comeback Idol",
-   "char_name": "Ventana",
+   "costume_name": "回归偶像",
+   "char_name": "班塔纳",
    "is_limited": false,
    "start": "2024-01-31",
    "end": "2024-02-14"
   },
   {
    "costume_id": "067102",
-   "costume_name": "Comeback Idol",
-   "char_name": "Granhildr",
+   "costume_name": "回归偶像",
+   "char_name": "格兰希特",
    "is_limited": false,
    "start": "2024-01-24",
    "end": "2024-02-07"
   },
   {
    "costume_id": "065103",
-   "costume_name": "Comeback Idol",
-   "char_name": "Yuri",
+   "costume_name": "回归偶像",
+   "char_name": "尤里",
    "is_limited": false,
    "start": "2024-01-17",
    "end": "2024-01-31"
   },
   {
    "costume_id": "000701",
-   "costume_name": "Dimension Witch",
-   "char_name": "Eclipse",
+   "costume_name": "空间魔女",
+   "char_name": "伊柯利普斯",
    "is_limited": false,
    "start": "2024-01-10",
    "end": "2024-01-24"
   },
   {
    "costume_id": "002406",
-   "costume_name": "Anti-dystopia",
-   "char_name": "Diana",
+   "costume_name": "反乌托邦",
+   "char_name": "黛安娜",
    "is_limited": false,
    "start": "2024-01-03",
    "end": "2024-01-17"
   },
   {
    "costume_id": "061002",
-   "costume_name": "B-Rank Idol",
-   "char_name": "Helena",
+   "costume_name": "B级偶像",
+   "char_name": "海伦娜",
    "is_limited": false,
    "start": "2024-01-03",
    "end": "2024-01-17"
   },
   {
    "costume_id": "060403",
-   "costume_name": "Masquerade Bunny",
-   "char_name": "Celia",
+   "costume_name": "化妆舞会兔女郎",
+   "char_name": "西利亚",
    "is_limited": true,
    "start": "2023-12-27",
    "end": "2024-01-10"
   },
   {
    "costume_id": "000103",
-   "costume_name": "Homunculus",
-   "char_name": "Lathel",
+   "costume_name": "霍尔蒙克斯",
+   "char_name": "拉德尔",
    "is_limited": false,
    "start": "2023-12-20",
    "end": "2024-01-03"
   },
   {
    "costume_id": "000706",
-   "costume_name": "Nightmare Bunny",
-   "char_name": "Eclipse",
+   "costume_name": "恶梦兔女郎",
+   "char_name": "伊柯利普斯",
    "is_limited": true,
    "start": "2023-12-20",
    "end": "2024-01-03"
   },
   {
    "costume_id": "065802",
-   "costume_name": "Anonymous Sage",
-   "char_name": "Nartas",
+   "costume_name": "无名道士",
+   "char_name": "纳罗达斯",
    "is_limited": false,
    "start": "2023-12-13",
    "end": "2023-12-27"
   },
   {
    "costume_id": "061302",
-   "costume_name": "Bright Moon",
-   "char_name": "Dalvi",
+   "costume_name": "明月",
+   "char_name": "达非",
    "is_limited": false,
    "start": "2023-12-06",
    "end": "2023-12-20"
   },
   {
    "costume_id": "065102",
-   "costume_name": "Whitebolt",
-   "char_name": "Yuri",
+   "costume_name": "白雷",
+   "char_name": "尤里",
    "is_limited": false,
    "start": "2023-11-29",
    "end": "2023-12-13"
   },
   {
    "costume_id": "001002",
-   "costume_name": "The Sword Queen",
-   "char_name": "Sylvia",
+   "costume_name": "剑后",
+   "char_name": "席比雅",
    "is_limited": false,
    "start": "2023-11-22",
    "end": "2023-12-06"
   },
   {
    "costume_id": "000604",
-   "costume_name": "Sage of Blue Clouds",
-   "char_name": "Olstein",
+   "costume_name": "青云道士",
+   "char_name": "奥尔施塔因",
    "is_limited": false,
    "start": "2023-11-15",
    "end": "2023-11-29"
   },
   {
    "costume_id": "060602",
-   "costume_name": "Android Queen",
-   "char_name": "Lecliss",
+   "costume_name": "机械人女王",
+   "char_name": "莱克莉斯",
    "is_limited": false,
    "start": "2023-11-08",
    "end": "2023-11-22"
   },
   {
    "costume_id": "002401",
-   "costume_name": "Adventurer of the Unknown",
-   "char_name": "Diana",
+   "costume_name": "未知探究者",
+   "char_name": "黛安娜",
    "is_limited": false,
    "start": "2023-10-25",
    "end": "2023-11-08"
   },
   {
    "costume_id": "061402",
-   "costume_name": "Robin Hood",
-   "char_name": "Zenith",
+   "costume_name": "罗宾汉",
+   "char_name": "杰尼斯",
    "is_limited": false,
    "start": "2023-10-25",
    "end": "2023-11-08"
   },
   {
    "costume_id": "066401",
-   "costume_name": "The Fallen",
-   "char_name": "Angelica",
+   "costume_name": "堕落之星",
+   "char_name": "安洁莉卡",
    "is_limited": false,
    "start": "2023-10-11",
    "end": "2023-10-25"
   },
   {
    "costume_id": "067002",
-   "costume_name": "Snow White",
-   "char_name": "Ventana",
+   "costume_name": "白雪公主",
+   "char_name": "班塔纳",
    "is_limited": false,
    "start": "2023-10-11",
    "end": "2023-10-25"
   },
   {
    "costume_id": "000502",
-   "costume_name": "Red Riding Hood",
-   "char_name": "Rou",
+   "costume_name": "小红帽",
+   "char_name": "鲁",
    "is_limited": false,
    "start": "2023-09-25",
    "end": "2023-10-11"
   },
   {
    "costume_id": "066902",
-   "costume_name": "Alice",
-   "char_name": "Glacia",
+   "costume_name": "爱丽丝",
+   "char_name": "克蕾西亚",
    "is_limited": false,
    "start": "2023-09-25",
    "end": "2023-10-11"
   },
   {
    "costume_id": "066403",
-   "costume_name": "Neon Savior",
-   "char_name": "Angelica",
+   "costume_name": "霓虹救星",
+   "char_name": "安洁莉卡",
    "is_limited": false,
    "start": "2023-09-20",
    "end": "2023-10-04"
   },
   {
    "costume_id": "000103",
-   "costume_name": "Homunculus",
-   "char_name": "Lathel",
+   "costume_name": "霍尔蒙克斯",
+   "char_name": "拉德尔",
    "is_limited": false,
    "start": "2023-09-13",
    "end": "2023-09-25"
   },
   {
    "costume_id": "001206",
-   "costume_name": "Neon Stalker",
-   "char_name": "Liatris",
+   "costume_name": "霓虹跟踪狂",
+   "char_name": "莉亚特里斯",
    "is_limited": false,
    "start": "2023-09-13",
    "end": "2023-09-25"
   },
   {
    "costume_id": "000804",
-   "costume_name": "The Empress of the Ocean",
-   "char_name": "Rubia",
+   "costume_name": "大海女帝",
+   "char_name": "露比雅",
    "is_limited": false,
    "start": "2023-09-06",
    "end": "2023-09-20"
   },
   {
    "costume_id": "060501",
-   "costume_name": "Gentle Maid",
-   "char_name": "Anastasia",
+   "costume_name": "和善女仆",
+   "char_name": "安娜塔西亚",
    "is_limited": false,
    "start": "2023-08-30",
    "end": "2023-09-13"
   },
   {
    "costume_id": "060502",
-   "costume_name": "Fire Graffiti",
-   "char_name": "Anastasia",
+   "costume_name": "热火涂鸦",
+   "char_name": "安娜塔西亚",
    "is_limited": false,
    "start": "2023-08-30",
    "end": "2023-09-13"
   },
   {
    "costume_id": "001004",
-   "costume_name": "Admiral",
-   "char_name": "Sylvia",
+   "costume_name": "海军队长",
+   "char_name": "席比雅",
    "is_limited": false,
    "start": "2023-08-23",
    "end": "2023-09-06"
   },
   {
    "costume_id": "066402",
-   "costume_name": "Pool Party",
-   "char_name": "Angelica",
+   "costume_name": "泳池派对",
+   "char_name": "安洁莉卡",
    "is_limited": false,
    "start": "2023-08-16",
    "end": "2023-08-30"
   },
   {
    "costume_id": "000306",
-   "costume_name": "Pool Party",
-   "char_name": "Scheherazade",
+   "costume_name": "泳池派对",
+   "char_name": "莎赫拉查德",
    "is_limited": true,
    "start": "2023-08-09",
    "end": "2023-08-30"
   },
   {
    "costume_id": "000206",
-   "costume_name": "Pool Party",
-   "char_name": "Justia",
+   "costume_name": "泳池派对",
+   "char_name": "悠丝缇亚",
    "is_limited": true,
    "start": "2023-08-02",
    "end": "2023-08-23"
   },
   {
    "costume_id": "101102",
-   "costume_name": "B-Rank Idol",
-   "char_name": "Seir",
+   "costume_name": "B级偶像",
+   "char_name": "赛尔",
    "is_limited": false,
    "start": "2023-07-19",
    "end": "2023-08-02"
   },
   {
    "costume_id": "061002",
-   "costume_name": "B-Rank Idol",
-   "char_name": "Helena",
+   "costume_name": "B级偶像",
+   "char_name": "海伦娜",
    "is_limited": false,
    "start": "2023-07-05",
    "end": "2023-07-26"
   },
   {
    "costume_id": "061102",
-   "costume_name": "B-Rank Idol",
-   "char_name": "Eleaneer",
+   "costume_name": "B级偶像",
+   "char_name": "艾尼尔",
    "is_limited": false,
    "start": "2023-07-05",
    "end": "2023-07-26"
   },
   {
    "costume_id": "000204",
-   "costume_name": "Kendo Club",
-   "char_name": "Justia",
+   "costume_name": "剑道社",
+   "char_name": "悠丝缇亚",
    "is_limited": false,
    "start": "2023-06-22",
    "end": "2023-07-05"
   },
   {
    "costume_id": "000304",
-   "costume_name": "Code Name S",
-   "char_name": "Scheherazade",
+   "costume_name": "代号S",
+   "char_name": "莎赫拉查德",
    "is_limited": false,
    "start": "2023-06-22",
    "end": "2023-07-05"
