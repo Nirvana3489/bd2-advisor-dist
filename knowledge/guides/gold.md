@@ -1,14 +1,7 @@
 # 金币（Gold）获取
 
-> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「Gold」 · 采集 2026-10-03 · 机翻清洗版，专有名词以游戏内中文为准
+> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「Gold」 · 采集 2026-10-03 · 英文原文（AI 阅读用，回答以中文输出）
 
-{{Resource data
-· id=60005
-· name=Gold
-· isLimited=0
-· rarity=
-· foundInPackIds=
-}}{{Resource infobox}}
 **Gold** is a resource.
 
 ## Usage
@@ -31,7 +24,7 @@ There are plenty of ways to obtain Gold:
 
 ·  Sell items in field shops  ·  Varies  ·  Free
 
-·  Path of Adventure - Goblin Ruins (very hard)  ·  22,000x per 6 Cooked Rice spent  ·  6+ {{Icon|Cooked Rice}}
+·  Path of Adventure - Goblin Ruins (very hard)  ·  22,000x per 6 Cooked Rice spent  ·  6+ 
 
 ·  Fully clear all challenge battles in seasonal events  ·  150,000x per 2 weeks  ·  Free
 
@@ -47,21 +40,21 @@ There are plenty of ways to obtain Gold:
 
 ·  Check out Glupy Diner sales (Lv. 30)  ·  Up to 99,360x for 24 hours  ·  Free
 
-·  Golden Thread Shop  ·  Unlimited  ·  90 {{Icon|Golden Thread}} for 50,000x
+·  Golden Thread Shop  ·  Unlimited  ·  90  for 50,000x
 
-·  Powder of Hope Shop  ·  Unlimited  ·  20 {{Icon|Powder of Hope}} for 50,000x
+·  Powder of Hope Shop  ·  Unlimited  ·  20  for 50,000x
 
-·  Mirror Wars Shop  ·  1,000,000x per month  ·  100 {{Icon|Medal of the Fighting Spirit}} for 10,000x
+·  Mirror Wars Shop  ·  1,000,000x per month  ·  100  for 10,000x
 
-·  Evil Castle Shop  ·  1,000,000x per month  ·  100 {{Icon|Devil Coin}} for 10,000x
+·  Evil Castle Shop  ·  1,000,000x per month  ·  100  for 10,000x
 
-·  The Golden Colosseum Shop  ·  2,000,000x per month  ·  50 {{Icon|Aurum Coin}} for 100,000x
+·  The Golden Colosseum Shop  ·  2,000,000x per month  ·  50  for 100,000x
 
-·  The Golden Colosseum Shop  ·  Unlimited  ·  50 {{Icon|Aurum Coin}} for 50,000x
+·  The Golden Colosseum Shop  ·  Unlimited  ·  50  for 50,000x
 
-·  Fishing Shop  ·  1,000,000x per month  ·  1875 {{Icon|Lucky Silver Coin}} for 100,000x
+·  Fishing Shop  ·  1,000,000x per month  ·  1875  for 100,000x
 
-·  The Soul-Wager Shop  ·  1,000,000x per 8 weeks  ·  100 {{Icon|Alea Chip}} for 100,000x
+·  The Soul-Wager Shop  ·  1,000,000x per 8 weeks  ·  100  for 100,000x
 
 ·  Daily Last Night reward  ·  2000x ~ 374,000x per day (depending on score)  ·  Free
 
@@ -71,7 +64,7 @@ There are plenty of ways to obtain Gold:
 
 ·  Monthly Character Pass  ·  130,000x per 4 weeks  ·  Free
 
-·  Monthly Premium Season Pass  ·  80,000x per 4 weeks  ·  Free (1000 {{Icon|Dia}} to unlock)
+·  Monthly Premium Season Pass  ·  80,000x per 4 weeks  ·  Free (1000  to unlock)
 
 ·  Win 3 battles in Taros Tactical Manual  ·  2,000,000x per 4 weeks  ·  Free
 

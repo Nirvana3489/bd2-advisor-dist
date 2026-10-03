@@ -1,6 +1,6 @@
 # 抽卡机制与保底（Draw）
 
-> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「Draw（抽卡与保底）」 · 采集 2026-10-03 · 机翻清洗版，专有名词以游戏内中文为准
+> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「Draw（抽卡与保底）」 · 采集 2026-10-03 · 英文原文（AI 阅读用，回答以中文输出）
 
 **Drawing** is the main way to obtain costumes and Exclusive gear in *Brown Dust 2*.
 

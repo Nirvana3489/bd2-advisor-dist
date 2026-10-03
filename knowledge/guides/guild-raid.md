@@ -1,17 +1,7 @@
 # 公会战/魔兽狩猎（Guild Raid）
 
-> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「Guild Raid」 · 采集 2026-10-03 · 机翻清洗版，专有名词以游戏内中文为准
+> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「Guild Raid」 · 采集 2026-10-03 · 英文原文（AI 阅读用，回答以中文输出）
 
-{{Pack data
-· id=3006
-· num=6
-· name=Guild Raid
-· category=Combat Content
-· battleType=PvE
-· world=Original (Side story)
-· isLimited=1
-· releaseDate=2024-09-12
-}}{{Pack infobox}}
 **Guild Raid** is the fifth Combat Content pack and sixth overall content pack. Although it is not accesssed from the pack collection, it is still considered a content pack in the game data.
 
 ## About
@@ -27,12 +17,12 @@ A Guild Raid is started every 4 weeks. The raid consists of 7 days of Boss Defen
 
 Players can borrow up to 2 characters from guildmates to use in the battle, although more points are granted the fewer characters a player borrows. Characters can be borrowed up to 3 times per day, with one use being deducted after each victory. Collection buffs of borrowed characters applied based on the person borrowing them. The person who registered the support characters receives rewards based on the number of times their character was borrowed.
 
-Differing from normal battles, the battles in Guild Raids take place on a 5x5 grid instead of the typical 3x4, and players can bring up to 7 characters into battle. Additionally, maximum {{kw|SP}} is increased to 30 from the typical 20.
+Differing from normal battles, the battles in Guild Raids take place on a 5x5 grid instead of the typical 3x4, and players can bring up to 7 characters into battle. Additionally, maximum  is increased to 30 from the typical 20.
 
 Guild Raid attempts conclude 9 hours before daily reset time on the final day of the raid.
 
 ### Lancelot
-In battle, a percentage gauge is filled by damaging the boss. Specifically, the gauge fills based on the player's {{kw|Chain}} count and the boss's missing HP. Upon reaching 100% of the gauge, the player has the option to let Lancelot enter the battle for 6 turns. Lancelot can be summoned only once per battle.
+In battle, a percentage gauge is filled by damaging the boss. Specifically, the gauge fills based on the player's  count and the boss's missing HP. Upon reaching 100% of the gauge, the player has the option to let Lancelot enter the battle for 6 turns. Lancelot can be summoned only once per battle.
 
 Lancelot is a physical type neutral property character with 15,000,000 HP and 12,000 ATK. All of its other stats are 0.
 
@@ -40,11 +30,11 @@ Lancelot can use the following skills:
 
 ** colspan="4" | <big>Redeeming Strike</big>** 
 
-·  colspan="4" | Deal {{kw|Pure DMG}} (Physical) to the enemy equal to 5000% of your ATK. Put the enemy in a {{kw|Break}} state for 2 turn(s), making them unable to take any actions. Apply a 200% {{kw|Vulnerability}} to the enemy for 2 turn(s).
+·  colspan="4" | Deal  (Physical) to the enemy equal to 5000% of your ATK. Put the enemy in a  state for 2 turn(s), making them unable to take any actions. Apply a 200%  to the enemy for 2 turn(s).
 
 ** Target !! Range !! SP !! Cooldown** 
 
-·  Very Front  ·  {{Range|ALL|element=neutral}}  ·  ◆ 0  ·  7 turns
+·  Very Front  ·    ·  ◆ 0  ·  7 turns
 
 ** colspan="4" | <big>Arondight Rush</big>** 
 
@@ -52,26 +42,26 @@ Lancelot can use the following skills:
 
 ** Target !! Range !! SP !! Cooldown** 
 
-·  Fixed  ·  {{Range|5x5|cells=1-2,1-3,1-4,2-2,2-3,2-4,3-2,3-3,3-4,4-2,4-3,4-4,5-2,5-3,5-4|targetcell=3-3|element=neutral}}  ·  ◆ 0   ·  1 turn
+·  Fixed  ·    ·  ◆ 0   ·  1 turn
 
 ** colspan="4" | <big>Radiant Combat Mastery</big>** 
 
-·  colspan="4" | Deal {{kw|Fixed DMG}} (Physical) to the enemy equal to 700% of your ATK. Apply {{kw|Bleed}} to the enemy for 10 turn(s), dealing Physical DMG equal to 600% of your ATK.
+·  colspan="4" | Deal  (Physical) to the enemy equal to 700% of your ATK. Apply  to the enemy for 10 turn(s), dealing Physical DMG equal to 600% of your ATK.
 
 ** Target !! Range !! SP !! Cooldown** 
 
-·  Very Front  ·  {{Range|ALL|element=neutral}}  ·  ◆ 0   ·  1 turn
+·  Very Front  ·    ·  ◆ 0   ·  1 turn
 
 ** colspan="4" | <big>Blessing of the Lake</big>** 
 
-·  colspan="4" | Restore 25 {{kw|SP}} to allies. Reset the skill cooldown of allies except yourself.
+·  colspan="4" | Restore 25  to allies. Reset the skill cooldown of allies except yourself.
 
 ** Target !! Range !! SP !! Cooldown** 
 
-·  Ally  ·  {{Range|ALL|element=neutral}}  ·  ◆ 0   ·  7 turns
+·  Ally  ·    ·  ◆ 0   ·  7 turns
 
 ### Boss
-* In the battle, the player can use Lancelot or trigger conditional effects to apply a {{kw|Break}} state on the boss.
+* In the battle, the player can use Lancelot or trigger conditional effects to apply a  state on the boss.
 * If the boss is in Break state, all of its reserved skills are canceled and it cannot do any actions for a certain amount of turns.
 * When the boss reaches 50% HP, it enters Overdrive state, granting itself a new arsenal of regular and conditional skills.
 * Attacks from the boss cannot be evaded.
@@ -89,51 +79,51 @@ The score and ranking rewards for Guild Raid can be explored through the tables 
 
 ** Guild score !! Reward !! Cumulative** 
 
-·  1,000  ·  1,000 {{Icon|Mercenary Alliance Deed}}  ·  1,000 {{Icon|Mercenary Alliance Deed}}
+·  1,000  ·  1,000   ·  1,000 
 
-·  5,000  ·  1,000 {{Icon|Mercenary Alliance Deed}}  ·  2,000 {{Icon|Mercenary Alliance Deed}}
+·  5,000  ·  1,000   ·  2,000 
 
-·  12,500  ·  1,000 {{Icon|Mercenary Alliance Deed}}  ·  3,000 {{Icon|Mercenary Alliance Deed}}
+·  12,500  ·  1,000   ·  3,000 
 
-·  20,000  ·  1,000 {{Icon|Mercenary Alliance Deed}}  ·  4,000 {{Icon|Mercenary Alliance Deed}}
+·  20,000  ·  1,000   ·  4,000 
 
-·  30,000  ·  1,000 {{Icon|Mercenary Alliance Deed}}  ·  5,000 {{Icon|Mercenary Alliance Deed}}
+·  30,000  ·  1,000   ·  5,000 
 
-·  50,000  ·  1,000 {{Icon|Mercenary Alliance Deed}}  ·  6,000 {{Icon|Mercenary Alliance Deed}}
+·  50,000  ·  1,000   ·  6,000 
 
-·  70,000  ·  1,000 {{Icon|Mercenary Alliance Deed}}  ·  7,000 {{Icon|Mercenary Alliance Deed}}
+·  70,000  ·  1,000   ·  7,000 
 
-·  85,000  ·  1,000 {{Icon|Mercenary Alliance Deed}}  ·  8,000 {{Icon|Mercenary Alliance Deed}}
+·  85,000  ·  1,000   ·  8,000 
 
-·  100,000  ·  1,000 {{Icon|Mercenary Alliance Deed}}  ·  9,000 {{Icon|Mercenary Alliance Deed}}
+·  100,000  ·  1,000   ·  9,000 
 
 · + Ranking rewards
 
 ** Guild rank || Deeds || Dia** 
 
-·  Top 100% ~ 80%  ·  2000 {{Icon|Mercenary Alliance Deed}}  ·  1500 {{Icon|Dia}}
+·  Top 100% ~ 80%  ·  2000   ·  1500 
 
-·  Top 80% ~ 70%  ·  2200 {{Icon|Mercenary Alliance Deed}}  ·  1600 {{Icon|Dia}}
+·  Top 80% ~ 70%  ·  2200   ·  1600 
 
-·  Top 70% ~ 60%  ·  2400 {{Icon|Mercenary Alliance Deed}}  ·  1700 {{Icon|Dia}}
+·  Top 70% ~ 60%  ·  2400   ·  1700 
 
-·  Top 60% ~ 50%  ·  2600 {{Icon|Mercenary Alliance Deed}}  ·  1800 {{Icon|Dia}}
+·  Top 60% ~ 50%  ·  2600   ·  1800 
 
-·  Top 50% ~ 40%  ·  2800 {{Icon|Mercenary Alliance Deed}}  ·  1900 {{Icon|Dia}}
+·  Top 50% ~ 40%  ·  2800   ·  1900 
 
-·  Top 40% ~ 30%  ·  3000 {{Icon|Mercenary Alliance Deed}}  ·  2000 {{Icon|Dia}}
+·  Top 40% ~ 30%  ·  3000   ·  2000 
 
-·  Top 30% ~ 20%  ·  3200 {{Icon|Mercenary Alliance Deed}}  ·  2100 {{Icon|Dia}}
+·  Top 30% ~ 20%  ·  3200   ·  2100 
 
-·  Top 20% ~ 10%  ·  3400 {{Icon|Mercenary Alliance Deed}}  ·  2200 {{Icon|Dia}}
+·  Top 20% ~ 10%  ·  3400   ·  2200 
 
-·  Top 10% ~ 5%  ·  3700 {{Icon|Mercenary Alliance Deed}}  ·  2400 {{Icon|Dia}}
+·  Top 10% ~ 5%  ·  3700   ·  2400 
 
-·  Top 5% ~ 1%  ·  3800 {{Icon|Mercenary Alliance Deed}}  ·  2600 {{Icon|Dia}}
+·  Top 5% ~ 1%  ·  3800   ·  2600 
 
-·  Top 1% ~ 0.1%  ·  3900 {{Icon|Mercenary Alliance Deed}}  ·  2800 {{Icon|Dia}}
+·  Top 1% ~ 0.1%  ·  3900   ·  2800 
 
-·  Top 0.1%  ·  4000 {{Icon|Mercenary Alliance Deed}}  ·  3000 {{Icon|Dia}}
+·  Top 0.1%  ·  4000   ·  3000 
 
 ## History
 ### March 25th 2026 Maintenance
@@ -154,22 +144,22 @@ Mercenary Alliance Deeds can be spent in the Guild shop.
 
 ** Item !! Price !! Limit ** 
 
-·  1x {{il|Draw Ticket}}  ·  300 {{Icon|Mercenary Alliance Deed}}  ·  10x per calendar month
+·  1x   ·  300   ·  10x per calendar month
 
-·  1x {{il|Tear of Goddess}}  ·  2000 {{Icon|Mercenary Alliance Deed}}  ·  1x per calendar month
+·  1x   ·  2000   ·  1x per calendar month
 
-·  1x {{il|Awakening Elixir}}  ·  30 {{Icon|Mercenary Alliance Deed}}  ·  100x per calendar month
+·  1x   ·  30   ·  100x per calendar month
 
-·  1x {{il|Essence of Strength}}  ·  10 {{Icon|Mercenary Alliance Deed}}  ·  100x per calendar month
+·  1x   ·  10   ·  100x per calendar month
 
-·  1x {{il|Essence of Life}}  ·  10 {{Icon|Mercenary Alliance Deed}}  ·  100x per calendar month
+·  1x   ·  10   ·  100x per calendar month
 
-·  1x {{il|Essence of Perseverance}}  ·  10 {{Icon|Mercenary Alliance Deed}}  ·  100x per calendar month
+·  1x   ·  10   ·  100x per calendar month
 
-·  1x {{il|Engraving Scroll}}  ·  2 {{Icon|Mercenary Alliance Deed}}  ·  Unlimited
+·  1x   ·  2   ·  Unlimited
 
-·  5x {{il|Refining Powder}}  ·  2 {{Icon|Mercenary Alliance Deed}}  ·  Unlimited
+·  5x   ·  2   ·  Unlimited
 
-·  1x {{il|Spark of Rampage}}  ·  15 {{Icon|Mercenary Alliance Deed}}  ·  50x per calendar month
+·  1x   ·  15   ·  50x per calendar month
 
 <br/>

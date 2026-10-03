@@ -1,17 +1,7 @@
 # 镜像战争（Mirror Wars · 竞技场）
 
-> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「Mirror Wars」 · 采集 2026-10-03 · 机翻清洗版，专有名词以游戏内中文为准
+> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「Mirror Wars」 · 采集 2026-10-03 · 英文原文（AI 阅读用，回答以中文输出）
 
-{{Pack data
-· id=3001
-· num=1
-· name=Mirror Wars
-· category=Combat Content
-· battleType=PvP
-· world=Original (Side story)
-· isLimited=0
-· releaseDate=2023-06-22
-}}{{Pack infobox}}
 **Mirror Wars** is the first Combat Content pack and first overall content pack.
 
 ## About
@@ -36,7 +26,7 @@ Mirror Wars uses Blood cocktails as a currency needed to engage in battles. Ever
 
 All battles in Mirror Wars are automatic, meaning the player cannot change their characters' positioning or select skills once they enter battle. As such, the player needs to set the positioning and skill order for all their characters pre-emptively before entering battle.
 
-In battle, the attacker always goes first and the defender always goes second, however, {{kw|Preemptive Action||Preemptive}} skills activate before the first turn for both the attacker and the defender. The attacker starts with 5 {{kw|SP}} and the defender starts with 6. Each turn (including the opponent's turn), both the attacker and the defender regain 6 SP. If there is not enough SP for a character to use their queued skill, they will instead perform a basic attack. If a battle stalls for 50 turns, it automatically ends in the attacker's victory.
+In battle, the attacker always goes first and the defender always goes second, however,  skills activate before the first turn for both the attacker and the defender. The attacker starts with 5  and the defender starts with 6. Each turn (including the opponent's turn), both the attacker and the defender regain 6 SP. If there is not enough SP for a character to use their queued skill, they will instead perform a basic attack. If a battle stalls for 50 turns, it automatically ends in the attacker's victory.
 
 Burst can be set in costume usage order for battling in Mirror Wars. If no costume order is set, Burst is triggered automatically according to auto-battle rules. Each turn, the maximum possible Burst is used based on available SP.
 
@@ -58,63 +48,63 @@ The reward structure can be explored through the table below:
 
 ** Rank !! Placement !! Promotion reward !! Season reward !! Medals per win !! Medals per loss** 
 
-·   Bronze  ·  1000~1049 VP  ·   ·  400 {{Icon|Dia}}  ·  15 {{Icon|Medal of the Fighting Spirit}}  ·  8 {{Icon|Medal of the Fighting Spirit}}
+·   Bronze  ·  1000~1049 VP  ·   ·  400   ·  15   ·  8 
 
-·   Silver III  ·  1050~1099 VP  ·  30 {{Icon|Dia}}  ·  400 {{Icon|Dia}}  ·  15 {{Icon|Medal of the Fighting Spirit}}  ·  8 {{Icon|Medal of the Fighting Spirit}}
+·   Silver III  ·  1050~1099 VP  ·  30   ·  400   ·  15   ·  8 
 
-·   Silver II  ·  1100~1199 VP  ·   ·  400 {{Icon|Dia}}  ·  15 {{Icon|Medal of the Fighting Spirit}}  ·  8 {{Icon|Medal of the Fighting Spirit}}
+·   Silver II  ·  1100~1199 VP  ·   ·  400   ·  15   ·  8 
 
-·   Silver I  ·  1200~1299 VP  ·   ·  400 {{Icon|Dia}}  ·  15 {{Icon|Medal of the Fighting Spirit}}  ·  8 {{Icon|Medal of the Fighting Spirit}}
+·   Silver I  ·  1200~1299 VP  ·   ·  400   ·  15   ·  8 
 
-·   Gold III  ·  1300~1399 VP  ·  40 {{Icon|Dia}}  ·  440 {{Icon|Dia}}  ·  15 {{Icon|Medal of the Fighting Spirit}}  ·  8 {{Icon|Medal of the Fighting Spirit}}
+·   Gold III  ·  1300~1399 VP  ·  40   ·  440   ·  15   ·  8 
 
-·   Gold II  ·  1400~1499 VP  ·   ·  470 {{Icon|Dia}}  ·  15 {{Icon|Medal of the Fighting Spirit}}  ·  8 {{Icon|Medal of the Fighting Spirit}}
+·   Gold II  ·  1400~1499 VP  ·   ·  470   ·  15   ·  8 
 
-·   Gold I  ·  1500~1599 VP  ·   ·  500 {{Icon|Dia}}  ·  15 {{Icon|Medal of the Fighting Spirit}}  ·  8 {{Icon|Medal of the Fighting Spirit}}
+·   Gold I  ·  1500~1599 VP  ·   ·  500   ·  15   ·  8 
 
-·   Platinum III  ·  1600~1699 VP  ·  50 {{Icon|Dia}}  ·  540 {{Icon|Dia}}  ·  16 {{Icon|Medal of the Fighting Spirit}}  ·  9 {{Icon|Medal of the Fighting Spirit}}
+·   Platinum III  ·  1600~1699 VP  ·  50   ·  540   ·  16   ·  9 
 
-·   Platinum II  ·  1700~1799 VP  ·   ·  570 {{Icon|Dia}}  ·  16 {{Icon|Medal of the Fighting Spirit}}  ·  9 {{Icon|Medal of the Fighting Spirit}}
+·   Platinum II  ·  1700~1799 VP  ·   ·  570   ·  16   ·  9 
 
-·   Platinum I  ·  1800~1899 VP  ·   ·  600 {{Icon|Dia}}  ·  16 {{Icon|Medal of the Fighting Spirit}}  ·  9 {{Icon|Medal of the Fighting Spirit}}
+·   Platinum I  ·  1800~1899 VP  ·   ·  600   ·  16   ·  9 
 
-·   Ruby III  ·  1900~1949 VP  ·  60 {{Icon|Dia}}  ·  640 {{Icon|Dia}}  ·  17 {{Icon|Medal of the Fighting Spirit}}  ·  10 {{Icon|Medal of the Fighting Spirit}}
+·   Ruby III  ·  1900~1949 VP  ·  60   ·  640   ·  17   ·  10 
 
-·   Ruby II  ·  1950~1999 VP  ·   ·  670 {{Icon|Dia}}  ·  17 {{Icon|Medal of the Fighting Spirit}}  ·  10 {{Icon|Medal of the Fighting Spirit}}
+·   Ruby II  ·  1950~1999 VP  ·   ·  670   ·  17   ·  10 
 
-·   Ruby I  ·  2000~2099 VP  ·   ·  700 {{Icon|Dia}}  ·  17 {{Icon|Medal of the Fighting Spirit}}  ·  10 {{Icon|Medal of the Fighting Spirit}}
+·   Ruby I  ·  2000~2099 VP  ·   ·  700   ·  17   ·  10 
 
-·   Dia III  ·  2100~2199 VP  ·  70 {{Icon|Dia}}  ·  740 {{Icon|Dia}}  ·  18 {{Icon|Medal of the Fighting Spirit}}  ·  11 {{Icon|Medal of the Fighting Spirit}}
+·   Dia III  ·  2100~2199 VP  ·  70   ·  740   ·  18   ·  11 
 
-·   Dia II  ·  2200~2299 VP  ·   ·  770 {{Icon|Dia}}  ·  18 {{Icon|Medal of the Fighting Spirit}}  ·  11 {{Icon|Medal of the Fighting Spirit}}
+·   Dia II  ·  2200~2299 VP  ·   ·  770   ·  18   ·  11 
 
-·   Dia I  ·  2300+ VP  ·   ·  800 {{Icon|Dia}}  ·  18 {{Icon|Medal of the Fighting Spirit}}  ·  11 {{Icon|Medal of the Fighting Spirit}}
+·   Dia I  ·  2300+ VP  ·   ·  800   ·  18   ·  11 
 
-·   Sapphire III  ·  Top 5000~3001  ·  70 {{Icon|Dia}}  ·  840 {{Icon|Dia}}  ·  19 {{Icon|Medal of the Fighting Spirit}}  ·  12 {{Icon|Medal of the Fighting Spirit}}
+·   Sapphire III  ·  Top 5000~3001  ·  70   ·  840   ·  19   ·  12 
 
-·   Sapphire II  ·  Top 3000~2001  ·   ·  870 {{Icon|Dia}}  ·  19 {{Icon|Medal of the Fighting Spirit}}  ·  12 {{Icon|Medal of the Fighting Spirit}}
+·   Sapphire II  ·  Top 3000~2001  ·   ·  870   ·  19   ·  12 
 
-·   Sapphire I  ·  Top 2000~1001  ·   ·  900 {{Icon|Dia}}  ·  19 {{Icon|Medal of the Fighting Spirit}}  ·  12 {{Icon|Medal of the Fighting Spirit}}
+·   Sapphire I  ·  Top 2000~1001  ·   ·  900   ·  19   ·  12 
 
-·   Master III  ·  Top 1000~501  ·  80 {{Icon|Dia}}  ·  1000 {{Icon|Dia}}  ·  20 {{Icon|Medal of the Fighting Spirit}}  ·  13 {{Icon|Medal of the Fighting Spirit}}
+·   Master III  ·  Top 1000~501  ·  80   ·  1000   ·  20   ·  13 
 
-·   Master II  ·  Top 500~201  ·   ·  1100 {{Icon|Dia}}  ·  20 {{Icon|Medal of the Fighting Spirit}}  ·  13 {{Icon|Medal of the Fighting Spirit}}
+·   Master II  ·  Top 500~201  ·   ·  1100   ·  20   ·  13 
 
-·   Master I  ·  Top 200~101  ·   ·  1200 {{Icon|Dia}}  ·  20 {{Icon|Medal of the Fighting Spirit}}  ·  13 {{Icon|Medal of the Fighting Spirit}}
+·   Master I  ·  Top 200~101  ·   ·  1200   ·  20   ·  13 
 
-·   Grandmaster III  ·  Top 100~51  ·  80 {{Icon|Dia}}  ·  1300 {{Icon|Dia}}  ·  21 {{Icon|Medal of the Fighting Spirit}}  ·  14 {{Icon|Medal of the Fighting Spirit}}
+·   Grandmaster III  ·  Top 100~51  ·  80   ·  1300   ·  21   ·  14 
 
-·   Grandmaster II  ·  Top 50~21  ·   ·  1400 {{Icon|Dia}}  ·  21 {{Icon|Medal of the Fighting Spirit}}  ·  14 {{Icon|Medal of the Fighting Spirit}}
+·   Grandmaster II  ·  Top 50~21  ·   ·  1400   ·  21   ·  14 
 
-·   Grandmaster I  ·  Top 20~11  ·   ·  1500 {{Icon|Dia}}  ·  21 {{Icon|Medal of the Fighting Spirit}}  ·  14 {{Icon|Medal of the Fighting Spirit}}
+·   Grandmaster I  ·  Top 20~11  ·   ·  1500   ·  21   ·  14 
 
-·   Challenger III  ·  Top 10~6  ·  100 {{Icon|Dia}}  ·  1600 {{Icon|Dia}}  ·  22 {{Icon|Medal of the Fighting Spirit}}  ·  15 {{Icon|Medal of the Fighting Spirit}}
+·   Challenger III  ·  Top 10~6  ·  100   ·  1600   ·  22   ·  15 
 
-·   Challenger II  ·  Top 5~3  ·   ·  1700 {{Icon|Dia}}  ·  22 {{Icon|Medal of the Fighting Spirit}}  ·  15 {{Icon|Medal of the Fighting Spirit}}
+·   Challenger II  ·  Top 5~3  ·   ·  1700   ·  22   ·  15 
 
-·   Challenger I  ·  2nd place  ·   ·  1800 {{Icon|Dia}}  ·  22 {{Icon|Medal of the Fighting Spirit}}  ·  15 {{Icon|Medal of the Fighting Spirit}}
+·   Challenger I  ·  2nd place  ·   ·  1800   ·  22   ·  15 
 
-·   Champion  ·  1st place  ·  100 {{Icon|Dia}}  ·  2000 {{Icon|Dia}}  ·  23 {{Icon|Medal of the Fighting Spirit}}  ·  16 {{Icon|Medal of the Fighting Spirit}}
+·   Champion  ·  1st place  ·  100   ·  2000   ·  23   ·  16 
 
 ## Mirror Wars shop
 :*
@@ -128,32 +118,31 @@ The Mirror Wars shop always contains one specific costume that can be directly b
 
 ** Item !! Price !! Limit ** 
 
-·  Specific costume  ·  18,000 {{Icon|Medal of the Fighting Spirit}}  ·  1x per 4 weeks
+·  Specific costume  ·  18,000   ·  1x per 4 weeks
 
-·  1x {{il|UR Exclusive Gear Guaranteed Draw Exchange Ticket|alt=UR Gear Ticket}}  ·  6000 {{Icon|Medal of the Fighting Spirit}}  ·  1x per calendar month
+·  1x   ·  6000   ·  1x per calendar month
 
-·  1x {{il|SR Exclusive Gear Guaranteed Draw Exchange Ticket|alt=SR Gear Ticket}}  ·  2500 {{Icon|Medal of the Fighting Spirit}}  ·  1x per calendar month
+·  1x   ·  2500   ·  1x per calendar month
 
-·  1x {{il|Refining Crystal}}  ·  67 {{Icon|Medal of the Fighting Spirit}}  ·  150x per calendar month
+·  1x   ·  67   ·  150x per calendar month
 
-·  1x {{il|Yellow Slime}}  ·  23 {{Icon|Medal of the Fighting Spirit}}  ·  100x per calendar month
+·  1x   ·  23   ·  100x per calendar month
 
-·  1x {{il|Blue Slime}}  ·  81 {{Icon|Medal of the Fighting Spirit}}  ·  100x per calendar month
+·  1x   ·  81   ·  100x per calendar month
 
-·  1x {{il|3-Star Recruitment Contract}}  ·  1684 {{Icon|Medal of the Fighting Spirit}}  ·  100x per calendar month
+·  1x   ·  1684   ·  100x per calendar month
 
-·  1x {{il|4-Star Rank-up Star}}  ·  5310 {{Icon|Medal of the Fighting Spirit}}  ·  16x per calendar month
+·  1x   ·  5310   ·  16x per calendar month
 
-·  1x {{il|3-Star Rank-up Star}}  ·  842 {{Icon|Medal of the Fighting Spirit}}  ·  15x per calendar month
+·  1x   ·  842   ·  15x per calendar month
 
-·  10,000x {{il|Gold}}  ·  100 {{Icon|Medal of the Fighting Spirit}}  ·  100x per calendar month
+·  10,000x   ·  100   ·  100x per calendar month
 
-·  30x {{il|Refining Powder}}  ·  10 {{Icon|Medal of the Fighting Spirit}}  ·  2000x per calendar month
+·  30x   ·  10   ·  2000x per calendar month
 
-·  1x {{il|Spark of Rampage}}  ·  30 {{Icon|Medal of the Fighting Spirit}}  ·  55x per calendar month
+·  1x   ·  30   ·  55x per calendar month
 
 ## Lore
-
 ## Gallery
 <gallery>
 Pack3001_screenshot_1.png|Screenshot 1

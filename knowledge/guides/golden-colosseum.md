@@ -1,17 +1,7 @@
 # 黄金竞技场（The Golden Colosseum · PvP）
 
-> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「The Golden Colosseum」 · 采集 2026-10-03 · 机翻清洗版，专有名词以游戏内中文为准
+> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「The Golden Colosseum」 · 采集 2026-10-03 · 英文原文（AI 阅读用，回答以中文输出）
 
-{{Pack data
-· id=3008
-· num=8
-· name=The Golden Colosseum
-· category=Combat Content
-· battleType=PvP
-· world=Original
-· isLimited=0
-· releaseDate=2025-12-04
-}}{{Pack infobox}}
 **The Golden Colosseum** is the fifth Combat Content pack and eighth overall content pack.
 
 ## About
@@ -50,10 +40,10 @@ In the Golden Colosseum, characters act on the offensive and defensive side one 
 
 Various other changes to typical combat rules are also adjusted for the Golden Colsseum:
 
-* {{kw|SP}} is unlimited. The player's SP is considered to be 0.
-* {{kw|Chain||Chains}} do not reset at the end of the turn.
+*  is unlimited. The player's SP is considered to be 0.
+*  do not reset at the end of the turn.
 * The cooldown of all skills is set to 0 turns.
-* {{kw|Preemptive Action||Preemptive Actions}} cannot be set to trigger before battles start. Instead, these skills can only be activated normally when it is that costume's turn to act.
+*  cannot be set to trigger before battles start. Instead, these skills can only be activated normally when it is that costume's turn to act.
 
 After 5 full turns have progressed without a player winning, Death Time is activated. In Death Time:
 
@@ -86,99 +76,87 @@ The reward structure can be explored through the tables below:
 
 ** No. of wins !! Reward !! Cumulative** 
 
-·  1  ·  200 {{Icon|Aurum Coin}}  ·  200 {{Icon|Aurum Coin}}
+·  1  ·  200   ·  200 
 
-·  3  ·  150 {{Icon|Aurum Coin}}  ·  350 {{Icon|Aurum Coin}}
+·  3  ·  150   ·  350 
 
-·  5  ·  150 {{Icon|Aurum Coin}}  ·  500 {{Icon|Aurum Coin}}
+·  5  ·  150   ·  500 
 
-·  7  ·  100 {{Icon|Aurum Coin}}  ·  600 {{Icon|Aurum Coin}}
+·  7  ·  100   ·  600 
 
-·  10  ·  100 {{Icon|Aurum Coin}}  ·  700 {{Icon|Aurum Coin}}
+·  10  ·  100   ·  700 
 
-·  15  ·  50 {{Icon|Aurum Coin}}  ·  750 {{Icon|Aurum Coin}}
+·  15  ·  50   ·  750 
 
-·  20  ·  50 {{Icon|Aurum Coin}}  ·  800 {{Icon|Aurum Coin}}
+·  20  ·  50   ·  800 
 
-·  30  ·  50 {{Icon|Aurum Coin}}  ·  850 {{Icon|Aurum Coin}}
+·  30  ·  50   ·  850 
 
-·  40  ·  50 {{Icon|Aurum Coin}}  ·  900 {{Icon|Aurum Coin}}
+·  40  ·  50   ·  900 
 
 · + Ranking rewards
 
 ** Rank !! Placement !! Season reward** 
 
-·   Bronze  ·  Top 100% ~ 90%  ·  900 {{Icon|Aurum Coin}}
+·   Bronze  ·  Top 100% ~ 90%  ·  900 
 
-·   Silver III  ·  Top 90% ~ 85%  ·  920 {{Icon|Aurum Coin}}
+·   Silver III  ·  Top 90% ~ 85%  ·  920 
 
-·   Silver II  ·  Top 85% ~ 80%  ·  960 {{Icon|Aurum Coin}}
+·   Silver II  ·  Top 85% ~ 80%  ·  960 
 
-·   Silver I  ·  Top 80% ~ 75%  ·  1000 {{Icon|Aurum Coin}}
+·   Silver I  ·  Top 80% ~ 75%  ·  1000 
 
-·   Gold III  ·  Top 75% ~ 70%  ·  1040 {{Icon|Aurum Coin}}
+·   Gold III  ·  Top 75% ~ 70%  ·  1040 
 
-·   Gold II  ·  Top 70% ~ 65%  ·  1080 {{Icon|Aurum Coin}}
+·   Gold II  ·  Top 70% ~ 65%  ·  1080 
 
-·   Gold I  ·  Top 65% ~ 60%  ·  1120 {{Icon|Aurum Coin}}
+·   Gold I  ·  Top 65% ~ 60%  ·  1120 
 
-·   Platinum III  ·  Top 60% ~ 55%  ·  1160 {{Icon|Aurum Coin}}
+·   Platinum III  ·  Top 60% ~ 55%  ·  1160 
 
-·   Platinum II  ·  Top 55% ~ 50%  ·  1200 {{Icon|Aurum Coin}}
+·   Platinum II  ·  Top 55% ~ 50%  ·  1200 
 
-·   Platinum I  ·  Top 50% ~ 45%  ·  1240 {{Icon|Aurum Coin}}
+·   Platinum I  ·  Top 50% ~ 45%  ·  1240 
 
-·   Ruby III  ·  Top 45% ~ 40%  ·  1280 {{Icon|Aurum Coin}}
+·   Ruby III  ·  Top 45% ~ 40%  ·  1280 
 
-·   Ruby II  ·  Top 40% ~ 35%  ·  1320 {{Icon|Aurum Coin}}
+·   Ruby II  ·  Top 40% ~ 35%  ·  1320 
 
-·   Ruby I  ·  Top 35% ~ 30%  ·  1360 {{Icon|Aurum Coin}}
+·   Ruby I  ·  Top 35% ~ 30%  ·  1360 
 
-·   Dia III  ·  Top 30% ~ 25%  ·  1400 {{Icon|Aurum Coin}}
+·   Dia III  ·  Top 30% ~ 25%  ·  1400 
 
-·   Dia II  ·  Top 25% ~ 20%  ·  1440 {{Icon|Aurum Coin}}
+·   Dia II  ·  Top 25% ~ 20%  ·  1440 
 
-·   Dia I  ·  Top 20% ~ 17.5%  ·  1480 {{Icon|Aurum Coin}}
+·   Dia I  ·  Top 20% ~ 17.5%  ·  1480 
 
-·   Sapphire III  ·  Top 17.5% ~ 15%  ·  1520 {{Icon|Aurum Coin}}
+·   Sapphire III  ·  Top 17.5% ~ 15%  ·  1520 
 
-·   Sapphire II  ·  Top 15% ~ 12.5%  ·  1560 {{Icon|Aurum Coin}}
+·   Sapphire II  ·  Top 15% ~ 12.5%  ·  1560 
 
-·   Sapphire I  ·  Top 12.5% ~ 10%  ·  1600 {{Icon|Aurum Coin}}
+·   Sapphire I  ·  Top 12.5% ~ 10%  ·  1600 
 
-·   Master III  ·  Top 10% ~ 7.5%  ·  1640 {{Icon|Aurum Coin}}
+·   Master III  ·  Top 10% ~ 7.5%  ·  1640 
 
-·   Master II  ·  Top 7.5% ~ 5%  ·  1680 {{Icon|Aurum Coin}}
+·   Master II  ·  Top 7.5% ~ 5%  ·  1680 
 
-·   Master I  ·  Top 5% ~ 3%  ·  1720 {{Icon|Aurum Coin}}
+·   Master I  ·  Top 5% ~ 3%  ·  1720 
 
-·   Grandmaster III  ·  Top 3% ~ 2%  ·  1760 {{Icon|Aurum Coin}}
+·   Grandmaster III  ·  Top 3% ~ 2%  ·  1760 
 
-·   Grandmaster II  ·  Top 2% ~ 1.5%  ·  1800 {{Icon|Aurum Coin}}
+·   Grandmaster II  ·  Top 2% ~ 1.5%  ·  1800 
 
-·   Grandmaster I  ·  Top 1.5% ~ 1%  ·  1840 {{Icon|Aurum Coin}}
+·   Grandmaster I  ·  Top 1.5% ~ 1%  ·  1840 
 
-·   Challenger III  ·  Top 1% ~ 0.5%  ·  1880 {{Icon|Aurum Coin}}
+·   Challenger III  ·  Top 1% ~ 0.5%  ·  1880 
 
-·   Challenger II  ·  Top 0.5% ~ 0.25%  ·  1920 {{Icon|Aurum Coin}}
+·   Challenger II  ·  Top 0.5% ~ 0.25%  ·  1920 
 
-·   Challenger I  ·  Top 0.25% ~ 0.1%  ·  1960 {{Icon|Aurum Coin}}
+·   Challenger I  ·  Top 0.25% ~ 0.1%  ·  1960 
 
-·   Champion  ·  Top 0.1%  ·  2000 {{Icon|Aurum Coin}}
+·   Champion  ·  Top 0.1%  ·  2000 
 
 ## List of blessings
-
-{{#cargo_query:tables=Blessing
-· fields=CONCAT("")=image, name=name, cost=cost, type=type, text=text
-· format=template
-· template=Blessing FilterTable layout
-· intro=<table class="wikitable" id="filter-table-blessings"><tr><th>Image</th><th>Name</th><th>Cost</th><th>Type</th><th>Text</th></tr>
-· outro=</table>
-· order by=type ASC
-· named args=yes
-· more results text=
-· limit=100
-}}
 ## The Golden Colsseum Shop
 :*
 
@@ -188,27 +166,27 @@ Aurum Coins can be spent in the Golden Colsseum shop.
 
 ** Item !! Price !! Limit ** 
 
-·  1x {{il|Draw Ticket}}  ·  200 {{Icon|Aurum Coin}}  ·  10x per calendar month
+·  1x   ·  200   ·  10x per calendar month
 
-·  50x {{il|Refining Crystal}}  ·  100 {{Icon|Aurum Coin}}  ·  20x per calendar month
+·  50x   ·  100   ·  20x per calendar month
 
-·  1x {{il|Property Selective Draw Exchange Ticket|alt=Property Ticket}}  ·  1000 {{Icon|Aurum Coin}}  ·  2x per calendar month
+·  1x   ·  1000   ·  2x per calendar month
 
-·  100,000x {{il|Gold}}  ·  50 {{Icon|Aurum Coin}}  ·  20x per calendar month
+·  100,000x   ·  50   ·  20x per calendar month
 
-·  2000x {{il|Refining Powder}}  ·  50 {{Icon|Aurum Coin}}  ·  20x per calendar month
+·  2000x   ·  50   ·  20x per calendar month
 
-·  1x {{il|Awakening Elixir}}  ·  10 {{Icon|Aurum Coin}}  ·  100x per calendar month
+·  1x   ·  10   ·  100x per calendar month
 
-·  5x {{il|Ancient Crystal}}  ·  100 {{Icon|Aurum Coin}}  ·  10x per calendar month
+·  5x   ·  100   ·  10x per calendar month
 
-·  50x {{il|Deco Coin}}  ·  100 {{Icon|Aurum Coin}}  ·  10x per calendar month
+·  50x   ·  100   ·  10x per calendar month
 
-·  50,000x {{il|Gold}}  ·  50 {{Icon|Aurum Coin}}  ·  Unlimited
+·  50,000x   ·  50   ·  Unlimited
 
-·  1000x {{il|Refining Powder}}  ·  50 {{Icon|Aurum Coin}}  ·  Unlimited
+·  1000x   ·  50   ·  Unlimited
 
-·  1x {{il|Spark of Rampage}}  ·  10 {{Icon|Aurum Coin}}  ·  55x per calendar month
+·  1x   ·  10   ·  55x per calendar month
 
 ## Version history
 

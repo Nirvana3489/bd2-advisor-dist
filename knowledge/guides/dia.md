@@ -1,14 +1,7 @@
 # 钻石（Dia）获取
 
-> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「Dia」 · 采集 2026-10-03 · 机翻清洗版，专有名词以游戏内中文为准
+> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「Dia」 · 采集 2026-10-03 · 英文原文（AI 阅读用，回答以中文输出）
 
-{{Resource data
-· id=60001
-· name=Dia
-· isLimited=0
-· rarity=
-· foundInPackIds=
-}}{{Resource infobox}}
 **Dia** is a resource.
 
 ## Usage

@@ -1,17 +1,7 @@
 # 恶魔塔（Evil Castle）攻略
 
-> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「Evil Castle」 · 采集 2026-10-03 · 机翻清洗版，专有名词以游戏内中文为准
+> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「Evil Castle」 · 采集 2026-10-03 · 英文原文（AI 阅读用，回答以中文输出）
 
-{{Pack data
-· id=3003
-· num=3
-· name=Evil Castle
-· category=Combat Content
-· battleType=PvE
-· world=Original
-· isLimited=0
-· releaseDate=2023-06-22
-}}{{Pack infobox}}
 **Evil Castle** is the second Combat Content pack and third overall content pack.
 
 ## About
@@ -60,23 +50,23 @@ The daily rewards are as follows:
 
 ** Score !! Devil Coins !! Ancient Crystals** 
 
-·  10,000  ·  300x {{Icon|Devil Coin}}  ·  6x {{Icon|Ancient Crystal}}
+·  10,000  ·  300x   ·  6x 
 
-·  50,000  ·  500x {{Icon|Devil Coin}}  ·  6x {{Icon|Ancient Crystal}}
+·  50,000  ·  500x   ·  6x 
 
-·  100,000  ·  550x {{Icon|Devil Coin}}  ·  6x {{Icon|Ancient Crystal}}
+·  100,000  ·  550x   ·  6x 
 
-·  150,000  ·  600x {{Icon|Devil Coin}}  ·  7x {{Icon|Ancient Crystal}}
+·  150,000  ·  600x   ·  7x 
 
-·  200,000  ·  650x {{Icon|Devil Coin}}  ·  7x {{Icon|Ancient Crystal}}
+·  200,000  ·  650x   ·  7x 
 
-·  300,000  ·  700x {{Icon|Devil Coin}}  ·  7x {{Icon|Ancient Crystal}}
+·  300,000  ·  700x   ·  7x 
 
-·  400,000  ·  750x {{Icon|Devil Coin}}  ·  8x {{Icon|Ancient Crystal}}
+·  400,000  ·  750x   ·  8x 
 
-·  500,000  ·  800x {{Icon|Devil Coin}}  ·  8x {{Icon|Ancient Crystal}}
+·  500,000  ·  800x   ·  8x 
 
-·  600,000  ·  900x {{Icon|Devil Coin}}  ·  9x {{Icon|Ancient Crystal}}
+·  600,000  ·  900x   ·  9x 
 
 Additionally, the player gets a one-time reward the first time they clear one of the 6 floors. The reward is 1,000 Devil Coins and 10 Ancient Crystals, and is the same for all 6 floors.
 
@@ -98,11 +88,11 @@ Rewards for Tower of Desire are granted only once for every floor cleared, depen
 
 ** Floor number !! Challenge 1 !! Challenge 2 !! Challenge 3** 
 
-·  Other floors  ·  1x {{Icon|Draw Ticket}}  ·  30,000x {{Icon|Gold}}  ·  5x {{Icon|Cooked Rice}}
+·  Other floors  ·  1x   ·  30,000x   ·  5x 
 
-·  Floors ending in 5  ·  1x {{Icon|Draw Ticket}}  ·  100x {{Icon|Dia}}  ·  5x {{Icon|Ancient Crystal}}
+·  Floors ending in 5  ·  1x   ·  100x   ·  5x 
 
-·  Floors ending in 0  ·  1x {{Icon|Draw Ticket}}  ·  150x {{Icon|Dia}}  ·  10x {{Icon|Ancient Crystal}}
+·  Floors ending in 0  ·  1x   ·  150x   ·  10x 
 
 In total, after completing all 250 floors, the player will have earned 250 Draw Tickets, 6250 Dia, 6,000,000 Gold, 1000 Cooked Rice, and 850 Ancient Crystals.
 
@@ -127,8 +117,8 @@ In higher floors, additional effects will be applied that make it harder to clea
 ;Tower of Jealousy
 
 * Floors 41-50: Ally stat enhancement buffs are reduced by 70%
-* Floors 51-60: Enemies have a 100% {{kw|Augmentation}}, ally Crit DMG -200%
-* Floors 61-70: Enemies have a +1 {{kw|Chain Reinforcement}}, ally Crit DMG -200%
+* Floors 51-60: Enemies have a 100% , ally Crit DMG -200%
+* Floors 61-70: Enemies have a +1 , ally Crit DMG -200%
 * Floors 71-80: Ally Crit Rate -100%, ally Crit DMG -200%
 * Floors 81-90: Ally DEF -25%, ally Crit DMG -200%
 * Floors 91-100: Ally Crit Rate -200%
@@ -138,8 +128,8 @@ In higher floors, additional effects will be applied that make it harder to clea
 * Floors 41-50: Ally stat enhancement buffs are reduced by 70%
 * Floors 51-60: Allies take 50% more damage, ally Crit DMG -200%
 * Floors 61-70: Ally DEF -25%, ally Crit DMG -200%
-* Floors 71-80: Enemies have a +1 {{kw|Chain Reinforcement}}, ally Crit DMG -200%
-* Floors 81-90: Enemies have a 50% {{kw|Barrier}}, ally Crit DMG -200%
+* Floors 71-80: Enemies have a +1 , ally Crit DMG -200%
+* Floors 81-90: Enemies have a 50% , ally Crit DMG -200%
 * Floors 91-100: Ally Crit Rate -200%
 
 ### Rewards
@@ -149,19 +139,19 @@ Rewards for Tower of Jealousy and Wrath are granted only once for every floor cl
 
 ** Floor number !! Challenge 1 !! Challenge 2 !! Challenge 3** 
 
-·  Other floors  ·  30,000x {{Icon|Gold}}  ·  30,000x {{Icon|Gold}}  ·  5x {{Icon|Torch}}
+·  Other floors  ·  30,000x   ·  30,000x   ·  5x 
 
-·  Floors ending in 5  ·  5x {{Icon|Draw Ticket}}  ·  100x {{Icon|Dia}}  ·  150x {{Icon|Refining Crystal}}
+·  Floors ending in 5  ·  5x   ·  100x   ·  150x 
 
-·  Floors ending in 0 (except 50, 100)  ·  10x {{Icon|Draw Ticket}}  ·  150x {{Icon|Dia}}  ·  200x {{Icon|Refining Crystal}}
+·  Floors ending in 0 (except 50, 100)  ·  10x   ·  150x   ·  200x 
 
-·  Floors 50 and 100  ·  10x {{Icon|Draw Ticket}}  ·  150x {{Icon|Dia}}  ·  1x {{Icon|Property Selective Draw Exchange Ticket}}
+·  Floors 50 and 100  ·  10x   ·  150x   ·  1x 
 
 In total, after completing all 100 floors of one tower, the player will have earned 150 Draw Tickets, 2500 Dia, 4,800,000 Gold, 400 Torches, 3100 Refining Crystals, and 2 Property Selective Draw Exchange Tickets.
 
 ## Tower of Salvation
 
-Tower of Salvation is the most complex of the towers and is a {{Wp|roguelike}} mode where the player climbs up floors, starting with random characters and recruiting more as they climb higher. The player collects Artifacts to give bonuses, encounters enemies, bosses, and events with random outcomes, and collects silver to purchase costumes or Artifacts in shops along the way.
+Tower of Salvation is the most complex of the towers and is a  mode where the player climbs up floors, starting with random characters and recruiting more as they climb higher. The player collects Artifacts to give bonuses, encounters enemies, bosses, and events with random outcomes, and collects silver to purchase costumes or Artifacts in shops along the way.
 
 Tower of Salvation uses Keys of Salvation as a currency needed to start a level. Every day at daily reset time, the player is granted up to 10 Keys of Salvation automatically. These cannot be banked, so if the player doesn't use all 10 in a day, they will only be refreshed back up to the maximum of 10 the next day. Keys of Salvation can additionally be bought from the Charge store for 1 key per 10 Dia.
 
@@ -175,7 +165,7 @@ Another currency used in Tower of Salvation is called Night World Obsidian. When
 
 If the player abandons their run, they will only receive 30% of the Obsidian they gathered. Retreating allows the player to keep 100% of the Obsidian gathered, but retreating cannot be done mid-battle. Retreating can only be done after succesfully clearing a Boss Battle floor and before entering the next floor.
 
-Finally, Tower of Salvation has passive effects called Artifacts which grant useful effects to the player's characters. These can range anywhere from increasing ATK or Crit DMG, to granting {{kw|Energy Guard||Energy Guards}}, to increasing {{kw|Chain}} damage, among many other effects. Artifacts are obtained throughout the run, and some artifacts can be combined to make better ones. The full list of Artifacts can be seen at #List of Artifacts below.
+Finally, Tower of Salvation has passive effects called Artifacts which grant useful effects to the player's characters. These can range anywhere from increasing ATK or Crit DMG, to granting , to increasing  damage, among many other effects. Artifacts are obtained throughout the run, and some artifacts can be combined to make better ones. The full list of Artifacts can be seen at #List of Artifacts below.
 
 ### Floor types
 
@@ -271,25 +261,25 @@ For the personal rewards, they are granted retroactively for all lower levels. F
 
 ** Level !! Reward !! Obsidian multiplier** 
 
-·  1  ·  20x {{Icon|Ancient Crystal}}  ·  100%
+·  1  ·  20x   ·  100%
 
-·  2  ·  1x {{Icon|Tear of Goddess}}  ·  125%
+·  2  ·  1x   ·  125%
 
-·  3  ·  5x {{Icon|Draw Ticket}}  ·  150%
+·  3  ·  5x   ·  150%
 
-·  4  ·  1x {{Icon|Property Selective Draw Exchange Ticket}}  ·  200% 
+·  4  ·  1x   ·  200% 
 
-·  5  ·  5x {{Icon|Draw Ticket}}  ·  250%
+·  5  ·  5x   ·  250%
 
-·  6  ·  20x {{Icon|Ancient Crystal}}  ·  300%
+·  6  ·  20x   ·  300%
 
-·  7  ·  20x {{Icon|Ancient Crystal}}  ·  350%
+·  7  ·  20x   ·  350%
 
-·  8  ·  300x {{Icon|Refining Crystal}}  ·  400%
+·  8  ·  300x   ·  400%
 
-·  9  ·  300x {{Icon|Refining Crystal}}  ·  450%
+·  9  ·  300x   ·  450%
 
-·  10  ·  500x {{Icon|Refining Crystal}}  ·  500%
+·  10  ·  500x   ·  500%
 
 The end-of-season rewards are cumulative, meaning the reward from each threshold reached is granted. The rewards are as follows:
 
@@ -297,41 +287,29 @@ The end-of-season rewards are cumulative, meaning the reward from each threshold
 
 ** Score !! Reward** 
 
-·  1,500,000,000  ·  30x {{Icon|Awakening Elixir}}
+·  1,500,000,000  ·  30x 
 
-·  3,000,000,000  ·  7500x {{Icon|Refining Powder}}
+·  3,000,000,000  ·  7500x 
 
-·  4,500,000,000  ·  30x {{Icon|Awakening Elixir}}
+·  4,500,000,000  ·  30x 
 
-·  6,000,000,000  ·  30x {{Icon|Ancient Crystal}}
+·  6,000,000,000  ·  30x 
 
-·  7,500,000,000  ·  30x {{Icon|Awakening Elixir}}
+·  7,500,000,000  ·  30x 
 
-·  9,000,000,000  ·  300x {{Icon|Refining Crystal}}
+·  9,000,000,000  ·  300x 
 
-·  10,500,000,000  ·  30x {{Icon|Awakening Elixir}}
+·  10,500,000,000  ·  30x 
 
-·  12,000,000,000  ·  1x {{Icon|UR Exclusive Gear Guaranteed Draw Exchange Ticket}}
+·  12,000,000,000  ·  1x 
 
-·  13,500,000,000  ·  30x {{Icon|Awakening Elixir}}
+·  13,500,000,000  ·  30x 
 
-·  15,000,000,000  ·  10x {{Icon|Draw Ticket}}
+·  15,000,000,000  ·  10x 
 
 It is safe to assume that the playerbase will always reach the full season goal to obtain every reward every season.
 
 ### List of Artifacts
-
-{{#cargo_query:tables=Artifact
-· fields=CONCAT("")=image, name=name, grade=grade, text=text
-· format=template
-· template=Artifact FilterTable layout
-· intro=<table class="wikitable" id="filter-table-artifacts"><tr><th>Icon</th><th>Name</th><th>Grade</th><th>Text</th></tr>
-· outro=</table>
-· order by=grade, name
-· named args=yes
-· more results text=
-· limit=200
-}}
 ## Evil Castle shop
 
 Devil Coins can be spent in the Evil Castle shop.
@@ -340,34 +318,33 @@ Devil Coins can be spent in the Evil Castle shop.
 
 ** Item !! Price !! Limit ** 
 
-·  1x {{il|3-Star Ability Skill Book}}  ·  384 {{Icon|Devil Coin}}  ·  10x per calendar month
+·  1x   ·  384   ·  10x per calendar month
 
-·  1x {{il|4-Star Ability Skill Book}}  ·  512 {{Icon|Devil Coin}}  ·  5x per calendar month
+·  1x   ·  512   ·  5x per calendar month
 
-·  1x {{il|Yellow Slime}}  ·  12 {{Icon|Devil Coin}}  ·  100x per calendar month
+·  1x   ·  12   ·  100x per calendar month
 
-·  1x {{il|Blue Slime}}  ·  43 {{Icon|Devil Coin}}  ·  100x per calendar month
+·  1x   ·  43   ·  100x per calendar month
 
-·  1x {{il|3-Star Recruitment Contract}}  ·  886 {{Icon|Devil Coin}}  ·  100x per calendar month
+·  1x   ·  886   ·  100x per calendar month
 
-·  1x {{il|4-Star Rank-up Star}}  ·  2795 {{Icon|Devil Coin}}  ·  16x per calendar month
+·  1x   ·  2795   ·  16x per calendar month
 
-·  1x {{il|3-Star Rank-up Star}}  ·  443 {{Icon|Devil Coin}}  ·  15x per calendar month
+·  1x   ·  443   ·  15x per calendar month
 
-·  1x {{il|Engraving Scroll}}  ·  5 {{Icon|Devil Coin}}  ·  2000x per calendar month
+·  1x   ·  5   ·  2000x per calendar month
 
-·  1x {{il|Essence of Strength}}  ·  20 {{Icon|Devil Coin}}  ·  200x per calendar month
+·  1x   ·  20   ·  200x per calendar month
 
-·  1x {{il|Essence of Life}}  ·  20 {{Icon|Devil Coin}}  ·  200x per calendar month
+·  1x   ·  20   ·  200x per calendar month
 
-·  1x {{il|Essence of Perseverance}}  ·  20 {{Icon|Devil Coin}}  ·  200x per calendar month
+·  1x   ·  20   ·  200x per calendar month
 
-·  10,000x {{il|Gold}}  ·  100 {{Icon|Devil Coin}}  ·  100x per calendar month
+·  10,000x   ·  100   ·  100x per calendar month
 
-·  30x {{il|Refining Powder}}  ·  10 {{Icon|Devil Coin}}  ·  2000x per calendar month
+·  30x   ·  10   ·  2000x per calendar month
 
 ## Lore
-
 ## Gallery
 <gallery>
 Pack3003_screenshot_1.png|Screenshot 1
@@ -376,7 +353,6 @@ Pack3003_screenshot_3.png|Screenshot 3
 </gallery>
 
 ## References
-
 ## External links
 * [Brown Dust II: Tactical Compendium - Evil Castle](链接)
 * [Artifact Codex - BD2DB](链接)

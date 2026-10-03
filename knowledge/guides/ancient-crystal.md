@@ -1,14 +1,7 @@
 # 古代水晶（Ancient Crystal）获取
 
-> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「Ancient Crystal」 · 采集 2026-10-03 · 机翻清洗版，专有名词以游戏内中文为准
+> 来源：Brown Dust 2 Wiki (browndust2.miraheze.org) · 页面「Ancient Crystal」 · 采集 2026-10-03 · 英文原文（AI 阅读用，回答以中文输出）
 
-{{Resource data
-· id=603
-· name=Ancient Crystal
-· isLimited=0
-· rarity=5
-· foundInPackIds=
-}}{{Resource infobox}}
 **Ancient Crystal** is a resource.
 
 ## Usage
@@ -23,11 +16,11 @@ Ancient Crystals can be obtained from various sources:
 
 ·  Seasonal event shop  ·  40x per 2 weeks  ·  300 Event Currency for 5x
 
-·  Golden Thread Shop  ·  30x per calendar month  ·  10 {{Icon|Golden Thread}}
+·  Golden Thread Shop  ·  30x per calendar month  ·  10 
 
-·  The Golden Colosseum Shop  ·  50x per calendar month  ·  100 {{Icon|Aurum Coin}} for 5x
+·  The Golden Colosseum Shop  ·  50x per calendar month  ·  100  for 5x
 
-·  Refinement Remnant Shop  ·  10x per calendar month  ·  6 {{Icon|Refinement Remnant}}
+·  Refinement Remnant Shop  ·  10x per calendar month  ·  6 
 
 ·  Tower of Salvation end-of-season reward  ·  30x per 4 weeks  ·  Free
 
