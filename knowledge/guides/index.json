@@ -1,0 +1,37 @@
+{
+ "as_of": "2026-10-03",
+ "guides": [
+  {
+   "slug": "mirror-wars",
+   "title": "镜像战争（Mirror Wars · 竞技场）"
+  },
+  {
+   "slug": "evil-castle",
+   "title": "恶魔塔（Evil Castle）攻略"
+  },
+  {
+   "slug": "golden-colosseum",
+   "title": "黄金竞技场（The Golden Colosseum · PvP）"
+  },
+  {
+   "slug": "guild-raid",
+   "title": "公会战/魔兽狩猎（Guild Raid）"
+  },
+  {
+   "slug": "dia",
+   "title": "钻石（Dia）获取"
+  },
+  {
+   "slug": "gold",
+   "title": "金币（Gold）获取"
+  },
+  {
+   "slug": "ancient-crystal",
+   "title": "古代水晶（Ancient Crystal）获取"
+  },
+  {
+   "slug": "draw",
+   "title": "抽卡机制与保底（Draw）"
+  }
+ ]
+}

@@ -26,7 +26,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Alec"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Fire DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "anastasia",
@@ -55,7 +81,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Anastasia"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "CDMG",
+     45
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "CDMG",
+     24
+    ],
+    [
+     "CR",
+     4
+    ]
+   ]
+  }
  },
  {
   "id": "angelica",
@@ -85,7 +137,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Angelica"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "CDMG",
+     45
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "CDMG",
+     24
+    ],
+    [
+     "CR",
+     4
+    ]
+   ]
+  }
  },
  {
   "id": "aquila",
@@ -113,7 +191,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Aquila"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Fire DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "blade",
@@ -143,7 +247,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Blade"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Dark DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "celia",
@@ -173,7 +303,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Celia"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Dark DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "dalvi",
@@ -203,7 +359,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Dalvi"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Wind DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "darian",
@@ -232,7 +414,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Darian"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Water DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "diana",
@@ -262,7 +470,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Diana"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MRES",
+     4
+    ],
+    [
+     "HP%",
+     14
+    ]
+   ]
+  }
  },
  {
   "id": "eclipse",
@@ -293,7 +527,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Eclipse"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Dark DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "eleaneer",
@@ -323,7 +583,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Eleaneer"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Dark DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "elise",
@@ -353,7 +639,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Elise"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Fire DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "eris",
@@ -382,7 +694,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Eris"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Fire DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "glacia",
@@ -412,7 +750,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Glacia"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MRES",
+     4
+    ],
+    [
+     "HP%",
+     14
+    ]
+   ]
+  }
  },
  {
   "id": "goblin-slayer",
@@ -440,7 +804,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Goblin_Slayer"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Fire DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "granadair",
@@ -469,7 +859,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Granadair"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MRES",
+     4
+    ],
+    [
+     "HP%",
+     14
+    ]
+   ]
+  }
  },
  {
   "id": "granhildr",
@@ -500,7 +916,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Granhildr"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "DEF",
+     4
+    ],
+    [
+     "HP%",
+     14
+    ]
+   ]
+  }
  },
  {
   "id": "gray",
@@ -531,7 +973,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Gray"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Wind DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "helena",
@@ -561,7 +1029,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Helena"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MRES",
+     4
+    ],
+    [
+     "HP%",
+     14
+    ]
+   ]
+  }
  },
  {
   "id": "high-elf-archer",
@@ -589,7 +1083,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/High_Elf_Archer"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Wind DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "hikage",
@@ -617,7 +1137,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Hikage"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Wind DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "ikaruga",
@@ -645,7 +1191,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Ikaruga"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Fire DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "justia",
@@ -677,7 +1249,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Justia"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Light DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "kyouka-uzen",
@@ -705,7 +1303,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Kyouka_Uzen"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Light DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "lathel",
@@ -738,7 +1362,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Lathel"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Fire DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "lecliss",
@@ -767,7 +1417,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Lecliss"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "DEF",
+     4
+    ],
+    [
+     "HP%",
+     14
+    ]
+   ]
+  }
  },
  {
   "id": "levia",
@@ -797,7 +1473,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Levia"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Fire DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "liatris",
@@ -827,7 +1529,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Liatris"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Fire DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "liberta",
@@ -857,7 +1585,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Liberta"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "DEF",
+     4
+    ],
+    [
+     "HP%",
+     14
+    ]
+   ]
+  }
  },
  {
   "id": "loen",
@@ -887,7 +1641,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Loen"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Fire DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "luvencia",
@@ -917,7 +1697,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Luvencia"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Dark DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "mamonir",
@@ -946,7 +1752,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Mamonir"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MRES",
+     4
+    ],
+    [
+     "HP%",
+     14
+    ]
+   ]
+  }
  },
  {
   "id": "michaela",
@@ -976,7 +1808,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Michaela"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Light DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "morpeah",
@@ -1006,7 +1864,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Morpeah"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Water DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "nartas",
@@ -1034,7 +1918,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Nartas"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Dark DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "nebris",
@@ -1064,7 +1974,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Nebris"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Wind DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "nekyndalia",
@@ -1092,7 +2028,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Nekyndalia"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Wind DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "olivier",
@@ -1123,7 +2085,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Olivier"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Light DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "olstein",
@@ -1152,7 +2140,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Olstein"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MRES",
+     4
+    ],
+    [
+     "HP%",
+     14
+    ]
+   ]
+  }
  },
  {
   "id": "palette",
@@ -1181,7 +2195,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Palette"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Dark DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "priestess",
@@ -1209,7 +2249,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Priestess"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Light DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "rafina",
@@ -1239,7 +2305,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Rafina"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Water DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "refithea",
@@ -1269,7 +2361,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Refithea"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MRES",
+     4
+    ],
+    [
+     "HP%",
+     14
+    ]
+   ]
+  }
  },
  {
   "id": "ren-yamashiro",
@@ -1297,7 +2415,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Ren_Yamashiro"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Light DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "rou",
@@ -1328,7 +2472,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Rou"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "CDMG",
+     45
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "CDMG",
+     24
+    ],
+    [
+     "CR",
+     4
+    ]
+   ]
+  }
  },
  {
   "id": "roxy",
@@ -1357,7 +2527,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Roxy"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Water DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "rubia",
@@ -1388,7 +2584,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Rubia"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Fire DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "sacred-justia",
@@ -1416,7 +2638,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Sacred_Justia"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Light DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "scheherazade",
@@ -1447,7 +2695,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Scheherazade"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Water DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "seir",
@@ -1477,7 +2751,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Seir"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MRES",
+     4
+    ],
+    [
+     "HP%",
+     14
+    ]
+   ]
+  }
  },
  {
   "id": "sonya",
@@ -1506,7 +2806,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Sonya"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Dark DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "sword-maiden",
@@ -1534,7 +2860,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Sword_Maiden"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Light DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "sylvia",
@@ -1565,7 +2917,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Sylvia"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Water DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "tenka-izumo",
@@ -1593,7 +2971,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Tenka_Izumo"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Dark DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "teresse",
@@ -1623,7 +3027,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Teresse"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "DEF",
+     4
+    ],
+    [
+     "HP%",
+     14
+    ]
+   ]
+  }
  },
  {
   "id": "tyr",
@@ -1652,7 +3082,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Tyr"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Wind DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "venaka",
@@ -1681,7 +3137,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Venaka"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Wind DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "ventana",
@@ -1711,7 +3193,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Ventana"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Light DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "wilhelmina",
@@ -1741,7 +3249,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Wilhelmina"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Water DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "yomi",
@@ -1769,7 +3303,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Yomi"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Wind DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "yozakura",
@@ -1797,7 +3357,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Yozakura"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Wind DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "yumi",
@@ -1825,7 +3411,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Yumi"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "MATK",
+     34
+    ],
+    [
+     "MRES",
+     9
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     12
+    ],
+    [
+     "Water DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "yuri",
@@ -1854,7 +3466,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Yuri"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     12
+    ],
+    [
+     "Light DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "zenith",
@@ -1883,7 +3521,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Zenith"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     243
+    ],
+    [
+     "ATK",
+     34
+    ],
+    [
+     "DEF",
+     8
+    ]
+   ],
+   "awakening": [
+    [
+     "DEF",
+     4
+    ],
+    [
+     "HP%",
+     14
+    ]
+   ]
+  }
  },
  {
   "id": "andrew",
@@ -1912,7 +3576,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Andrew"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     195
+    ],
+    [
+     "ATK",
+     27
+    ],
+    [
+     "DEF",
+     6
+    ]
+   ],
+   "awakening": [
+    [
+     "DEF",
+     3
+    ],
+    [
+     "HP%",
+     11
+    ]
+   ]
+  }
  },
  {
   "id": "bernie",
@@ -1940,7 +3630,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Bernie"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     195
+    ],
+    [
+     "ATK",
+     27
+    ],
+    [
+     "DEF",
+     6
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     10
+    ],
+    [
+     "Wind DMG",
+     8
+    ]
+   ]
+  }
  },
  {
   "id": "elpis",
@@ -1968,7 +3684,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Elpis"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     195
+    ],
+    [
+     "MATK",
+     27
+    ],
+    [
+     "MRES",
+     6
+    ]
+   ],
+   "awakening": [
+    [
+     "MRES",
+     3
+    ],
+    [
+     "HP%",
+     11
+    ]
+   ]
+  }
  },
  {
   "id": "jayden",
@@ -1997,7 +3739,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Jayden"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     195
+    ],
+    [
+     "MATK",
+     27
+    ],
+    [
+     "MRES",
+     6
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     10
+    ],
+    [
+     "Light DMG",
+     8
+    ]
+   ]
+  }
  },
  {
   "id": "kry",
@@ -2026,7 +3794,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Kry"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     195
+    ],
+    [
+     "ATK",
+     27
+    ],
+    [
+     "DEF",
+     6
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     10
+    ],
+    [
+     "Dark DMG",
+     8
+    ]
+   ]
+  }
  },
  {
   "id": "layla",
@@ -2054,7 +3848,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Layla"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     195
+    ],
+    [
+     "ATK",
+     27
+    ],
+    [
+     "DEF",
+     6
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     10
+    ],
+    [
+     "Light DMG",
+     8
+    ]
+   ]
+  }
  },
  {
   "id": "lisianne",
@@ -2082,7 +3902,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Lisianne"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     195
+    ],
+    [
+     "MATK",
+     27
+    ],
+    [
+     "MRES",
+     6
+    ]
+   ],
+   "awakening": [
+    [
+     "MRES",
+     3
+    ],
+    [
+     "HP%",
+     11
+    ]
+   ]
+  }
  },
  {
   "id": "lucrezia",
@@ -2110,7 +3956,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Lucrezia"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     195
+    ],
+    [
+     "MATK",
+     27
+    ],
+    [
+     "MRES",
+     6
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     10
+    ],
+    [
+     "Dark DMG",
+     10
+    ]
+   ]
+  }
  },
  {
   "id": "samay",
@@ -2139,7 +4011,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Samay"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     195
+    ],
+    [
+     "MATK",
+     27
+    ],
+    [
+     "MRES",
+     6
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     10
+    ],
+    [
+     "Dark DMG",
+     8
+    ]
+   ]
+  }
  },
  {
   "id": "arines",
@@ -2167,7 +4065,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Arines"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     146
+    ],
+    [
+     "MATK",
+     20
+    ],
+    [
+     "MRES",
+     5
+    ]
+   ],
+   "awakening": [
+    [
+     "MRES",
+     2
+    ],
+    [
+     "HP%",
+     8
+    ]
+   ]
+  }
  },
  {
   "id": "beatrice",
@@ -2195,7 +4119,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Beatrice"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     146
+    ],
+    [
+     "ATK",
+     20
+    ],
+    [
+     "DEF",
+     5
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     7
+    ],
+    [
+     "Fire DMG",
+     6
+    ]
+   ]
+  }
  },
  {
   "id": "carlson",
@@ -2223,7 +4173,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Carlson"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     146
+    ],
+    [
+     "ATK",
+     20
+    ],
+    [
+     "DEF",
+     5
+    ]
+   ],
+   "awakening": [
+    [
+     "DEF",
+     2
+    ],
+    [
+     "HP%",
+     8
+    ]
+   ]
+  }
  },
  {
   "id": "cynthia",
@@ -2251,7 +4227,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Cynthia"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     146
+    ],
+    [
+     "MATK",
+     20
+    ],
+    [
+     "MRES",
+     5
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     7
+    ],
+    [
+     "Water DMG",
+     6
+    ]
+   ]
+  }
  },
  {
   "id": "emma",
@@ -2280,7 +4282,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Emma"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     146
+    ],
+    [
+     "ATK",
+     20
+    ],
+    [
+     "DEF",
+     5
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     7
+    ],
+    [
+     "Light DMG",
+     6
+    ]
+   ]
+  }
  },
  {
   "id": "fred",
@@ -2308,7 +4336,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Fred"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     146
+    ],
+    [
+     "ATK",
+     20
+    ],
+    [
+     "DEF",
+     5
+    ]
+   ],
+   "awakening": [
+    [
+     "DEF",
+     2
+    ],
+    [
+     "HP%",
+     8
+    ]
+   ]
+  }
  },
  {
   "id": "gynt",
@@ -2336,7 +4390,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Gynt"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     146
+    ],
+    [
+     "ATK",
+     20
+    ],
+    [
+     "DEF",
+     5
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     7
+    ],
+    [
+     "Wind DMG",
+     6
+    ]
+   ]
+  }
  },
  {
   "id": "ingrid",
@@ -2364,7 +4444,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Ingrid"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     146
+    ],
+    [
+     "ATK",
+     20
+    ],
+    [
+     "DEF",
+     5
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     7
+    ],
+    [
+     "Water DMG",
+     6
+    ]
+   ]
+  }
  },
  {
   "id": "julie",
@@ -2392,7 +4498,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Julie"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     146
+    ],
+    [
+     "MATK",
+     20
+    ],
+    [
+     "MRES",
+     5
+    ]
+   ],
+   "awakening": [
+    [
+     "MRES",
+     2
+    ],
+    [
+     "HP%",
+     8
+    ]
+   ]
+  }
  },
  {
   "id": "lydia",
@@ -2420,7 +4552,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Lydia"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     146
+    ],
+    [
+     "ATK",
+     20
+    ],
+    [
+     "DEF",
+     5
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     7
+    ],
+    [
+     "Water DMG",
+     6
+    ]
+   ]
+  }
  },
  {
   "id": "maria",
@@ -2448,7 +4606,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Maria"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     146
+    ],
+    [
+     "MATK",
+     20
+    ],
+    [
+     "MRES",
+     5
+    ]
+   ],
+   "awakening": [
+    [
+     "MATK%",
+     7
+    ],
+    [
+     "Dark DMG",
+     6
+    ]
+   ]
+  }
  },
  {
   "id": "remnunt",
@@ -2476,7 +4660,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Remnunt"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     146
+    ],
+    [
+     "ATK",
+     20
+    ],
+    [
+     "DEF",
+     5
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     7
+    ],
+    [
+     "Water DMG",
+     6
+    ]
+   ]
+  }
  },
  {
   "id": "rigenette",
@@ -2504,7 +4714,33 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Rigenette"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     146
+    ],
+    [
+     "ATK",
+     20
+    ],
+    [
+     "DEF",
+     5
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     7
+    ],
+    [
+     "Wind DMG",
+     6
+    ]
+   ]
+  }
  },
  {
   "id": "wiggle",
@@ -2533,6 +4769,32 @@
   "sources": [
    "https://browndust2.miraheze.org/wiki/Wiggle"
   ],
-  "as_of": "2026-10-01"
+  "as_of": "2026-10-03",
+  "growth": {
+   "engraving": [
+    [
+     "HP",
+     146
+    ],
+    [
+     "ATK",
+     20
+    ],
+    [
+     "DEF",
+     5
+    ]
+   ],
+   "awakening": [
+    [
+     "ATK%",
+     7
+    ],
+    [
+     "Fire DMG",
+     6
+    ]
+   ]
+  }
  }
 ]
