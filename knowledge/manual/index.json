@@ -1,0 +1,17 @@
+{
+  "as_of": "2026-10-05",
+  "note": "中文《BD2 游戏手册》：军师提示词的主知识源。每篇带来源与核对日期；fiend-current.md 随魔兽轮换由维护会话更新。",
+  "files": [
+    { "slug": "battle", "title": "战斗基础" },
+    { "slug": "turn-order", "title": "行动顺序与 SP（口径仲裁）" },
+    { "slug": "elements", "title": "属性与克制" },
+    { "slug": "buffs-debuffs", "title": "增益与减益词条" },
+    { "slug": "fiend-hunt", "title": "公会战/魔兽狩猎机制" },
+    { "slug": "evil-castle", "title": "恶魔塔" },
+    { "slug": "pvp", "title": "PvP：镜像战争与黄金竞技场" },
+    { "slug": "potential", "title": "潜能/重复获取/爆发/羁绊" },
+    { "slug": "gear-growth", "title": "养成：升级/升阶/刻印/觉醒/装备" },
+    { "slug": "economy", "title": "货币与经济" },
+    { "slug": "fiend-current", "title": "当期魔兽对策（会过期）" }
+  ]
+}
