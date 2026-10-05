@@ -1,0 +1,1 @@
+import{d as a,b as t,c as s,q as o,t as n,_ as l}from"./index-Dgu8ufaA.js";const c=["title"],i=a({__name:"PotentialBadge",props:{value:{}},setup(e){return(r,d)=>(t(),s("span",{class:o(["pot-badge",{zero:e.value<=0,max:e.value>=5}]),title:`潜能 +${e.value}（0~5）`},"+"+n(e.value),11,c))}}),u=l(i,[["__scopeId","data-v-c708ff77"]]);export{u as P};
